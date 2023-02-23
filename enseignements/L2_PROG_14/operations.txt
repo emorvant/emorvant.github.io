@@ -1,0 +1,115 @@
+SOLDE: 120
+Vrmt, jai gagne au loto, +, 100, 10/11/14
+CB, supermache truc, -, 80, 20/10/13
+Chq, resto miam, -, 33, 02/11/13
+Chq, essence, -, 43, 07/10/13
+Chq, resto miam, -, 33, 12/09/13
+Chq, resto miam, -, 33, 23/11/13
+Chq, resto miam, -, 33, 21/10/13
+Chq, abo internet, -, 29, 21/10/13
+Chq, abo internet, -, 29, 21/11/13
+Chq, abo internet, -, 29, 21/12/13
+Chq, abo internet, -, 29, 22/01/14
+Chq, abo internet, -, 29, 22/02/14
+Chq, abo internet, -, 29, 23/03/14
+Chq, abo internet, -, 29, 21/04/14
+Chq, abo internet, -, 29, 22/05/14
+Chq, abo internet, -, 29, 21/06/14
+Chq, abo internet, -, 29, 22/07/14
+Chq, abo internet, -, 29, 21/08/14
+Chq, abo internet, -, 29, 20/09/14
+Chq, abo internet, -, 29, 21/10/14
+Chq, abo internet, -, 29, 17/11/14
+CB, cinema monCine, -, 180, 05/11/13
+Chq, garage mon garagequ'ilestbien, -, 20, 02/11/14
+CB, resto truc, -, 80, 05/11/14
+CB, essence, -, 81, 05/10/14
+CB, garage aouch, -, 820, 16/09/14
+CB, abonnement mag, -, 83, 06/08/14
+CB, spa cadetend, -, 84, 06/07/14
+CB, inscription compet, -, 85, 09/06/14
+CB, cinema MonCine3D, -, 16, 07/05/14
+CB, commande internet, -, 87, 05/04/14
+CB, magasin monVetement, -, 88, 03/03/14
+CB, supermache truc, -, 89, 15/02/14
+CB, supermache truc, -, 81, 15/01/14
+CB, supermache truc, -, 82, 15/12/13
+CB, supermache truc, -, 83, 15/11/13
+CB, supermache truc, -, 84, 25/10/14
+CB, supermache truc, -, 85, 25/10/14
+CB, supermache truc, -, 86, 25/11/14
+CB, supermache truc, -, 181, 05/10/14
+CB, supermache truc, -, 182, 15/09/14
+CB, supermache truc, -, 183, 05/08/14
+CB, supermache truc, -, 184, 05/07/14
+CB, supermache truc, -, 185, 05/06/14
+CB, supermache truc, -, 186, 25/05/14
+CB, supermache truc, -, 187, 05/04/14
+CB, supermache truc, -, 188, 03/03/14
+CB, supermache truc, -, 189, 05/02/14
+CB, supermache truc, -, 181, 11/01/14
+CB, supermache truc, -, 182, 12/12/13
+CB, supermache truc, -, 183, 01/11/13
+CB, supermache truc, -, 184, 30/10/14
+CB, supermache truc, -, 185, 01/10/14
+CB, supermache truc, -, 186, 05/11/14
+Retrait, cadeau anniversaire, -, 20, 04/04/13
+Retrait, cadeau noel, -, 130, 10/11/14
+Retrait, argent de poche, -, 5, 10/11/14
+Retrait, inscription kung-fu, -, 75, 01/11/14
+Retrait, medecin monDoc, -, 1000, 10/11/14
+Retrait, achat aquarium, -, 98, 10/11/14
+Retrait, vacances, -, 765, 12/03/14
+Retrait, cadeau noel, -, 96, 20/11/13
+Retrait, cadeau noel, -, 123, 11/02/14
+Retrait, cinema monCine, -, 14, 03/01/14
+Retrait, cadeau anniv, -, 456, 17/04/14
+Retrait, essence , -, 79, 11/11/14
+Retrait, cadeau noel, -, 100, 04/11/14
+Retrait, cadeau noel, -, 23, 22/10/14
+Retrait, essence, -, 68, 10/11/13
+Retrait, cadeau noel, -, 10, 10/11/14
+Vrmt, paie employeur, +, 1500, 10/01/13
+Vrmt, paie employeur, +, 1200, 10/02/13
+Vrmt, paie employeur, +, 1200, 10/03/13
+Vrmt, paie employeur, +, 1200, 10/04/13
+Vrmt, paie employeur, +, 1200, 10/05/13
+Vrmt, paie employeur, +, 1200, 10/06/13
+Vrmt, paie employeur, +, 1200, 10/07/13
+Vrmt, paie employeur, +, 1200, 10/08/13
+Vrmt, paie employeur, +, 1200, 10/09/13
+Vrmt, paie employeur, +, 1200, 10/10/13
+Vrmt, paie employeur, +, 1200, 10/11/13
+Vrmt, paie employeur, +, 1200, 10/12/13
+Vrmt, paie employeur, +, 1500, 10/01/14
+Vrmt, paie employeur, +, 1200, 10/02/14
+Vrmt, paie employeur, +, 1200, 10/03/14
+Vrmt, paie employeur, +, 1200, 10/04/14
+Vrmt, paie employeur, +, 1200, 10/05/14
+Vrmt, paie employeur, +, 1200, 10/06/14
+Vrmt, paie employeur, +, 1200, 10/07/14
+Vrmt, paie employeur, +, 1200, 10/08/14
+Vrmt, paie employeur, +, 1200, 10/09/14
+Vrmt, paie employeur, +, 1200, 10/10/14
+Vrmt, paie employeur, +, 1200, 10/11/14
+Vrmt, remboursement, +, 400, 09/10/14
+Vrmt, prime noel, +, 500, 02/11/13
+Vrmt, prime noel, +, 500, 02/11/14
+Vrmt, prime, +, 200, 10/06/13
+Vrmt, prime, +, 200, 10/06/14
+Chq, loyer, -, 587, 17/11/14
+CB, loyer, -, 587, 17/10/14
+Chq, loyer, -, 587, 17/09/14
+Retrait, loyer, -, 587, 17/08/14
+Chq, loyer, -, 587, 17/07/14
+CB, loyer, -, 587, 17/06/14
+CB, loyer, -, 587, 17/05/14
+Retrait, loyer, -, 587, 17/04/14
+Retrait, loyer, -, 587, 17/03/14
+Chq, loyer, -, 587, 17/02/14
+Chq, loyer, -, 587, 17/01/14
+Retrait, loyer, -, 580, 17/12/13
+Chq, loyer, -, 580, 17/11/13
+Chq, loyer, -, 580, 17/10/13
+CB, kdo nowel, -, 20, 12/11/14
+

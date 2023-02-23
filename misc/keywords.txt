@@ -1,0 +1,18 @@
+PAC-Bayesian Theorems Domain Adaptation Specialization Linear Classifiers
+Domain Adaptation  Weighted Majority Votes  Perturbed Variation-Based Self-Labeling
+Learning Priori Constrained Weighted Majority Votes
+Parsimonious Unsupervised  Semi-Supervised Domain Adaptation Good Similarity Functions
+Multilabel Structured Output Learning Random Spanning Trees  Max-Margin Markov Networks
+PAC-Bayesian Approach  Domain Adaptation Specialization Linear Classifiers
+ Multi-Task Learning View  Multimodal Data
+PAC-Bayesian Generalization Bound Confusion Matrix  Multi-Class Classification
+Sparse Domain Adaptation Projection Spaces based Good Similarity Functions
+Majority Vote  Diverse Classifiers Late Fusion
+Usefulness  Similarity Based Projection Spaces  Transfer Learning
+ Semantic Indexing Light Similarity Functions-based Domain Adaptation Stacking
+Generalizing C-Bound Multiclass  Multi-label Settings
+ Improvement Domain Adaptation Bound PAC-Bayesian context
+Domain Adaptation  Majority Votes  Perturbed Variation-based Label transfer
+PAC-Bayesian Learning  Domain Adaptation
+Sparse Domain Adaptation Good Similarity-Based Projection Space
+Flexible Domain Adaptation  Multimedia Indexing 
