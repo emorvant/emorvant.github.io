@@ -1,0 +1,132 @@
+body {
+  background-color: #ffffff;
+  color: #000000;
+  font-family: Verdana, Arial;
+  font-size: 14px;
+  margin-left: 5%;
+}
+
+a {
+  color: #9F0000; 
+  text-decoration: none;
+}
+
+
+rouge {
+  color: #9F0000; 
+}
+
+r {
+  color: #9F0000; 
+}
+
+
+
+titre {
+  font-weight: bold;
+  color: #9F0000; 
+}
+titre_talks {
+  font-weight: bold;
+}
+
+
+#header {
+  width: 90%;
+}
+
+
+
+
+#photo {
+  float: left;
+  padding: 3px;
+  border: none;
+}
+
+#desc {
+  float: left;
+  padding-left: 10px;
+  padding-right: 20px;
+  border: none;
+}
+
+
+#news {
+  border: 2px solid  #9F0000; 
+  float: left;
+  padding-left: 10px;
+  padding-right: 10px;
+  line-height:90%
+
+
+}
+
+
+#content {
+  width: 90%;
+  clear: both;
+}
+
+
+/* #bio_twitter { */
+/*   width: 90%; */
+/* } */
+
+
+/* #bio_div{ */
+/*   border : none; */
+/*   float: left; */
+/*   padding-left: 10px; */
+/*   padding-right: 10px; */
+/* } */
+
+
+/* #twitter{ */
+/*   border : none; */
+/*   float: left; */
+/*   padding-left: 10px; */
+/*   padding-right: 10px; */
+/* } */
+
+
+h2 {
+  font-size: 20px;
+}
+
+
+h4 {
+  font-size: 20px;
+}
+
+h3 {
+  font-size: 16px;
+}
+
+hr {
+  clear:both;
+  float: left;
+  width: 100%;
+  color: #9F0000; 
+  background-color: #9F0000; 
+}
+
+p {
+  text-align: justify;
+}
+
+li {
+  text-align: justify;
+}
+
+img.centered {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+li
+{
+margin-left:-10px
+}
