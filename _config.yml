@@ -1,10 +1,7 @@
 ### your site title here
 
 title: Emilie Morvant
-description: |-2
-  Associate Professor (Maître de Conférences, HDR)
-  Université Jean Monnet St-Etienne, Laboratoire Hubert Curien, UMR CNRS 5516
-  Data Intelligence Team
+description: "Associate Professor (Maître de Conférences, HDR)"
 
 baseurl: / #name of GitHub repository
 url: "https://emorvant.github.io" #custom url to be used instead of GitHub repository
