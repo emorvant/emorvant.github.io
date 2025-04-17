@@ -1,11 +1,11 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Emilie Morvant
+description: Associate Professor (Maître de Conférence, HDR) | Université Jean Monnet St-Etienne, Laboratoire Hubert Curien, UMR CNRS 5516 | Data Intelligence Team
 
-baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
-email: #
+baseurl: / #name of GitHub repository
+url: "https://emorvant.github.io" #custom url to be used instead of GitHub repository
+email: "emilie.morvant@univ-st-etienne.fr" #
 
 # Pagination
 paginate: 4
@@ -13,15 +13,15 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
-bluesky: "#"
+linkedin: "#emilie-morvant-21508823"
+#stackoverflow: "#"
+github: "#emorvant"
+#researchgate: "#"
+orcid: "#0000-0002-8301-7240"
+#quora: "#"
+instagram: "#emiliemorvant"
+facebook: "#emilieMKF"
+#bluesky: "#"
 
 # Markdown
 highlighter: rouge
