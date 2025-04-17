@@ -2,9 +2,7 @@
 layout: default
 ---
 
-([My DBLP webpage](https://dblp.org/pid/94/10288.html){:target="_blank"} - [My Google Scholar webpage](http://scholar.google.com/citations?user=4dzYdBsAAAAJ&hl=fr){:target="_blank"})
-
-**• [HDR and Ph.D. Thesis](#phd) • [Book](#book) • [International Journals](#journal) • [International Conferences](#conf) • [International Workshops](#workshops) • [French Conferences](#fr_conf) • [Reports](#rapport) • [Misc.](#autre) •**
+[My DBLP webpage](https://dblp.org/pid/94/10288.html){:target="_blank"} - [My Google Scholar webpage](http://scholar.google.com/citations?user=4dzYdBsAAAAJ&hl=fr){:target="_blank"}
 
 ### HDR (in french)
 - **Avancées en théorie PAC-Bayésienne : de bornes en généralisation à des algorithmes d'apprentissage supervisé et de transfert**
@@ -144,4 +142,74 @@ layout: default
   [pdf](https://hal.archives-ouvertes.fr/hal-00822685/document) [bibtex](https://hal.archives-ouvertes.fr/hal-00822685/bibtex) [video](http://techtalks.tv/talks/a-pac-bayesian-approach-for-domain-adaptation-with-specialization-to-linear-classifiers/58304/) [PBDA code](https://github.com/pgermain)
 
 ### International Workshops
+
+#### Published
+
+- **Majority Vote of Diverse Classifiers for Late Fusion**  
+  Emilie Morvant ; Amaury Habrard ; Stéphane Ayache  
+  [IAPR Joint International Workshops on Statistical Techniques in Pattern Recognition (SPR) and Structural and Syntactic Pattern Recognition (SSPR)](http://cs.uef.fi/ssspr2014/), **2014**, Joensuu, Finland. pp. 153-162  
+  [pdf](https://hal.archives-ouvertes.fr/hal-00985839/document) [bibtex](https://hal.archives-ouvertes.fr/hal-00985839/bibtex) [research report arXiv:1207.1019](http://arxiv.org/abs/1207.1019)
+
+- **On the Usefulness of Similarity Based Projection Spaces for Transfer Learning**  
+  Emilie Morvant ; Amaury Habrard ; Stéphane Ayache  
+  [First International Workshop on Similarity-Based Pattern Recognition](http://www.dsi.unive.it/~simbad/), **2011**, Venice, Italy. pp. 1-16  
+  Organized by the EU FP7 Project [SIMBAD](http://www.dais.unive.it/~simbad/2011/index.php/pages/home)  
+  [pdf](https://hal.archives-ouvertes.fr/hal-00628991/document) [bibtex](https://hal.archives-ouvertes.fr/hal-00628991/bibtex) [video](https://www.youtube.com/watch?v=1O3n5Tp1GM4)
+
+#### Benchmarks
+
+- **VideoSense at TRECVID 2011: Semantic Indexing from Light Similarity Functions-based Domain Adaptation with Stacking**  
+  Emilie Morvant; Stéphane Ayache; Amaury Habrard; Miriam Redi; Tanase Claudiu; Bernard Merialdo; Bahjat Safadi; Franck Thollard; Nadia Derbas; Georges Quenot  
+  TRECVID Workshop participants notebook papers, NIST, **2012**  
+  [pdf](https://hal.archives-ouvertes.fr/hal-00685530/document) [bibtex](https://hal.archives-ouvertes.fr/hal-00685530/bibtex)
+
+#### Not Published
+
+- **Interpreting Neural Networks as Majority Votes through the PAC-Bayesian Theory**  
+  Paul Viallard ; Rémi Emonet ; Pascal Germain ; Amaury Habrard ; Emilie Morvant  
+  NeurIPS **2019** Workshop on [Machine Learning with guarantees](https://sites.google.com/view/mlwithguarantees), Vancouver, Canada.  
+  [pdf](https://drive.google.com/file/d/1hc66gKlyotowhK_4__DCaNemvMR1DXWN/view)
+
+- **A New PAC-Bayesian View of Domain Adaptation**  
+  Pascal Germain ; François Laviolette ; Amaury Habrard ; Emilie Morvant  
+  NIPS **2015** Workshop on [Transfer and Multi-Task Learning: Trends and New Perspectives](https://sites.google.com/site/tlworkshop2015/), Montréal, Canada.  
+  [research report arXiv:1506.04573](http://arxiv.org/abs/1506.04573) [DALC code](https://github.com/GRAAL-Research/domain_adaptation_of_linear_classifiers)  
+  *Finalized version published at [ICML'16](#dalc) [bibtex](https://hal.archives-ouvertes.fr/hal-01307045/bibtex)*
+
+- **On Generalizing the C-Bound to the Multiclass and Multi-label Settings**  
+  François Laviolette ; Emilie Morvant ; Liva Ralaivola ; Jean-Francis Roy  
+  NIPS **2014** Workshop on [Representation and Learning Methods for Complex Outputs](https://sites.google.com/site/complexoutputs2014/), Montréal, Canada.  
+  [pdf](https://hal.archives-ouvertes.fr/hal-01093560/document) [research report arXiv:1408.1336](http://arxiv.org/abs/1408.1336)
+
+- **An Improvement to the Domain Adaptation Bound in a PAC-Bayesian context**  
+  Pascal Germain ; François Laviolette ; Amaury Habrard ; Emilie Morvant  
+  NIPS **2014** Workshop on [Transfer and Multi-task learning: Theory Meets Practice](https://sites.google.com/site/multitaskwsnips2014/), Montréal, Canada.  
+  [pdf](https://hal.archives-ouvertes.fr/hal-01093565/document) [research report arXiv:1503.06944](http://arxiv.org/abs/1503.06944)
+
+- **Domain Adaptation of Majority Votes via Perturbed Variation-based Label transfer**  
+  Emilie Morvant  
+  NIPS **2013** Workshop [New Directions in Transfer and Multi-Task: Learning Across Domains and Tasks](https://sites.google.com/site/learningacross/hom), Lake Tahoe, Nevada, United States.  
+  [pdf](https://hal.archives-ouvertes.fr/hal-00906188/document)  
+  *Finalized version published in [PRL](#PRL15) [bibtex](https://hal.archives-ouvertes.fr/hal-01056599/bibtex)*
+
+- **PAC-Bayesian Approach for Domain Adaptation with Specialization to Linear Classifiers**  
+  Emilie Morvant (Pascal Germain ; Amaury Habrard ; François Laviolette)  
+  [Women in Machine Learning](http://wimlworkshop.org/) workshop (WiML **2013**), Lake Tahoe, Nevada, United States.  
+  *Presentation of our ICML'13 [paper](#pbda)*
+
+- **PAC-Bayesian Learning and Domain Adaptation**  
+  Pascal Germain ; Amaury Habrard ; François Laviolette ; Emilie Morvant  
+  NIPS **2012** Workshop [Multi-trade-off in Machine Learning](https://sites.google.com/site/multitradeoffs2012/), Lake Tahoe, Nevada, United States.  
+  [pdf](http://hal.archives-ouvertes.fr/docs/00/74/93/66/PDF/dapacbayes.pdf) [poster](00/74/93/66/ANNEX/poster_DAPACBAYES.pdf)  
+  *Finalized version published at [ICML'13](#pbda) [bibtex](https://hal.archives-ouvertes.fr/hal-00822685/bibtex) [video](https://www.youtube.com/watch?v=cLPcWLxpASg)*
+
+- **Generalization of the C-bound to Multiclass Setting**  
+  Emilie Morvant (François Laviolette ; Liva Ralaivola ; Jean-Francis Roy)  
+  [Women in Machine Learning](http://wimlworkshop.org/) workshop (WiML **2012**), Lake Tahoe, Nevada, United States.
+
+- **Sparse Domain Adaptation in a Good Similarity-Based Projection Space**  
+  Emilie Morvant ; Amaury Habrard ; Stéphane Ayache  
+  NIPS **2011** [Domain Adaptation Workshop](https://sites.google.com/site/nips2011domainadap/), Sierra Nevada, Spain.  
+  [pdf](https://hal.archives-ouvertes.fr/hal-00654227/document) [poster](http://hal.archives-ouvertes.fr/docs/00/65/42/27/ANNEX/poster_DASF_NIPS.pdf)  
+  *Finalized version published at [ICDM'11](#pbda) [bibtex](https://hal.archives-ouvertes.fr/hal-00654227/bibtex)*
 
