@@ -88,3 +88,14 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 - 2018 : Anil Goyal, St-Etienne/Grenoble (co-supervisor)
 
 
+# Current teaching
+*Depuis Juillet 2015, je suis la responsable de la 2ème année de la licence d'informatique.*\ 
+*Depuis Juillet 2024, je suis également responsable de la 1ère année de la licence d'informatique*\
+
+Since July 2015, I am in charge of the 2nd year of BSc in Computer Science.\
+Since July 2024, I am also in charge of the 1st> year of BSc in Computer Science. \ 
+
+- L1 Info - Programmation fonctionnelle - Ocaml<br />
+- L2 Info - Systèmes d'exploitation<br />
+- L2 Info - Programmation impérative - C (classique et spécifique alternants)
+
