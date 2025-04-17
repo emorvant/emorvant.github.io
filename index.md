@@ -104,5 +104,62 @@ Since July 2024, I am also in charge of the 1st year of BSc in Computer Science.
 - L2 Info - Programmation impérative - C (classique et spécifique alternants)
 
 
+# Administration activities
 
+- 2024-now : Responsible of the 1st year of BSc in Computer Science</li>
+- 2021-2022: Member of <a href="https://cnu27.univ-lille.fr" target="_blank">CNU 27</a> (French Council of Universities for Computer Science)
+- 2019: Board Member of the machine learning and artificial intelligence (<a href="https://www.sfds.asso.fr/fr/malia_machine_learning_et_intelligence_artificielle/459-groupe_malia/" target="_blank">MALIA</a>) group of the French association on Statistics (SFdS)
+- 2018: "Founding member" of the MALIA group<
+- 2017-2020: Vice-President (and founding member) of the <a href="http://www.ssfam.org" target="_blank">French Association on Machine Learning</a> (SSFAM)
+- 2015-now: Responsible of the 2nd year of BSc in Computer Science
+- 2015-now: Member of the board of the Hubert Curien Laboratory 
+
+# Member of Organization Committees
+- 2022: Publicity chair of <a href="https://2022.ecmlpkdd.org" target="_blank">ECML-PKDD 2022</a>
+- 2019: Demonstration co-chair at <a href="http://ecmlpkdd2019.org" target="_blank">ECML-PKDD 2019</a> 
+- Oct. 2015: Member of the local team of <a href="http://ida2015.univ-st-etienne.fr" target="_blank">IDA 2015</a> (International Symposium on Intelligent Data Analysis)
+- Sept. 14: Organization of the international workshop on <b>LEarning with Multiple views: Applications to computer vision and multimedia</b> (in conjunction with ECML-PKDD 2014), with S. Ayache, M. Cord, and F.-X. Dupé
+- May 14: Organization of the annual conference of the <b>Austrian Association for Pattern Recognition</b> (<a href="http://ist.ac.at/oagm2014/welcome/" target ="_blank">ÖAGM 2014</a>), with <a href="http://pub.ist.ac.at/~vnk/" target="_blank">V. Kolomogorov</a>, <a href="http://pub.ist.ac.at/~chl/" target="_blank">C. H. Lampert</a>, and <a href="http://pub.ist.ac.at/~takhanov/" target="_blank">R. Takhanov</a>.
+
+# Member of Program Committees/Reviewer
+- 2025 : CAp 2025, NeurIPS 2025
+- 2022: <a href="https://2022.ecmlpkdd.org/" target="_blank">ECML-PKDD 2022</a> (as area chair), <a href="https://icml.cc/Conferences/2022" target="_blank">ICML 2022</a>, CAp 2022
+- 2021: <a href="https://icml.cc/Conferences/2021" target="_blank">ICML 2021</a>, CAp 2021
+- 2020: <a href="https://icml.cc/Conferences/2020" target="_blank">ICML 2020</a>, <a href="https://ida2020.org/" target="_blank">IDA 2020</a>, CAp 2020
+- 2019: <a href="https://icml.cc/Conferences/2019" target="_blank">ICML 2019</a>,  <a href="http://ecmlpkdd2019.org/" target="_blank">ECML-PKDD 2019</a>, <a href="https://www.irit.fr/pfia2019/cap/" target ="_blank">CAp 2019</a></li>
+- 2018: <a href="http://icml.cc/2018/" target="_blank">ICML 2018</a>, <a href="http://cap2018.litislab.fr/" target ="_blank">CAp 2018</a>
+- 2017: <a href="http://www.aistats.org/" tarbet="_blank">AISTATS 2017</a>, <a href="http://icml.cc/2017/" target="_blank">ICML 2017</a>, <a href="https://nips.cc/Conferences/2017" target="_blank">NIPS 2017</a>
+- 2016: <a href="http://icml.cc/2016/" target="_blank">ICML 2016</a>, <a href="https://nips.cc/Conferences/2016" target="_blank">NIPS 2016</a>, <a href="http://smileclinic.alwaysdata.net/ijcai16workshop/" target="_blank">BeyondLabeler</a>,  <a href="http://cap16.lif.univ-mrs.fr/" target="_blank">CAp 2016</a>, <a href="http://adas.cvc.uab.es/task-cv2016/" target="_blank">TASK-CV 2016</a>
+- 2015: <a href="http://icml.cc/2015/" target="_blank">ICML 2015</a>, <a href="http://adas.cvc.uab.es/task-cv2015/" target="_blank">TASK-CV 2015</a>
+- 2014: <a href="http://www.icpram.org/?y=2014" target="_blank">ICPRAM 2014</a>, <a href="http://www.ecai2014.org" target="_blank">ECAI 2014</a>, <a href="http://eccv2014.org" target="_blank">ECCV 2014</a>, <a href="http://www.cvc.uab.es/adas/task-cv2014/" target="_blank">TASK-CV 2014</a>
+- 2013: <a href="http://pfia2013.univ-lille1.fr/doku.php%3Fid=fr:cap.html" target="_blank">CAp 2013</a>
+- Journals: <a href="http://www.jmlr.org/" target="_blank">JMLR</a>, <a href="https://www.computer.org/web/tpami" target="_blank">TPAMI</a>, <a href="http://www.journals.elsevier.com/pattern-recognition-letters" target="_blank">Pattern Recogn. Lett.</a>
+
+# >Invited talks and Seminaries
+- June 19: Journées de Statistique 2019, Nancy, France: <titre>When PAC-Bayesian Majority Vote meets Domain Adaptation</titre>
+- June 18: "Les Universitaires retournent à l'École", Lycée Étienne Mimard, Saint-Etienne, France: <titre>Apprentissage Automatique et Adaptation de Domaine</titre>
+- Feb. 18: MODAL Seminars, INRIA Lille, France: <titre>When PAC-Bayesian Majority Vote Meets Transfer Learning</titre> [<a href="https://modal.lille.inria.fr/wikimodal/lib/exe/fetch.php?media=modal_20180220_morvant.pdf" target="_blank">slides</a>]
+- Jan. 18: Visit of "Université pour tous" at LaHC, Univ. of Saint-Etienne, France: <titre>Presentation of the Data Intelligence Group<titre> and <titre>What is Domain Adaptation?</titre>
+- Jan. 16: Visit of students at LaHC, Univ. of Saint-Etienne, France: <titre>What is Domain Adaptation? A popularization</titre> 
+- Jan. 16: ANR project LIVES workshop, Aix*Marseille Univ., France: <titre>PAC-Bayesian Majority Vote & Domain Adaptation</titre>
+- Feb. 15:  Machine Learning Seminars LaHC, Univ. of Saint-Étienne, France: <titre>Multilabel Structured Output Learning with A Random Sample of Spanning Trees</titre>
+- May 14: AMA Seminars, LIG, Grenoble, France: <titre>When PAC-Bayes meets Domain Adaptation</titre>
+- Feb. 14: Machine Learning Seminars LaHC, Univ. of Saint-Étienne, France: <titre>Domain Adaptation of Majority Votes via Perturbed Variation-based Label transfer</titre>
+- Dec. 13: Signal Processing - Machine Learning Seminars LATP/LIF, Aix-Marseille Univ., France: <titre>Domain Adaptation of Majority Votes via Perturbed Variation-based Label transfer</titre>
+- Lampada Workshop, Porquerolles, France: <titre>A PAC-Bayesian Approach for Domain Adaptation</titre> 
+- April 13: IST Austria, Klosterneuburg, Austria: <titre>Combining Similarities or Classifiers for Domain Adaptation</titre>
+- March 13: Xerox Research Center Europe, Grenoble, France: <titre>Combining Similarities or Classifiers for Domain Adaptation</titre>
+- Nov. 12: Signal Processing - Machine Learning Seminars LATP/LIF, Aix-Marseille Univ., France: <titre>A Well-founded PAC-Bayesian Majority Vote applied to the Nearest Neighbor Rule</titre>
+- Aug. 12: GRAAL Seminars, Univ. Laval, Québec, Canada: <titre> Unsupervised and Semi-supervised Domain Adaptation with Good Similarity Functions</titre>
+- June 12: Lampada Workshop, Lille, France: <titre> PAC-Bayes Bound and Multiclass Classification</titre>
+- April 12: VideoSense Meeting, Grenoble, France: <titre>From PAC-Bayesian MinCq to Late Classifier Fusion</titre>
+- March 12: HIIT (Helsinki Institute for Information Technology) Seminars, Espoo, Finland: <titre>A General Framework for Domain Adaptation in a Good Similarity-Based Projection Space</titre>
+- Sept. 11: Signal Processing - Machine Learning Seminars LATP/LIF, Aix-Marseille Univ., France: <titre>Sparse Domain Adaptation in Projection Space based on Good Similarity Function</titre>
+- June 11: Lampada Workshop, Saint-Victor sur Loire, France: <titre> Domain Adaptation with Good Similarity Functions</titre>
+- Oct. 10: VideoSense Meeting, Sophia-Antipolis, France: <titre> Domain Adaptation Algorithm for Learning Classifier</titre> 
+
+# Spare-Time Activities
+
+- I am a 2nd star black belt in Manchuria Kung Fu, I am also an instructor of Manchuria Kung Fu.  I have been trained by Master Mathieu Derosière.
+- I have been playing video games since I was 4 or 5 years old. I started to play on an <a href="https://en.wikipedia.org/wiki/Amstrad_CPC" target="_blank">Amstrad CPC</a> with a cassette tape deck!
 
