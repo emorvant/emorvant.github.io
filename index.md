@@ -84,7 +84,7 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 - <b>Soroush Seifi</b> --- <i>A PAC-Bayesian Multiview Study</i> (April-June 2016, co-supervised with Pr. <a href="http://perso.univ-st-etienne.fr/habrarda/" target='_blank'>A. Habrard</a> and <a href="http://perso.univ-st-etienne.fr/goa09134/" target="_blank">A. Goyal</a>)<br/>
 
 # PhD Jurys
- <b>2022</b> Luxin Zhang, Lille (external examinator)<br />
- <b>2020</b> Léo Gautheron, St-Etienne (co-supervisor)<br />
- <b>2018</b> Anil Goyal, St-Etienne/Grenoble (co-supervisor)<br /><br />
+- 2022 : Tahar Allouch, Paris (external examinator), Luxin Zhang, Lille (external examinator), Paul Viallard (co-supervisor)- 2020 : Léo Gautheron, St-Etienne (co-supervisor)
+- 2018 : Anil Goyal, St-Etienne/Grenoble (co-supervisor)
+
 
