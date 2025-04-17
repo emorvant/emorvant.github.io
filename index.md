@@ -48,7 +48,7 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 
 ### Current Ph.D. Student
 
-- [**Hind Atbir**]() --- *Learning fair and robust kernel-based models with generalization guarantees*  (from October 2024 to ... , co-supervised with R. Eyraud, F. Cherfaoui and P. Viallard)
+- [**Hind Atbir**](https://hatbir.gitlab.io/){:target="_blank"} --- *Learning fair and robust kernel-based models with generalization guarantees*  (from October 2024 to ... , co-supervised with R. Eyraud, F. Cherfaoui and P. Viallard)
 
 - [**Julien Bastian**] --- *Multiview Fair Learning - From Theory to Algorithms*  (from October 2024 to ... , co-supervised with C. Largeron and G. Metzler)
 
