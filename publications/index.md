@@ -4,7 +4,7 @@ layout: default
 
 [My DBLP webpage](https://dblp.org/pid/94/10288.html){:target="_blank"} - [My Google Scholar webpage](http://scholar.google.com/citations?user=4dzYdBsAAAAJ&hl=fr){:target="_blank"}
 
-### HDR (in french)
+### HDR (in french, Habilitation à Diriger )
 
 - **Avancées en théorie PAC-Bayésienne : de bornes en généralisation à des algorithmes d'apprentissage supervisé et de transfert**\
  *Advances in PAC-Bayesian theory from generalization bounds to supervised and transfer learning algorithms*\
