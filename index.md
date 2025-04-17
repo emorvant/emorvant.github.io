@@ -50,7 +50,7 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 
 - [**Hind Atbir**](https://hatbir.gitlab.io/){:target="_blank"} --- *Learning fair and robust kernel-based models with generalization guarantees*  (from October 2024 to ... , co-supervised with R. Eyraud, F. Cherfaoui and P. Viallard)
 
-- [**Julien Bastian**] --- *Multiview Fair Learning - From Theory to Algorithms*  (from October 2024 to ... , co-supervised with C. Largeron and G. Metzler)
+- [**Julien Bastian**]() --- *Multiview Fair Learning - From Theory to Algorithms*  (from October 2024 to ... , co-supervised with C. Largeron and G. Metzler)
 
 ### Former Ph.D. Students
 
@@ -58,7 +58,7 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 
 - <a href="https://leogautheron.github.io/" target="_blank">**Léo Gautheron**</a> --- Learning Tailored Data Representations from Few Labeled Examples (from October 2017 to December 2020, co-supervised with Pr. <a href="http://perso.univ-st-etienne.fr/habrarda/" target="_blank">A. Habrard</a> and Pr. <a href="http://perso.univ-st-etienne.fr/sebbanma/" target="_blank">M. Sebban</a>) --- Now Data Science Engineer at Synapse Défense
 
-- <a href="https://www.linkedin.com/in/anilgoyal91" target="_blank">**Anil Goyal**</a>< --- Learning a Multiview Weighted Majority Vote Classifier: Using PAC-Bayesian Theory and Boosting  (from November 2015 to October 2018, co-supervised with Pr. <a href="http://ama.liglab.fr/~amini/" target="_blank">Massih-Reza Amini</a>) --- Now Principal Data Scientist at Mastercard 
+- <a href="https://www.linkedin.com/in/anilgoyal91" target="_blank">**Anil Goyal**</a> --- Learning a Multiview Weighted Majority Vote Classifier: Using PAC-Bayesian Theory and Boosting  (from November 2015 to October 2018, co-supervised with Pr. <a href="http://ama.liglab.fr/~amini/" target="_blank">Massih-Reza Amini</a>) --- Now Principal Data Scientist at Mastercard 
 
 ### Former PostDoc 
 - **Marie-Ange Lebre** --- *Deep Learning for detection and classification of microorganism*  (from September 2022 to September 2024, co-supervised with A. Habrard and R. Emonet)
@@ -88,11 +88,11 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 
 
 # Current teaching
-*Depuis Juillet 2015, je suis la responsable de la 2ème année de la licence d'informatique.*\ 
-*Depuis Juillet 2024, je suis également responsable de la 1ère année de la licence d'informatique*\
+*Depuis Juillet 2015, je suis la responsable de la 2ème année de la licence d'informatique.* 
+*Depuis Juillet 2024, je suis également responsable de la 1ère année de la licence d'informatique*
 
-Since July 2015, I am in charge of the 2nd year of BSc in Computer Science.\
-Since July 2024, I am also in charge of the 1st> year of BSc in Computer Science. \ 
+Since July 2015, I am in charge of the 2nd year of BSc in Computer Science.
+Since July 2024, I am also in charge of the 1st year of BSc in Computer Science. 
 
 - L1 Info - Programmation fonctionnelle - Ocaml
 - L2 Info - Systèmes d'exploitation
