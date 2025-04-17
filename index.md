@@ -14,3 +14,17 @@ I work at [Hubert Curien Laboratory](http://laboratoirehubertcurien.fr){:target=
 
 I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d'Informatique Fondamentale](https://www.lis-lab.fr){:target='_blank'} (now LIS) of Marseille in the [Qarma team](https://qarma.lis-lab.fr){:target="_blank"}, under the direction of [Amaury Habrard](https://perso.univ-st-etienne.fr/habrarda/){:target='_blank'} and [Stéphane Ayache](https://stephane-ayache.pedaweb.univ-amu.fr/wordpress/){:target='_blank'}. The main objective of my thesis was to study the learning of majority vote for supervised classification and domain adaptation. This work was supported by the ANR project VideoSense. I was also a member of PASCAL2 Network of Excellence.
 
+
+# Research Interests
+
+**Statistical Machine Learning**
+- PAC-Bayesian bounds and algorithms
+- Transfer learning, domain adaptation
+- Supervised learning
+- Robustness and adversarial learning
+- Fairness and biais in ML
+- Representation learning
+- Similarity and metric learning
+- Multiview learning
+- Imbalanced data 
+
