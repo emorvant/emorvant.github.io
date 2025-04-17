@@ -9,7 +9,9 @@ published: true
 
 # About me
 
-Since October 2014, I am an associate professor (maître de conférences, HDR) at [University Jean Monnet](https://portail.univ-st-etienne.fr){:target="_blank"} of Saint-Etienne (France).
+[CV (in french)](CV/CV_MORVANT.pdf)
+
+Since October 2014, I am an associate professor (maître de conférences, [HDR](/_posts/2025-04-07-HDR.md)) at [University Jean Monnet](https://portail.univ-st-etienne.fr){:target="_blank"} of Saint-Etienne (France).
 I work at [Hubert Curien Laboratory](http://laboratoirehubertcurien.fr){:target="_blank"} in the [Data Intelligence team](https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/data-intelligence.html){:target="_blank"}. I am in charge of the 2nd year of BSc in Computer Science since July 2015 and of the 1st year since 2024. From October 2013 to September 2014, I was a postdoctoral researcher at [ISTA](https://ist.ac.at/){:target="_blank"} (Institute of Science and Technology Austria) in the [Christoph Lampert group](http://pub.ist.ac.at/~chl/){:target="_blank"} (Computer Vision and Machine Learning).
 
 I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d'Informatique Fondamentale](https://www.lis-lab.fr){:target='_blank'} (now LIS) of Marseille in the [Qarma team](https://qarma.lis-lab.fr){:target="_blank"}, under the direction of [Amaury Habrard](https://perso.univ-st-etienne.fr/habrarda/){:target='_blank'} and [Stéphane Ayache](https://stephane-ayache.pedaweb.univ-amu.fr/wordpress/){:target='_blank'}. The main objective of my thesis was to study the learning of majority vote for supervised classification and domain adaptation. This work was supported by the ANR project VideoSense. I was also a member of PASCAL2 Network of Excellence.
@@ -65,15 +67,15 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 
 ### Interns
 - **Baptiste Mathevon** --- *PAC-Bayes and Multi-Armed Bandits* (April-July 2025, co-supervised with P. Viallard)
-- **Julien Bastian** --- *Fairness and domain generalization* (Mar-Aug 2024, co-supervised with G. Metzler)<br />
-- **Hind Atbir** --- <i>PAC-Bayesian Fair Learning</i> (Feb-July 2024, co-supervised with F. Cherfaoui, G. Metzler and P. Viallard)
-- <b>Mickaël Gault</b> --- <i>Learning fair kernel classifier under constraints</i> (Mar-July 2024, co-supervised with G. Metzler)
+- **Julien Bastian** --- *Fairness and domain generalization* (Mar-Aug 2024, co-supervised with G. Metzler)
+- **Hind Atbir** --- *PAC-Bayesian Fair Learning* (Feb-July 2024, co-supervised with F. Cherfaoui, G. Metzler and P. Viallard)
+- **Mickaël Gault** --- <i>Learning fair kernel classifier under constraints</i> (Mar-July 2024, co-supervised with G. Metzler)
 - <b>Julien Bastian</b> --- <i>Random Fourier Features, PAC-Bayes and Domain Adaptation</i> (Mar-July 2023, co-supervised with G. Metzler)
 - <b>Alexiane Fraisse</b> --- <i>Random Fourier Features and Domain Adaptation</i> (Apr-July 2022, co-supervised with G. Metzler and P. Viallard)
 - <b>Luiza Dzhidzhavadze</b> --- <i>A Multiclass C-Bound-Based Algorithm</i> (Apr-June 2021, co-supervised with P. Viallard)
 - <b>Himanshu Pandey</b> --- <i>A Multiclass C-Bound-Based Algorithm</i> (Apr-June 2021, co-supervised with P. Viallard)
 - <b>Paul Viallard</b> --- <i>Deep Learning and PAC-Bayes</i>  (Feb-June 2019, co-supervised with A. Habrard and R. Emonet)
-- <b>Omar El-Sabrout</b>  --- <i>Active Learning for PAC-Bayesian Domain Adaptation</i> (Mid-April Mid-July 2018) <br />
+- <b>Omar El-Sabrout</b>  --- <i>Active Learning for PAC-Bayesian Domain Adaptation</i> (Mid-April Mid-July 2018) 
 - <b>Loujain Liekah</b> --- <i>Experts Combination</i> (April-June 2018, co-supervised with Dr. M. Soare)
 - <b>Luc Giffon</b> --- <i>Efficient anomaly detection in data stream</i> (Feb-June 2017, co-supervised with Dr. A. Bonnefoy and Dr. T. Peel)
 - <b>Arunava Maulik</b> --- (April-June 2017, co-supervised with Pr. A. Habrard and Dr. M. Soare)
@@ -83,11 +85,14 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 - <b>Soroush Seifi</b> --- <i>A PAC-Bayesian Multiview Study</i> (April-June 2016, co-supervised with Pr. A. Habrard and A. Goyal)
 
 # PhD Jurys
-- 2022 : Tahar Allouch, Paris (external examinator), Luxin Zhang, Lille (external examinator), Paul Viallard (co-supervisor)- 2020 : Léo Gautheron, St-Etienne (co-supervisor)
+
+- 2022 : Tahar Allouch, Paris (external examinator), Luxin Zhang, Lille (external examinator), Paul Viallard (co-supervisor)
+- 2020 : Léo Gautheron, St-Etienne (co-supervisor)
 - 2018 : Anil Goyal, St-Etienne/Grenoble (co-supervisor)
 
 
-# Current teaching
+# Current Teaching
+
 *Depuis Juillet 2015, je suis la responsable de la 2ème année de la licence d'informatique.* 
 *Depuis Juillet 2024, je suis également responsable de la 1ère année de la licence d'informatique*
 
