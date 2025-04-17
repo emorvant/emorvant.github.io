@@ -33,16 +33,16 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 
 # Research Projects
 - ANR project Famous *(local coordinator)* : <titre>Fair multimodal Learning</titre>
-- Projet inter-laboratoire FIL (Fédération Informatique de Lyon) (with <a href="https://guillaumemetzler.github.io" target="_blank">G. Metzler</a>) : <titre>PAC-Bayesian Fair Learning</titre>
-- Projet inter-laboratoire FIL (Fédération Informatique de Lyon) (with <a href="https://guillaumemetzler.github.io" target="_blank">G. Metzler</a>) :	<titre>Random Fourrier Features for PAC-Bayesian Domain Adaptation</titre>
-- ANR project <a href="https://perso.univ-st-etienne.fr/er101405/TAUDoS/" target="_blank">TAUDoS</a> *(member)*:	 <titre>Theory and Algorithms for the Understanding of Deep learning On Sequential data</titre>
-- ANR project <a href="https://project.inria.fr/apriori/" target="_blank">APRIORI</a> **(coordinator)**:  <titre>A Pac-bayesian RepresentatIOn leaRnIng perspective</titre>
-- INS2I-CNRS project JCJC 2018 "PaRaFF" (with <a href="http://www.pascalgermain.info" target="_blank">P. Germain</a>): <titre>PAC-Bayesian Random Fourier Features</titre>
-- ANR project <a href="https://lives.lif.univ-mrs.fr/" target="_blank">LIVES</a> *(member)* : <titre> Learning with Interacting ViEwS</titre>
+- Projet inter-laboratoire FIL (Fédération Informatique de Lyon) (with [Dr. G Metlzer](https://guillaumemetzler.github.io"){:target="_blank"}): <titre>PAC-Bayesian Fair Learning</titre>
+- Projet inter-laboratoire FIL (with [Dr. G Metlzer](https://guillaumemetzler.github.io"){:target="_blank"}) :	<titre>Random Fourrier Features for PAC-Bayesian Domain Adaptation</titre>
+- ANR project [TAUDoS](https://perso.univ-st-etienne.fr/er101405/TAUDoS/){:target="_blank"} *(member)*:	 <titre>Theory and Algorithms for the Understanding of Deep learning On Sequential data</titre>
+- ANR project [APRIORI](https://project.inria.fr/apriori/){:target="_blank"} **(coordinator)**:  <titre>A Pac-bayesian RepresentatIOn leaRnIng perspective</titre>
+- INS2I-CNRS project JCJC 2018 "PaRaFF" (with [Dr. P. Germain](https://www.pascalgermain.info){:target="_blank"}): <titre>PAC-Bayesian Random Fourier Features</titre>
+- ANR project LIVES *(member)* : <titre> Learning with Interacting ViEwS</titre>
 - My postdoc was funded by the ERC grant no308036: <titre>Life-Long Learning for Visual Scene Understanding</titre>
-- I was a member of the <a href='http://www.pascal-network.org/' target='_blank'>PASCAL2</a> Network of excellence
+- I was a member of the PASCAL2 Network of excellence
 - My Ph.D. was funded by VideoSense ANR project: <titre>Rich concepts recognition in multilingual videos, throw pivot languages</titre><br />
-- I regularly participated in <a href='http://lampada.gforge.inria.fr/' target='_blank'>Lampada</a> ANR Project: <titre> Learning Algorithms, Models and sPArse representations for structured DAta</titre>
+- I regularly participated in Lampada ANR Project: <titre> Learning Algorithms, Models and sPArse representations for structured DAta</titre>
 
 # Supervision
 
@@ -58,7 +58,7 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 
 - <a href="https://leogautheron.github.io/" target="_blank">**Léo Gautheron**</a> --- Learning Tailored Data Representations from Few Labeled Examples (from October 2017 to December 2020, co-supervised with Pr. <a href="http://perso.univ-st-etienne.fr/habrarda/" target="_blank">A. Habrard</a> and Pr. <a href="http://perso.univ-st-etienne.fr/sebbanma/" target="_blank">M. Sebban</a>) --- Now Data Science Engineer at Synapse Défense
 
-<b><a href="https://www.linkedin.com/in/anilgoyal91" target="_blank">Anil Goyal</a></b> --- Learning a Multiview Weighted Majority Vote Classifier: Using PAC-Bayesian Theory and Boosting  (from November 2015 to October 2018, co-supervised with Pr. <a href="http://ama.liglab.fr/~amini/" target="_blank">Massih-Reza Amini</a>) --- Now Principal Data Scientist at Mastercard 
+- <a href="https://www.linkedin.com/in/anilgoyal91" target="_blank">**Anil Goyal**</a>< --- Learning a Multiview Weighted Majority Vote Classifier: Using PAC-Bayesian Theory and Boosting  (from November 2015 to October 2018, co-supervised with Pr. <a href="http://ama.liglab.fr/~amini/" target="_blank">Massih-Reza Amini</a>) --- Now Principal Data Scientist at Mastercard 
 
 ### Former PostDoc 
 - **Marie-Ange Lebre** --- *Deep Learning for detection and classification of microorganism*  (from September 2022 to September 2024, co-supervised with A. Habrard and R. Emonet)
@@ -97,4 +97,7 @@ Since July 2024, I am also in charge of the 1st> year of BSc in Computer Science
 - L1 Info - Programmation fonctionnelle - Ocaml
 - L2 Info - Systèmes d'exploitation
 - L2 Info - Programmation impérative - C (classique et spécifique alternants)
+
+
+
 
