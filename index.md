@@ -9,15 +9,10 @@ published: true
 
 WEBSITE IN CONSTRUCTION
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+### About me
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+Since October 2014, I am an associate professor (maître de conférences, HDR) at [University Jean Monnet](https://portail.univ-st-etienne.fr){:target="_blank"} of Saint-Etienne (France).
+I work at [Hubert Curien Laboratory](http://laboratoirehubertcurien.fr){:target="_blank"} in the [Data Intelligence team](https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/data-intelligence.html){:target="_blank"}. I am in charge of the 2<FONT size="1">nd</FONT> year of BSc in Computer Science since July 2015. From October 2013 to September 2014, I was a postdoctoral researcher at [ISTA](https://ist.ac.at/){:target="_blank"} (Institute of Science and Technology Austria) in the [Christoph Lampert group](http://pub.ist.ac.at/~chl/){:target="_blank"} (Computer Vision and Machine Learning).
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d'Informatique Fondamentale](https://www.lis-lab.fr){:target='_blank'} (now LIS) of Marseille in the [Qarma team](https://qarma.lis-lab.fr){:target="_blank"}, under the direction of [Amaury Habrard](https://perso.univ-st-etienne.fr/habrarda/){:target='_blank'} and [Stéphane Ayache](https://stephane-ayache.pedaweb.univ-amu.fr/wordpress/){:target='_blank'}. The main objective of my thesis was to study the learning of majority vote for supervised classification and domain adaptation. This work was supported by the ANR project VideoSense. I was also a member of PASCAL2 Network of Excellence.
 
-PS: If you liked the theme, do star it on GitHub!
-
-### Also, check out:
-
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
