@@ -6,7 +6,7 @@ layout: default
 
 ### HDR (in french, *Habilitation à Diriger de Recherches*)
 
-- **Avancées en théorie PAC-Bayésienne : de bornes en généralisation à des algorithmes d'apprentissage supervisé et de transfert**\
+ **Avancées en théorie PAC-Bayésienne : de bornes en généralisation à des algorithmes d'apprentissage supervisé et de transfert**\
  *Advances in PAC-Bayesian theory from generalization bounds to supervised and transfer learning algorithms*\
  **HDR comittee:** Marianne Clausel (reviewer), Stéphane Chrétien (chair, examiner), Colin De La Higuera (reviewer), Rémi Emonet (examiner), François Jacquenet (tutor), Liva Ralaivola (reviewer)\
  **Defense date:** April 7, 2025\
@@ -14,7 +14,7 @@ layout: default
 
 ### Ph.D. Thesis (in french)
 
-- **Apprentissage de vote de majorité pour la classification supervisée et l’adaptation de domaine**  
+ **Apprentissage de vote de majorité pour la classification supervisée et l’adaptation de domaine**  
   *Learning Majority Vote for Supervised Classification and Domain Adaptation: PAC-Bayesian Approaches and Similarity Combination*  
   **PhD committee:** Stéphane Ayache (co-advisor), Antoine Cornuéjols (chair, examiner), Rémi Gilleron (examiner), Amaury Habrard (advisor), Mario Marchand (reviewer), Liva Ralaivola (examiner), Michèle Sebag (reviewer).  
   **Defense date:** September 18, 2013  
