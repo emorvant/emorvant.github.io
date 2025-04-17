@@ -45,35 +45,42 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 - I regularly participated in <a href='http://lampada.gforge.inria.fr/' target='_blank'>Lampada</a> ANR Project: <titre> Learning Algorithms, Models and sPArse representations for structured DAta</titre>
 
 # Supervision
-## PostDoc 
-- **Marie-Ange Lebre** --- *Deep Learning for detection and classification of microorganism*  (from September 2022 to September 2024, co-supervised with A. Habrard and R. Emonet)
 
-## Current Ph.D. Student
-- **Hind Atbir** --- *Learning fair and robust kernel-based models with generalization guarantees*  (from October 2024 to ... , co-supervised with R. Eyraud, F. Cherfaoui and P. Viallard)
--<b>Julien Bastian</b> --- <i>Multiview Fair Learning - From Theory to Algorithms</i>  (from October 2024 to ... , co-supervised with C. Largeron and G. Metzler)
-##Former Ph.D. Students
-- <a href="https://paulviallard.github.io/" target="_blank">**Paul Viallard**</a></b> --- <i>Beyond PAC-Bayesian Bounds: From Disintegration to Novel Bounds</i>  (from September 2019 to December 2022, co-supervised with A. Habrard and P. Germain) --- Now IFSP Inria Rennes
-- <a href="https://leogautheron.github.io/" target="_blank">**Léo Gautheron**</a> --- Learning Tailored Data Representations from Few Labeled Examples (from October 2017 to December 2020, co-supervised with Pr. <a href="http://perso.univ-st-etienne.fr/habrarda/" target="_blank">A. Habrard</a> and Pr. <a href="http://perso.univ-st-etienne.fr/sebbanma/" target="_blank">M. Sebban</a>) --- Now Data Science Engineer at Synapse Défense<br /><br />
+### Current Ph.D. Student
+
+- [**Hind Atbir**]() --- *Learning fair and robust kernel-based models with generalization guarantees*  (from October 2024 to ... , co-supervised with R. Eyraud, F. Cherfaoui and P. Viallard)
+
+- [**Julien Bastian**] --- *Multiview Fair Learning - From Theory to Algorithms*  (from October 2024 to ... , co-supervised with C. Largeron and G. Metzler)
+
+### Former Ph.D. Students
+
+- <a href="https://paulviallard.github.io/" target="_blank">**Paul Viallard**</a> --- <i>Beyond PAC-Bayesian Bounds: From Disintegration to Novel Bounds</i>  (from September 2019 to December 2022, co-supervised with A. Habrard and P. Germain) --- Now IFSP Inria Rennes
+
+- <a href="https://leogautheron.github.io/" target="_blank">**Léo Gautheron**</a> --- Learning Tailored Data Representations from Few Labeled Examples (from October 2017 to December 2020, co-supervised with Pr. <a href="http://perso.univ-st-etienne.fr/habrarda/" target="_blank">A. Habrard</a> and Pr. <a href="http://perso.univ-st-etienne.fr/sebbanma/" target="_blank">M. Sebban</a>) --- Now Data Science Engineer at Synapse Défense
+
 <b><a href="https://www.linkedin.com/in/anilgoyal91" target="_blank">Anil Goyal</a></b> --- Learning a Multiview Weighted Majority Vote Classifier: Using PAC-Bayesian Theory and Boosting  (from November 2015 to October 2018, co-supervised with Pr. <a href="http://ama.liglab.fr/~amini/" target="_blank">Massih-Reza Amini</a>) --- Now Principal Data Scientist at Mastercard 
 
-## Interns
+### Former PostDoc 
+- **Marie-Ange Lebre** --- *Deep Learning for detection and classification of microorganism*  (from September 2022 to September 2024, co-supervised with A. Habrard and R. Emonet)
+
+### Interns
 - **Baptiste Mathevon** --- *PAC-Bayes and Multi-Armed Bandits* (April-July 2025, co-supervised with P. Viallard)
-- <b>Julien Bastian</b> --- <i>Fairness and domain generalization</i> (Mar-Aug 2024, co-supervised with G. Metzler)<br />
-- <b>Hind Atbir</b> --- <i>PAC-Bayesian Fair Learning</i> (Feb-July 2024, co-supervised with F. Cherfaoui, G. Metzler and P. Viallard)<br />
-- <b>Mickaël Gault</b> --- <i>Learning fair kernel classifier under constraints</i> (Mar-July 2024, co-supervised with G. Metzler)<br />
-- <b>Julien Bastian</b> --- <i>Random Fourier Features, PAC-Bayes and Domain Adaptation</i> (Mar-July 2023, co-supervised with G. Metzler)<br />
-- <b>Alexiane Fraisse</b> --- <i>Random Fourier Features and Domain Adaptation</i> (Apr-July 2022, co-supervised with G. Metzler and P. Viallard)<br />
-- <b>Luiza Dzhidzhavadze</b> --- <i>A Multiclass C-Bound-Based Algorithm</i> (Apr-June 2021, co-supervised with P. Viallard)<br />
-- <b>Himanshu Pandey</b> --- <i>A Multiclass C-Bound-Based Algorithm</i> (Apr-June 2021, co-supervised with P. Viallard)<br />
-- <b>Paul Viallard</b> --- <i>Deep Learning and PAC-Bayes</i>  (Feb-June 2019, co-supervised with A. Habrard and R. Emonet)<br />
+- **Julien Bastian** --- *Fairness and domain generalization* (Mar-Aug 2024, co-supervised with G. Metzler)<br />
+- **Hind Atbir** --- <i>PAC-Bayesian Fair Learning</i> (Feb-July 2024, co-supervised with F. Cherfaoui, G. Metzler and P. Viallard)
+- <b>Mickaël Gault</b> --- <i>Learning fair kernel classifier under constraints</i> (Mar-July 2024, co-supervised with G. Metzler)
+- <b>Julien Bastian</b> --- <i>Random Fourier Features, PAC-Bayes and Domain Adaptation</i> (Mar-July 2023, co-supervised with G. Metzler)
+- <b>Alexiane Fraisse</b> --- <i>Random Fourier Features and Domain Adaptation</i> (Apr-July 2022, co-supervised with G. Metzler and P. Viallard)
+- <b>Luiza Dzhidzhavadze</b> --- <i>A Multiclass C-Bound-Based Algorithm</i> (Apr-June 2021, co-supervised with P. Viallard)
+- <b>Himanshu Pandey</b> --- <i>A Multiclass C-Bound-Based Algorithm</i> (Apr-June 2021, co-supervised with P. Viallard)
+- <b>Paul Viallard</b> --- <i>Deep Learning and PAC-Bayes</i>  (Feb-June 2019, co-supervised with A. Habrard and R. Emonet)
 - <b>Omar El-Sabrout</b>  --- <i>Active Learning for PAC-Bayesian Domain Adaptation</i> (Mid-April Mid-July 2018) <br />
-- <b>Loujain Liekah</b> --- <i>Experts Combination</i> (April-June 2018, co-supervised with Dr. <a href="http://www.univ-orleans.fr/lifo/Members/soare/" target="_blank">M. Soare</a>)<br />
-- <b>Luc Giffon</b> --- <i>Efficient anomaly detection in data stream</i> (Feb-June 2017, co-supervised with Dr. <a href="https://www.linkedin.com/in/antoine-bonnefoy-656b5953/" target="_blank">A. Bonnefoy</a> and Dr. <a href="https://www.linkedin.com/in/peelthomas/" target="_blank">T. Peel</a>)<br/>
-- <b>Arunava Maulik</b> --- (April-June 2017, co-supervised with Pr. <a href="http://perso.univ-st-etienne.fr/habrarda/" target='_blank'>A. Habrard</a> and Dr. <a href="http://www.univ-orleans.fr/lifo/Members/soare/" target="_blank">M. Soare</a>)<br/>
-- <b>Prem Prakash</b> ---  (April-June 2017, co-supervised with Pr. <a href="http://perso.univ-st-etienne.fr/habrarda/" target='_blank'>A. Habrard</a>)<br/>
-- <b>Léo Gautheron</b> --- <i>Improving the bibliometry platform Labmetry</i> (April-June 2016, co-supervised with Pr. <a href="http://perso.univ-st-etienne.fr/sebbanma/" target='_blank'>M. Sebban</a>)<br/>
-- <b>Benjamin Sabot</b> --- <i>Empirical study of the C-bound as stopping criterion for neural networks</i> (April-June 2016, co-supervised with Pr. <a href="http://perso.univ-st-etienne.fr/habrarda/" target='_blank'>A. Habrard</a>, Dr. <a href="http://www.di.ens.fr/~germain/" target="_blank">P. Germain</a> and <a hre="http://perso.univ-st-etienne.fr/fod07375/" target="_blank">D. Fourure</a>)<br/>
-- <b>Soroush Seifi</b> --- <i>A PAC-Bayesian Multiview Study</i> (April-June 2016, co-supervised with Pr. <a href="http://perso.univ-st-etienne.fr/habrarda/" target='_blank'>A. Habrard</a> and <a href="http://perso.univ-st-etienne.fr/goa09134/" target="_blank">A. Goyal</a>)<br/>
+- <b>Loujain Liekah</b> --- <i>Experts Combination</i> (April-June 2018, co-supervised with Dr. M. Soare)
+- <b>Luc Giffon</b> --- <i>Efficient anomaly detection in data stream</i> (Feb-June 2017, co-supervised with Dr. A. Bonnefoy and Dr. T. Peel)
+- <b>Arunava Maulik</b> --- (April-June 2017, co-supervised with Pr. A. Habrard and Dr. M. Soare)
+- <b>Prem Prakash</b> ---  (April-June 2017, co-supervised with Pr. A. Habrard)
+- <b>Léo Gautheron</b> --- <i>Improving the bibliometry platform Labmetry</i> (April-June 2016, co-supervised with Pr. M. Sebban)
+- <b>Benjamin Sabot</b> --- <i>Empirical study of the C-bound as stopping criterion for neural networks</i> (April-June 2016, co-supervised with Pr. A. Habrard, Dr. P. Germain and D. Fourure)
+- <b>Soroush Seifi</b> --- <i>A PAC-Bayesian Multiview Study</i> (April-June 2016, co-supervised with Pr. A. Habrard and A. Goyal)
 
 # PhD Jurys
 - 2022 : Tahar Allouch, Paris (external examinator), Luxin Zhang, Lille (external examinator), Paul Viallard (co-supervisor)- 2020 : Léo Gautheron, St-Etienne (co-supervisor)
@@ -87,7 +94,7 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 Since July 2015, I am in charge of the 2nd year of BSc in Computer Science.\
 Since July 2024, I am also in charge of the 1st> year of BSc in Computer Science. \ 
 
-- L1 Info - Programmation fonctionnelle - Ocaml<br />
-- L2 Info - Systèmes d'exploitation<br />
+- L1 Info - Programmation fonctionnelle - Ocaml
+- L2 Info - Systèmes d'exploitation
 - L2 Info - Programmation impérative - C (classique et spécifique alternants)
 
