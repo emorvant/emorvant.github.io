@@ -5,15 +5,16 @@ layout: default
 [My DBLP webpage](https://dblp.org/pid/94/10288.html){:target="_blank"} - [My Google Scholar webpage](http://scholar.google.com/citations?user=4dzYdBsAAAAJ&hl=fr){:target="_blank"}
 
 ### HDR (in french)
-- **Avancées en théorie PAC-Bayésienne : de bornes en généralisation à des algorithmes d'apprentissage supervisé et de transfert**
- *Advances in PAC-Bayesian theory from generalization bounds to supervised and transfer learning algorithms*
- **HDR comittee:** Marianne Clausel (reviewer), Stéphane Chrétien (chair, examiner), Colin De La Higuera (reviewer), Rémi Emonet (examiner), François Jacquenet (tutor), Liva Ralaivola (reviewer)
- **Defense date:** April 7, 2025   
+
+- **Avancées en théorie PAC-Bayésienne : de bornes en généralisation à des algorithmes d'apprentissage supervisé et de transfert**\
+ *Advances in PAC-Bayesian theory from generalization bounds to supervised and transfer learning algorithms*\
+ **HDR comittee:** Marianne Clausel (reviewer), Stéphane Chrétien (chair, examiner), Colin De La Higuera (reviewer), Rémi Emonet (examiner), François Jacquenet (tutor), Liva Ralaivola (reviewer)\
+ **Defense date:** April 7, 2025\
   [[pdf](misc/hdr_morvant.pdf)] [[bibtex](misc/bibtex_hdr_morvant.bib)] [[slides](misc/slides_hdr_morvant.pdf)] 
 
 ### Ph.D. Thesis (in french)
 
-- **Apprentissage de vote de majorité pour la classification supervisée et l’adaptation de domaine :**  
+- **Apprentissage de vote de majorité pour la classification supervisée et l’adaptation de domaine**  
   *Learning Majority Vote for Supervised Classification and Domain Adaptation: PAC-Bayesian Approaches and Similarity Combination*  
   **PhD committee:** Stéphane Ayache (co-advisor), Antoine Cornuéjols (chair, examiner), Rémi Gilleron (examiner), Amaury Habrard (advisor), Mario Marchand (reviewer), Liva Ralaivola (examiner), Michèle Sebag (reviewer).  
   **Defense date:** September 18, 2013  
@@ -50,6 +51,7 @@ layout: default
   *Neurocomputing*, 358:81–92, **2019**  
   DOI: [10.1016/j.neucom.2019.04.072](https://doi.org/10.1016/j.neucom.2019.04.072)  
   [pdf](https://arxiv.org/abs/1808.05784) · [published version](https://www.sciencedirect.com/science/article/pii/S0925231219306630) · [bibtex](https://hal.archives-ouvertes.fr/hal-01857463/bibtex)
+
   - **Risk Upper Bounds for General Ensemble Methods with an application to Multiclass Classification**  
   François Laviolette, Emilie Morvant, Liva Ralaivola, Jean-Francis Roy  
   *Neurocomputing*, 219:15–25, **2017**  
@@ -213,3 +215,110 @@ layout: default
   [pdf](https://hal.archives-ouvertes.fr/hal-00654227/document) [poster](http://hal.archives-ouvertes.fr/docs/00/65/42/27/ANNEX/poster_DASF_NIPS.pdf)  
   *Finalized version published at [ICDM'11](#pbda) [bibtex](https://hal.archives-ouvertes.fr/hal-00654227/bibtex)*
 
+### French Conferences
+
+- **Une borne PAC-Bayésienne sur une mesure de risque pour l'apprentissage équitable**  
+  Hind Atbir ; Farah Cherfaoui ; Guillaume Metzler ; Emilie Morvant ; Paul Viallard  
+  French Conference on Machine Learning (CAp 2022), **2022**
+
+- **Intérêt des bornes désintégrées pour la généralisation avec des mesures de complexité**  
+  Paul Viallard ; Rémi Emonet ; Pascal Germain ; Amaury Habrard ; Emilie Morvant ; Valentina Zantedeschi  
+  French Conference on Machine Learning (CAp 2022), **2022**
+
+- **Learning Stochastic Majority Votes by Minimizing a PAC-Bayes Generalization Bound**  
+  Valentina Zantedeschi ; Paul Viallard ; Emilie Morvant ; Rémi Emonet ; Amaury Habrard ; Pascal Germain ; Benjamin Guedj  
+  French Conference on Machine Learning (CAp 2022), **2022**  
+  [pdf](https://proceedings.neurips.cc/paper/2021/hash/0415740eaa4d9decbc8da001d3fd805f-Abstract.html), published at NeurIPS 21
+
+- **Apprentissage de Vote de Majorité par Minimisation d’une C-Borne**  
+  Paul Viallard ; Emilie Morvant ; Pascal Germain  
+  French Conference on Machine Learning (CAp 2021), **2021**
+
+- **Dérandomisation des Bornes PAC-Bayésiennes**  
+  Paul Viallard ; Emilie Morvant ; Pascal Germain  
+  French Conference on Machine Learning (CAp 2021), **2021**
+
+- **Une Analyse PAC-Bayésienne de la Robustesse Adversariale**  
+  Guillaume Vidot ; Paul Viallard ; Emilie Morvant  
+  French Conference on Machine Learning (CAp 2021), **2021**
+
+- **Théorie PAC-Bayésienne pour l'apprentissage en deux étapes de réseaux de neurones**  
+  Paul Viallard ; Rémi Emonet ; Amaury Habrard ; Emilie Morvant ; Pascal Germain  
+  French Conference on Machine Learning (CAp 2020), **2020**
+
+- **Apprentissage d'ensemble basé sur des points de repère avec des caractéristiques de Fourier aléatoires et un renforcement du gradient**  
+  Léo Gautheron ; Pascal Germain ; Amaury Habrard ; Guillaume Metzler ; Emilie Morvant ; Marc Sebban ; Valentina Zantedeschi  
+  French Conference on Machine Learning (CAp 2020), **2020**
+
+- **Revisite des "random Fourier features" basée sur l'apprentissage PAC-Bayésien via des points d'intérêts**  
+  Léo Gautheron, Pascal Germain, Amaury Habrard, Gaël Letarte, Emilie Morvant, Marc Sebban, Valentina Zantedeschi  
+  French Conference on Machine Learning (CAp 2019), **2019**, Toulouse, France.
+
+- **Apprentissage d’un vote de majorité hiérarchique pour l’apprentissage multivue**  
+  Anil Goyal, Emilie Morvant, Massih-Reza Amini  
+  French Conference on Machine Learning (CAp 2018), **2018**, Rouen, France.
+
+- **Apprentissage de métrique pour la classification supervisée de données déséquilibrées**  
+  Léo Gautheron ; Amaury Habrard ; Emilie Morvant ; Marc Sebban  
+  French Conference on Machine Learning (CAp 2018), **2018**, Rouen, France.
+
+- **Une borne PAC-Bayésienne en espérance et son extension à l'apprentissage multivues**  
+  Anil Goyal, Emilie Morvant, Pascal Germain  
+  French Conference on Machine Learning (CAp 2017), **2017**, Grenoble, France.
+
+- **Théorèmes PAC-Bayésiens pour l'apprentissage multi-vues**  
+  Anil Goyal, Emilie Morvant, Pascal Germain, Massih-Reza Amini  
+  French Conference on Machine Learning (CAp 2016), **2016**, Marseille, France.
+
+- **Adaptation de domaine de vote de majorité par auto-étiquetage non itératif**  
+  Emilie Morvant  
+  French Conference on Machine Learning (CAp 2014), **2014**, Saint-Etienne, France. pp. 49-58  
+  [pdf](http://hal.archives-ouvertes.fr/docs/01/00/57/76/PDF/main_pvmincq_cap.pdf)  
+  *English version published in [PRL](#PRL15) [bibtex](http://haltools.inrialpes.fr/Public/AfficheBibTex.php?id=hal-01056599)*
+
+- **Une analyse PAC-Bayésienne de l’adaptation de domaine et sa spécialisation aux classifieurs linéaires**  
+  Pascal Germain ; Amaury Habrard ; François Laviolette ; Emilie Morvant  
+  French Conference on Machine Learning (CAp 2013), **2013**, Lille, France.  
+  [pdf](http://hal.archives-ouvertes.fr/docs/00/85/02/42/PDF/cap2013_final_version_3.pdf)  
+  *English version published at [ICML'13](#pbda) [bibtex](http://haltools.inrialpes.fr/Public/AfficheBibTex.php?id=hal-00822685)*
+
+- **Vote de majorité a priori contraint pour la classification binaire : spécification au cas des plus proches voisins.**  
+  Aurélien Bellet ; Amaury Habrard ; Emilie Morvant ; Marc Sebban  
+  French Conference on Machine Learning (CAp 2013), **2013**, Lille, France.  
+  [pdf](http://hal.archives-ouvertes.fr/docs/00/86/89/32/PDF/pmincq_cap.pdf)  
+  *English version published in [MLJ](#MLJ14) [bibtex](http://haltools.inrialpes.fr/Public/AfficheBibTex.php?id=hal-01009578)*
+
+- **Étude de la généralisation de DASF à l'adaptation de domaine semi-supervisée**  
+  Emilie Morvant ; Amaury Habrard ; Stéphane Ayache  
+  French Conference on Machine Learning (CAp 2012), **2012**, Nancy, France. pp. 111-126  
+  [pdf](http://hal.inria.fr/hal-00685524/PDF/SSDASF_CAP.pdf)  
+  *English version published in [KAIS](#KAIS12) [bibtex](http://haltools.inrialpes.fr/Public/AfficheBibTex.php?id=hal-00686205)*
+
+- **Adaptation de domaine parcimonieuse par pondération de bonnes fonctions de similarité**  
+  Emilie Morvant ; Stéphane Ayache ; Amaury Habrard  
+  French Conference on Machine Learning (CAp 2011), **2011**, Chambéry, France. pp. 295-310  
+  [pdf](http://hal.inria.fr/hal-00630300/PDF/42.pdf)  
+  *English version published at [ICDM'11](#ICDM11) [bibtex](http://haltools.inrialpes.fr/Public/AfficheBibTex.php?id=hal-00629207)*
+
+### Research Reports --- not (yet) published
+
+- **Generalization Bounds with Arbitrary Complexity Measures**  
+  Paul Viallard ; Rémi Emonet ; Amaury Habrard ; Emilie Morvant ; Valentina Zantedeschi  
+  [research report](https://openreview.net/pdf?id=WhwtdGkbaDr1)
+
+- **PAC-Bayesian Theorems for Domain Adaptation with Specialization to Linear Classifiers** (2015)  
+  Pascal Germain ; Amaury Habrard ; François Laviolette ; Emilie Morvant  
+  [research report arXiv:1503.06944](http://arxiv.org/abs/1503.06944)  
+  *Extended version of our ICML'13 [paper](#pbda)*
+
+### Miscellaneous
+
+- **Proceedings of The 38th Annual Workshop of the Austrian Association for Pattern Recognition (ÖAGM), 2014**  
+  Vladimir Kolmogorov ; Christoph Lampert ; Emilie Morvant ; Rustem Takhanov  
+  [proceedings](http://arxiv.org/abs/1404.3538)  
+  [website of the conference](http://ist.ac.at/oagm2014/welcome/)
+
+- **Flexible Domain Adaptation for Multimedia Indexing** (Best Poster Award, *presentation of a part of my [ICDM'11](#ICDM11) paper*)  
+  Emilie Morvant ; Amaury Habrard ; Stéphane Ayache  
+  Poster presentation at [ENS/INRIA Computer Vision and Machine Learning Summer School](http://www.di.ens.fr/willow/events/cvml2011/), **2011**.  
+  [poster](http://hal.archives-ouvertes.fr/docs/00/63/48/81/PDF/poster_DASF_CVML.pdf)
