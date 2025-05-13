@@ -56,33 +56,34 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 
 ### Former Ph.D. Students
 
-- <a href="https://paulviallard.github.io/" target="_blank">**Paul Viallard**</a> --- <i>Beyond PAC-Bayesian Bounds: From Disintegration to Novel Bounds</i>  (from September 2019 to December 2022, co-supervised with A. Habrard and P. Germain) --- Now IFSP Inria Rennes
+- [**Paul Viallard**](https://paulviallard.github.io/){:target="_blank"} --- *Beyond PAC-Bayesian Bounds: From Disintegration to Novel Bounds*  (from September 2019 to December 2022, co-supervised with [Amaury Habrard](http://perso.univ-st-etienne.fr/habrarda/){:target="_blank"} and [Pascal Germain](https://www.pascalgermain.info){:target="_blank"}) --- Now IFSP Inria Rennes
 
-- <a href="https://leogautheron.github.io/" target="_blank">**Léo Gautheron**</a> --- Learning Tailored Data Representations from Few Labeled Examples (from October 2017 to December 2020, co-supervised with Pr. <a href="http://perso.univ-st-etienne.fr/habrarda/" target="_blank">A. Habrard</a> and Pr. <a href="http://perso.univ-st-etienne.fr/sebbanma/" target="_blank">M. Sebban</a>) --- Now Data Science Engineer at Synapse Défense
+- [**Léo Gautheron**](https://leogautheron.github.io/){:target="_blank"} --- Learning Tailored Data Representations from Few Labeled Examples (from October 2017 to December 2020, co-supervised with [Amaury Habrard](http://perso.univ-st-etienne.fr/habrarda/){:target="_blank"} and [Marc Sebban](http://perso.univ-st-etienne.fr/sebbanma/){:target="_blank"})
+ --- Now Data Science Engineer at Synapse Défense
 
-- <a href="https://www.linkedin.com/in/anilgoyal91" target="_blank">**Anil Goyal**</a> --- Learning a Multiview Weighted Majority Vote Classifier: Using PAC-Bayesian Theory and Boosting  (from November 2015 to October 2018, co-supervised with Pr. <a href="http://ama.liglab.fr/~amini/" target="_blank">Massih-Reza Amini</a>) --- Now Principal Data Scientist at Mastercard 
+- [**Anil Goyal**]("https://www.linkedin.com/in/anilgoyal91){:target="_blank"} --- Learning a Multiview Weighted Majority Vote Classifier: Using PAC-Bayesian Theory and Boosting  (from November 2015 to October 2018, co-supervised with [Massih-Reza Amini]http://ama.liglab.fr/~amini/){:target="_blank"}) --- Now Principal Data Scientist at Mastercard 
 
 ### Former PostDoc 
-- **Marie-Ange Lebre** --- *Deep Learning for detection and classification of microorganism*  (from September 2022 to September 2024, co-supervised with A. Habrard and R. Emonet)
+- **Marie-Ange Lebre** --- *Deep Learning for detection and classification of microorganism*  (from September 2022 to September 2024, co-supervised with [Amaury Habrard](http://perso.univ-st-etienne.fr/habrarda/){:target="_blank"} and [Rémi Emonet](https://home.heeere.com){:target="_blank"})
 
 ### Interns
 - **Baptiste Mathevon** --- *PAC-Bayes and Multi-Armed Bandits* (April-July 2025, co-supervised with P. Viallard)
 - **Julien Bastian** --- *Fairness and domain generalization* (Mar-Aug 2024, co-supervised with G. Metzler)
 - **Hind Atbir** --- *PAC-Bayesian Fair Learning* (Feb-July 2024, co-supervised with F. Cherfaoui, G. Metzler and P. Viallard)
-- **Mickaël Gault** --- <i>Learning fair kernel classifier under constraints</i> (Mar-July 2024, co-supervised with G. Metzler)
-- <b>Julien Bastian</b> --- <i>Random Fourier Features, PAC-Bayes and Domain Adaptation</i> (Mar-July 2023, co-supervised with G. Metzler)
-- <b>Alexiane Fraisse</b> --- <i>Random Fourier Features and Domain Adaptation</i> (Apr-July 2022, co-supervised with G. Metzler and P. Viallard)
-- <b>Luiza Dzhidzhavadze</b> --- <i>A Multiclass C-Bound-Based Algorithm</i> (Apr-June 2021, co-supervised with P. Viallard)
-- <b>Himanshu Pandey</b> --- <i>A Multiclass C-Bound-Based Algorithm</i> (Apr-June 2021, co-supervised with P. Viallard)
-- <b>Paul Viallard</b> --- <i>Deep Learning and PAC-Bayes</i>  (Feb-June 2019, co-supervised with A. Habrard and R. Emonet)
-- <b>Omar El-Sabrout</b>  --- <i>Active Learning for PAC-Bayesian Domain Adaptation</i> (Mid-April Mid-July 2018) 
-- <b>Loujain Liekah</b> --- <i>Experts Combination</i> (April-June 2018, co-supervised with Dr. M. Soare)
-- <b>Luc Giffon</b> --- <i>Efficient anomaly detection in data stream</i> (Feb-June 2017, co-supervised with Dr. A. Bonnefoy and Dr. T. Peel)
-- <b>Arunava Maulik</b> --- (April-June 2017, co-supervised with Pr. A. Habrard and Dr. M. Soare)
-- <b>Prem Prakash</b> ---  (April-June 2017, co-supervised with Pr. A. Habrard)
-- <b>Léo Gautheron</b> --- <i>Improving the bibliometry platform Labmetry</i> (April-June 2016, co-supervised with Pr. M. Sebban)
-- <b>Benjamin Sabot</b> --- <i>Empirical study of the C-bound as stopping criterion for neural networks</i> (April-June 2016, co-supervised with Pr. A. Habrard, Dr. P. Germain and D. Fourure)
-- <b>Soroush Seifi</b> --- <i>A PAC-Bayesian Multiview Study</i> (April-June 2016, co-supervised with Pr. A. Habrard and A. Goyal)
+- **Mickaël Gault** --- *Learning fair kernel classifier under constraints* (Mar-July 2024, co-supervised with G. Metzler)
+- **Julien Bastian** --- *Random Fourier Features, PAC-Bayes and Domain Adaptation* (Mar-July 2023, co-supervised with G. Metzler)
+- **Alexiane Fraisse** --- *Random Fourier Features and Domain Adaptation* (Apr-July 2022, co-supervised with G. Metzler and P. Viallard)
+- **Luiza Dzhidzhavadze** --- *A Multiclass C-Bound-Based Algorithm* (Apr-June 2021, co-supervised with P. Viallard)
+- **Himanshu Pandey** --- *A Multiclass C-Bound-Based Algorithm* (Apr-June 2021, co-supervised with P. Viallard)
+- **Paul Viallard** --- *Deep Learning and PAC-Bayes*  (Feb-June 2019, co-supervised with A. Habrard and R. Emonet)
+- **Omar El-Sabrout**  --- *Active Learning for PAC-Bayesian Domain Adaptation* (Mid-April Mid-July 2018) 
+- **Loujain Liekah** --- *Experts Combination* (April-June 2018, co-supervised with Dr. M. Soare)
+- **Luc Giffon** --- *Efficient anomaly detection in data stream* (Feb-June 2017, co-supervised with Dr. A. Bonnefoy and Dr. T. Peel)
+- **Arunava Maulik** --- (April-June 2017, co-supervised with Pr. A. Habrard and Dr. M. Soare)
+- **Prem Prakash** ---  (April-June 2017, co-supervised with Pr. A. Habrard)
+- **Léo Gautheron** --- *Improving the bibliometry platform Labmetry* (April-June 2016, co-supervised with Pr. M. Sebban)
+- **Benjamin Sabot** --- *Empirical study of the C-bound as stopping criterion for neural networks* (April-June 2016, co-supervised with Pr. A. Habrard, Dr. P. Germain and D. Fourure)
+- **Soroush Seifi** --- *A PAC-Bayesian Multiview Study* (April-June 2016, co-supervised with Pr. A. Habrard and A. Goyal)
 
 # PhD Jurys
 
@@ -107,38 +108,38 @@ Since July 2024, I am also in charge of the 1st year of BSc in Computer Science.
 # Administration activities
 
 - 2024-now : Responsible of the 1st year of BSc in Computer Science
-- 2021-2022: Member of <a href="https://cnu27.univ-lille.fr" target="_blank">CNU 27</a> (French Council of Universities for Computer Science)
-- 2019: Board Member of the machine learning and artificial intelligence (<a href="https://www.sfds.asso.fr/fr/malia_machine_learning_et_intelligence_artificielle/459-groupe_malia/" target="_blank">MALIA</a>) group of the French association on Statistics (SFdS)
+- 2021-2022: Member of [CNU 27](https://cnu27.univ-lille.fr){:target="_blank"} (French Council of Universities for Computer Science)
+- 2019: Board Member of the machine learning and artificial intelligence ([MALIA](https://www.sfds.asso.fr/fr/malia_machine_learning_et_intelligence_artificielle/459-groupe_malia/){:target="_blank"}) group of the French association on Statistics (SFdS)
 - 2018: "Founding member" of the MALIA group
-- 2017-2020: Vice-President (and founding member) of the <a href="http://www.ssfam.org" target="_blank">French Association on Machine Learning</a> (SSFAM)
+- 2017-2020: Vice-President (and founding member) of the [French Association on Machine Learning](http://www.ssfam.org){:target="_blank"} (SSFAM)
 - 2015-now: Responsible of the 2nd year of BSc in Computer Science
 - 2015-now: Member of the board of the Hubert Curien Laboratory 
 
 # Member of Organization Committees
-- 2022: Publicity chair of <a href="https://2022.ecmlpkdd.org" target="_blank">ECML-PKDD 2022</a>
-- 2019: Demonstration co-chair at <a href="http://ecmlpkdd2019.org" target="_blank">ECML-PKDD 2019</a> 
-- Oct. 2015: Member of the local team of <a href="http://ida2015.univ-st-etienne.fr" target="_blank">IDA 2015</a> (International Symposium on Intelligent Data Analysis)
-- Sept. 14: Organization of the international workshop on <b>LEarning with Multiple views: Applications to computer vision and multimedia</b> (in conjunction with ECML-PKDD 2014), with S. Ayache, M. Cord, and F.-X. Dupé
-- May 14: Organization of the annual conference of the <b>Austrian Association for Pattern Recognition</b> (<a href="http://ist.ac.at/oagm2014/welcome/" target ="_blank">ÖAGM 2014</a>), with <a href="http://pub.ist.ac.at/~vnk/" target="_blank">V. Kolomogorov</a>, <a href="http://pub.ist.ac.at/~chl/" target="_blank">C. H. Lampert</a>, and <a href="http://pub.ist.ac.at/~takhanov/" target="_blank">R. Takhanov</a>.
+- 2022: Publicity chair of [ECML-PKDD 2022](https://2022.ecmlpkdd.org){:target="_blank"}
+- 2019: Demonstration co-chair at [ECML-PKDD 2019](http://ecmlpkdd2019.org){:target="_blank"}
+- Oct. 2015: Member of the local team of [IDA 2015](http://ida2015.univ-st-etienne.fr){:target="_blank"} (International Symposium on Intelligent Data Analysis)
+- Sept. 14: Organization of the international workshop on **LEarning with Multiple views: Applications to computer vision and multimedia** (in conjunction with ECML-PKDD 2014), with S. Ayache, M. Cord, and F.-X. Dupé
+- May 14: Organization of the annual conference of the **Austrian Association for Pattern Recognition** ([ÖAGM 2014](http://ist.ac.at/oagm2014/welcome/){:target ="_blank"}), with [V. Kolomogorov](http://pub.ist.ac.at/~vnk/){:target="_blank"}, [C. H. Lampert](http://pub.ist.ac.at/~chl/){:target="_blank"}, and [R. Takhanov](http://pub.ist.ac.at/~takhanov/){:target="_blank"}.
 
 # Member of Program Committees/Reviewer
-- 2025 : CAp 2025, NeurIPS 2025
-- 2022: <a href="https://2022.ecmlpkdd.org/" target="_blank">ECML-PKDD 2022</a> (as area chair), <a href="https://icml.cc/Conferences/2022" target="_blank">ICML 2022</a>, CAp 2022
-- 2021: <a href="https://icml.cc/Conferences/2021" target="_blank">ICML 2021</a>, CAp 2021
-- 2020: <a href="https://icml.cc/Conferences/2020" target="_blank">ICML 2020</a>, <a href="https://ida2020.org/" target="_blank">IDA 2020</a>, CAp 2020
-- 2019: <a href="https://icml.cc/Conferences/2019" target="_blank">ICML 2019</a>,  <a href="http://ecmlpkdd2019.org/" target="_blank">ECML-PKDD 2019</a>, <a href="https://www.irit.fr/pfia2019/cap/" target ="_blank">CAp 2019</a>
-- 2018: <a href="http://icml.cc/2018/" target="_blank">ICML 2018</a>, <a href="http://cap2018.litislab.fr/" target ="_blank">CAp 2018</a>
-- 2017: <a href="http://www.aistats.org/" tarbet="_blank">AISTATS 2017</a>, <a href="http://icml.cc/2017/" target="_blank">ICML 2017</a>, <a href="https://nips.cc/Conferences/2017" target="_blank">NIPS 2017</a>
-- 2016: <a href="http://icml.cc/2016/" target="_blank">ICML 2016</a>, <a href="https://nips.cc/Conferences/2016" target="_blank">NIPS 2016</a>, <a href="http://smileclinic.alwaysdata.net/ijcai16workshop/" target="_blank">BeyondLabeler</a>,  <a href="http://cap16.lif.univ-mrs.fr/" target="_blank">CAp 2016</a>, <a href="http://adas.cvc.uab.es/task-cv2016/" target="_blank">TASK-CV 2016</a>
-- 2015: <a href="http://icml.cc/2015/" target="_blank">ICML 2015</a>, <a href="http://adas.cvc.uab.es/task-cv2015/" target="_blank">TASK-CV 2015</a>
-- 2014: <a href="http://www.icpram.org/?y=2014" target="_blank">ICPRAM 2014</a>, <a href="http://www.ecai2014.org" target="_blank">ECAI 2014</a>, <a href="http://eccv2014.org" target="_blank">ECCV 2014</a>, <a href="http://www.cvc.uab.es/adas/task-cv2014/" target="_blank">TASK-CV 2014</a>
-- 2013: <a href="http://pfia2013.univ-lille1.fr/doku.php%3Fid=fr:cap.html" target="_blank">CAp 2013</a>
-- Journals: <a href="http://www.jmlr.org/" target="_blank">JMLR</a>, <a href="https://www.computer.org/web/tpami" target="_blank">TPAMI</a>, <a href="http://www.journals.elsevier.com/pattern-recognition-letters" target="_blank">Pattern Recogn. Lett.</a>
+- 2025 : CAp, NeurIPS 
+- 2022: [ECML-PKDD](https://2022.ecmlpkdd.org/){:target="_blank"} (as area chair), [ICML](https://icml.cc/Conferences/2022){:target="_blank"}, CAp 
+- 2021: [ICML](https://icml.cc/Conferences/2021){:target="_blank"}, CAp
+- 2020: [ICML](https://icml.cc/Conferences/2020){:target="_blank"}, [IDA](https://ida2020.org/){:target="_blank"}, CAp 
+- 2019: [ICML](https://icml.cc/Conferences/2019){:target="_blank"},  [ECML-PKDD](http://ecmlpkdd2019.org/){:target="_blank"}, [CAp](https://www.irit.fr/pfia2019/cap/){:target ="_blank"}
+- 2018: [ICML](http://icml.cc/2018/){:target="_blank"}, [CAp](http://cap2018.litislab.fr/){:target ="_blank"}
+- 2017: [AISTATS](http://www.aistats.org/" tarbet="_blank">, [ICML](http://icml.cc/2017/){:target="_blank"}, [NIPS](https://nips.cc/Conferences/2017){:target="_blank"}
+- 2016: [ICML](http://icml.cc/2016/){:target="_blank"}, [NIPS](https://nips.cc/Conferences/2016){:target="_blank"}, [BeyondLabeler](http://smileclinic.alwaysdata.net/ijcai16workshop/){:target="_blank"},  [CAp](http://cap16.lif.univ-mrs.fr/){:target="_blank"}, [TASK-CV](http://adas.cvc.uab.es/task-cv2016/){:target="_blank"}
+- 2015: [ICML](http://icml.cc/2015/){:target="_blank"}, [TASK-CV](http://adas.cvc.uab.es/task-cv2015/){:target="_blank"}
+- 2014: [ICPRAM](http://www.icpram.org/?y=2014){:target="_blank"}, [ECAI](http://www.ecai2014.org){:target="_blank"}, [ECCV](http://eccv2014.org){:target="_blank"}, [TASK-CV](http://www.cvc.uab.es/adas/task-cv2014/){:target="_blank"}
+- 2013: [CAp](http://pfia2013.univ-lille1.fr/doku.php%3Fid=fr:cap.html){:target="_blank"}
+- Journals: (http://www.jmlr.org/){:target="_blank"}JMLR</a>, (https://www.computer.org/web/tpami){:target="_blank"}TPAMI</a>, (http://www.journals.elsevier.com/pattern-recognition-letters){:target="_blank"}Pattern Recogn. Lett.</a>
 
 # Invited talks and Seminaries
 - June 19: Journées de Statistique 2019, Nancy, France: <titre>When PAC-Bayesian Majority Vote meets Domain Adaptation</titre>
 - June 18: "Les Universitaires retournent à l'École", Lycée Étienne Mimard, Saint-Etienne, France: <titre>Apprentissage Automatique et Adaptation de Domaine</titre>
-- Feb. 18: MODAL Seminars, INRIA Lille, France: <titre>When PAC-Bayesian Majority Vote Meets Transfer Learning</titre> [<a href="https://modal.lille.inria.fr/wikimodal/lib/exe/fetch.php?media=modal_20180220_morvant.pdf" target="_blank">slides</a>]
+- Feb. 18: MODAL Seminars, INRIA Lille, France: <titre>When PAC-Bayesian Majority Vote Meets Transfer Learning</titre> [[SLIDES](https://modal.lille.inria.fr/wikimodal/lib/exe/fetch.php?media=modal_20180220_morvant.pdf){:target="_blank"}]
 - Jan. 18: Visit of "Université pour tous" at LaHC, Univ. of Saint-Etienne, France: <titre>Presentation of the Data Intelligence Group<titre> and <titre>What is Domain Adaptation?</titre>
 - Jan. 16: Visit of students at LaHC, Univ. of Saint-Etienne, France: <titre>What is Domain Adaptation? A popularization</titre> 
 - Jan. 16: ANR project LIVES workshop, Aix*Marseille Univ., France: <titre>PAC-Bayesian Majority Vote & Domain Adaptation</titre>
@@ -160,6 +161,6 @@ Since July 2024, I am also in charge of the 1st year of BSc in Computer Science.
 
 # Spare-Time Activities
 
-- I am a 2nd star black belt in Manchuria Kung Fu, I am also an instructor of Manchuria Kung Fu.  I have been trained by Master Mathieu Derosière.
-- I have been playing video games since I was 4 or 5 years old. I started to play on an <a href="https://en.wikipedia.org/wiki/Amstrad_CPC" target="_blank">Amstrad CPC</a> with a cassette tape deck!
+- I am a 2nd star black belt in Manchuria Kung Fu, I am also an instructor of [Manchuria Kung Fu](https://mkf-fr.com){:target="_blank"}.  I have been trained by Master Mathieu Derosière.
+- I have been playing video games since I was 4 or 5 years old. I started to play on an [Amstrad CPC](https://en.wikipedia.org/wiki/Amstrad_CPC){:target="_blank"} with a cassette tape deck!
 
