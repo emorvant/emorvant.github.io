@@ -106,10 +106,10 @@ Since July 2024, I am also in charge of the 1st year of BSc in Computer Science.
 
 # Administration activities
 
-- 2024-now : Responsible of the 1st year of BSc in Computer Science</li>
+- 2024-now : Responsible of the 1st year of BSc in Computer Science
 - 2021-2022: Member of <a href="https://cnu27.univ-lille.fr" target="_blank">CNU 27</a> (French Council of Universities for Computer Science)
 - 2019: Board Member of the machine learning and artificial intelligence (<a href="https://www.sfds.asso.fr/fr/malia_machine_learning_et_intelligence_artificielle/459-groupe_malia/" target="_blank">MALIA</a>) group of the French association on Statistics (SFdS)
-- 2018: "Founding member" of the MALIA group<
+- 2018: "Founding member" of the MALIA group
 - 2017-2020: Vice-President (and founding member) of the <a href="http://www.ssfam.org" target="_blank">French Association on Machine Learning</a> (SSFAM)
 - 2015-now: Responsible of the 2nd year of BSc in Computer Science
 - 2015-now: Member of the board of the Hubert Curien Laboratory 
@@ -126,7 +126,7 @@ Since July 2024, I am also in charge of the 1st year of BSc in Computer Science.
 - 2022: <a href="https://2022.ecmlpkdd.org/" target="_blank">ECML-PKDD 2022</a> (as area chair), <a href="https://icml.cc/Conferences/2022" target="_blank">ICML 2022</a>, CAp 2022
 - 2021: <a href="https://icml.cc/Conferences/2021" target="_blank">ICML 2021</a>, CAp 2021
 - 2020: <a href="https://icml.cc/Conferences/2020" target="_blank">ICML 2020</a>, <a href="https://ida2020.org/" target="_blank">IDA 2020</a>, CAp 2020
-- 2019: <a href="https://icml.cc/Conferences/2019" target="_blank">ICML 2019</a>,  <a href="http://ecmlpkdd2019.org/" target="_blank">ECML-PKDD 2019</a>, <a href="https://www.irit.fr/pfia2019/cap/" target ="_blank">CAp 2019</a></li>
+- 2019: <a href="https://icml.cc/Conferences/2019" target="_blank">ICML 2019</a>,  <a href="http://ecmlpkdd2019.org/" target="_blank">ECML-PKDD 2019</a>, <a href="https://www.irit.fr/pfia2019/cap/" target ="_blank">CAp 2019</a>
 - 2018: <a href="http://icml.cc/2018/" target="_blank">ICML 2018</a>, <a href="http://cap2018.litislab.fr/" target ="_blank">CAp 2018</a>
 - 2017: <a href="http://www.aistats.org/" tarbet="_blank">AISTATS 2017</a>, <a href="http://icml.cc/2017/" target="_blank">ICML 2017</a>, <a href="https://nips.cc/Conferences/2017" target="_blank">NIPS 2017</a>
 - 2016: <a href="http://icml.cc/2016/" target="_blank">ICML 2016</a>, <a href="https://nips.cc/Conferences/2016" target="_blank">NIPS 2016</a>, <a href="http://smileclinic.alwaysdata.net/ijcai16workshop/" target="_blank">BeyondLabeler</a>,  <a href="http://cap16.lif.univ-mrs.fr/" target="_blank">CAp 2016</a>, <a href="http://adas.cvc.uab.es/task-cv2016/" target="_blank">TASK-CV 2016</a>
@@ -135,7 +135,7 @@ Since July 2024, I am also in charge of the 1st year of BSc in Computer Science.
 - 2013: <a href="http://pfia2013.univ-lille1.fr/doku.php%3Fid=fr:cap.html" target="_blank">CAp 2013</a>
 - Journals: <a href="http://www.jmlr.org/" target="_blank">JMLR</a>, <a href="https://www.computer.org/web/tpami" target="_blank">TPAMI</a>, <a href="http://www.journals.elsevier.com/pattern-recognition-letters" target="_blank">Pattern Recogn. Lett.</a>
 
-# >Invited talks and Seminaries
+# Invited talks and Seminaries
 - June 19: Journées de Statistique 2019, Nancy, France: <titre>When PAC-Bayesian Majority Vote meets Domain Adaptation</titre>
 - June 18: "Les Universitaires retournent à l'École", Lycée Étienne Mimard, Saint-Etienne, France: <titre>Apprentissage Automatique et Adaptation de Domaine</titre>
 - Feb. 18: MODAL Seminars, INRIA Lille, France: <titre>When PAC-Bayesian Majority Vote Meets Transfer Learning</titre> [<a href="https://modal.lille.inria.fr/wikimodal/lib/exe/fetch.php?media=modal_20180220_morvant.pdf" target="_blank">slides</a>]
