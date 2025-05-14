@@ -62,6 +62,8 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 
 - **[Anil Goyal](https://www.linkedin.com/in/anilgoyal91)** --- Learning a Multiview Weighted Majority Vote Classifier: Using PAC-Bayesian Theory and Boosting (from November 2015 to October 2018, co-supervised with [Massih-Reza Amini](https://ama.liglab.fr/~amini/)) --- Now Principal Data Scientist at Mastercard
 
+### Former Post-doc
+
 - **[Marie-Ange Lebre](https://www.linkedin.com/in/marie-ange-lebre-302029a4/)** --- Deep Learning for detection and classification of microorganism (from Sept. 2022 to Sept 2024, co-supervised with [Amaury Habrard](https://perso.univ-st-etienne.fr/habrarda/) and [Rémi Emonet](https://home.heeere.com/))
 
 ### Interns
