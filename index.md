@@ -35,8 +35,8 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 
 # Research Projects
 - ANR project Famous *(local coordinator)* : <titre>Fair multimodal Learning</titre>
-- Projet inter-laboratoire FIL (Fédération Informatique de Lyon) (with [Dr. G Metlzer](https://guillaumemetzler.github.io"){:target="_blank"}): <titre>PAC-Bayesian Fair Learning</titre>
-- Projet inter-laboratoire FIL (with [Dr. G Metlzer](https://guillaumemetzler.github.io"){:target="_blank"}) :	<titre>Random Fourrier Features for PAC-Bayesian Domain Adaptation</titre>
+- Projet inter-laboratoire FIL (Fédération Informatique de Lyon) (with [Dr. G Metlzer](https://guillaumemetzler.github.io){:target="_blank"}): <titre>PAC-Bayesian Fair Learning</titre>
+- Projet inter-laboratoire FIL (with [Dr. G Metlzer](https://guillaumemetzler.github.io){:target="_blank"}) :	<titre>Random Fourrier Features for PAC-Bayesian Domain Adaptation</titre>
 - ANR project [TAUDoS](https://perso.univ-st-etienne.fr/er101405/TAUDoS/){:target="_blank"} *(member)*:	 <titre>Theory and Algorithms for the Understanding of Deep learning On Sequential data</titre>
 - ANR project [APRIORI](https://project.inria.fr/apriori/){:target="_blank"} **(coordinator)**:  <titre>A Pac-bayesian RepresentatIOn leaRnIng perspective</titre>
 - INS2I-CNRS project JCJC 2018 "PaRaFF" (with [Dr. P. Germain](https://www.pascalgermain.info){:target="_blank"}): <titre>PAC-Bayesian Random Fourier Features</titre>
@@ -58,10 +58,10 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 
 - [**Paul Viallard**](https://paulviallard.github.io/){:target="_blank"} --- *Beyond PAC-Bayesian Bounds: From Disintegration to Novel Bounds*  (from September 2019 to December 2022, co-supervised with [Amaury Habrard](http://perso.univ-st-etienne.fr/habrarda/){:target="_blank"} and [Pascal Germain](https://www.pascalgermain.info){:target="_blank"}) --- Now IFSP Inria Rennes
 
-- [**Léo Gautheron**](https://leogautheron.github.io/){:target="_blank"} --- Learning Tailored Data Representations from Few Labeled Examples (from October 2017 to December 2020, co-supervised with [Amaury Habrard](http://perso.univ-st-etienne.fr/habrarda/){:target="_blank"} and [Marc Sebban](http://perso.univ-st-etienne.fr/sebbanma/){:target="_blank"})
- --- Now Data Science Engineer at Synapse Défense
+- [**Léo Gautheron**](https://leogautheron.github.io/){:target="_blank"} --- Learning Tailored Data Representations from Few Labeled Examples (from October 2017 to December 2020, co-supervised with [Amaury Habrard](http://perso.univ-st-etienne.fr/habrarda/){:target="_blank"} and [Marc Sebban](http://perso.univ-st-etienne.fr/sebbanma/){:target="_blank"}) --- Now Data Science Engineer at Synapse Défense
 
-- [**Anil Goyal**]("https://www.linkedin.com/in/anilgoyal91){:target="_blank"} --- Learning a Multiview Weighted Majority Vote Classifier: Using PAC-Bayesian Theory and Boosting  (from November 2015 to October 2018, co-supervised with [Massih-Reza Amini](http://ama.liglab.fr/~amini/){:target="_blank"}) --- Now Principal Data Scientist at Mastercard ()
+- [**Anil Goyal**](https://www.linkedin.com/in/anilgoyal91){:target="_blank"} --- Learning a Multiview Weighted Majority Vote Classifier: Using PAC-Bayesian Theory and Boosting  (from November 2015 to October 2018, co-supervised with [Massih-Reza Amini](http://ama.liglab.fr/~amini/){:target="_blank"}) --- Now Principal Data Scientist at Mastercard
+
 ### Former PostDoc 
 - **Marie-Ange Lebre** --- *Deep Learning for detection and classification of microorganism*  (from September 2022 to September 2024, co-supervised with [Amaury Habrard](http://perso.univ-st-etienne.fr/habrarda/){:target="_blank"} and [Rémi Emonet](https://home.heeere.com){:target="_blank"})
 
