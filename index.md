@@ -120,7 +120,7 @@ Since July 2024, I am also in charge of the 1st year of BSc in Computer Science.
 - 2019: Demonstration co-chair at [ECML\-PKDD 2019](https://ecmlpkdd2019.org/)
 - Oct. 2015: Member of the local team of [IDA 2015](https://ida2015.univ-st-etienne.fr/) (International Symposium on Intelligent Data Analysis)
 - Sept. 14: Organization of the international workshop on __LEarning with Multiple views: Applications to computer vision and multimedia__ (in conjunction with ECML\-PKDD 2014), with S. Ayache, M. Cord, and F.-X. Dupé
-- May 14: Organization of the annual conference of the __Austrian Association for Pattern Recognition__ ([OAGM 2014](https://ist.ac.at/oagm2014/welcome/)), with [V. Kolomogorov](https://pub.ist.ac.at/~vnk/), [C. H. Lampert](https://pub.ist.ac.at/~chl/), and [R. Takhanov](https://pub.ist.ac.at/~takhanov/).
+- May 14: Organization of the annual conference of the __Austrian Association for Pattern Recognition__ ([OAGM 2014](https://ist.ac.at/oagm2014/welcome/)), with [V. Kolomogorov](https://pub.ist.ac.at/~vnk/), [C.H. Lampert](https://pub.ist.ac.at/~chl/), and [R. Takhanov](https://pub.ist.ac.at/~takhanov/).
 
 # Member of Program Committees
 
