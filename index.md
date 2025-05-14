@@ -62,7 +62,7 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 
 - __[Anil Goyal](https://www.linkedin.com/in/anilgoyal91)__ --- Learning a Multiview Weighted Majority Vote Classifier: Using PAC-Bayesian Theory and Boosting (from November 2015 to Oct. 2018, co-supervised with [Massih-Reza Amini](https://ama.liglab.fr/~amini/)) --- Now Principal Data Scientist at Mastercard
 
-### Former Post-doc
+### Former Post doc
 
 - __[Marie-Ange Lebre](https://www.linkedin.com/in/marie-ange-lebre-302029a4/)__ --- Deep Learning for detection and classification of microorganism (from Sept. 2022 to Sept. 2024, co-supervised with [Amaury Habrard](https://perso.univ-st-etienne.fr/habrarda/) and [Rémi Emonet](https://home.heeere.com/))
 
@@ -122,7 +122,7 @@ Since July 2024, I am also in charge of the 1st year of BSc in Computer Science.
 - Sept. 14: Organization of the international workshop on __LEarning with Multiple views: Applications to computer vision and multimedia__ (in conjunction with ECML-PKDD 2014), with S. Ayache, M. Cord, and F.-X. Dupé
 - May 14: Organization of the annual conference of the __Austrian Association for Pattern Recognition__ ([ÖAGM 2014](https://ist.ac.at/oagm2014/welcome/)), with [V. Kolomogorov](https://pub.ist.ac.at/~vnk/), [C. H. Lampert](https://pub.ist.ac.at/~chl/), and [R. Takhanov](https://pub.ist.ac.at/~takhanov/).
 
-# Member of Program Committees/Reviewer
+# Member of Program Committees
 
 - 2025 : [CAp](https://pfia2025.u-bourgogne.fr/conferences/cap/), [NeurIPS](https://neurips.cc/Conferences/2025)
 - 2022: [ECML-PKDD](https://2022.ecmlpkdd.org/) (as area chair), [ICML](https://icml.cc/Conferences/2022), CAp 
@@ -161,7 +161,7 @@ Since July 2024, I am also in charge of the 1st year of BSc in Computer Science.
 - June 11: Lampada Workshop, Saint-Victor sur Loire, France: <titre> Domain Adaptation with Good Similarity Functions</titre>
 - Oct. 10: VideoSense Meeting, Sophia-Antipolis, France: <titre> Domain Adaptation Algorithm for Learning Classifier</titre> 
 
-# Spare-Time Activities
+# Spare Time Activities
 
 - I am a 2nd star black belt in Manchuria Kung Fu, I am also an instructor of [Manchuria Kung Fu](https://mkf-fr.com/).  I have been trained by Master Mathieu Derosière.
 - I have been playing video games since I was 4 or 5 years old. I started to play on an [Amstrad CPC](https://en.wikipedia.org/wiki/Amstrad_CPC/) with a cassette tape deck!
