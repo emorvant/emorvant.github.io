@@ -35,11 +35,11 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 # Research Projects
 
 - ANR project Famous _(local coordinator)_ : <titre>Fair multimodal Learning</titre>
-- Projet inter-laboratoire FIL (Fédération Informatique de Lyon) (with [Dr. G Metlzer](https://guillaumemetzler.github.io)): <titre>PAC-Bayesian Fair Learning</titre>
-- Projet inter-laboratoire FIL (with [Dr. G Metlzer](https://guillaumemetzler.github.io)) :	<titre>Random Fourrier Features for PAC-Bayesian Domain Adaptation</titre>
+- Projet inter-laboratoire FIL (Fédération Informatique de Lyon) (with [G Metlzer](https://guillaumemetzler.github.io)): <titre>PAC-Bayesian Fair Learning</titre>
+- Projet inter-laboratoire FIL (with [G Metlzer](https://guillaumemetzler.github.io)) :	<titre>Random Fourrier Features for PAC-Bayesian Domain Adaptation</titre>
 - ANR project [TAUDoS](https://perso.univ-st-etienne.fr/er101405/TAUDoS/) _(member)_:	 <titre>Theory and Algorithms for the Understanding of Deep learning On Sequential data</titre>
 - ANR project [APRIORI](https://project.inria.fr/apriori/) __(coordinator)__:  <titre>A Pac-bayesian RepresentatIOn leaRnIng perspective</titre>
-- INS2I-CNRS project JCJC 2018 "PaRaFF" (with [Dr. P. Germain](https://www.pascalgermain.info/)): <titre>PAC-Bayesian Random Fourier Features</titre>
+- INS2I-CNRS project JCJC 2018 "PaRaFF" (with [P. Germain](https://www.pascalgermain.info/)): <titre>PAC-Bayesian Random Fourier Features</titre>
 - ANR project LIVES _(member)_ : <titre> Learning with Interacting ViEwS</titre>
 - My postdoc was funded by the ERC grant no308036: <titre>Life-Long Learning for Visual Scene Understanding</titre>
 - I was a member of the PASCAL2 Network of excellence
@@ -78,13 +78,13 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 - __Himanshu Pandey__ --- _A Multiclass C-Bound-Based Algorithm_ (Apr-June 2021, co-supervised with P. Viallard)
 - __Paul Viallard__ --- _Deep Learning and PAC-Bayes_  (Feb-June 2019, co-supervised with A. Habrard and R. Emonet)
 - __Omar El-Sabrout__ --- _Active Learning for PAC-Bayesian Domain Adaptation_ (Mid-April Mid-July 2018) 
-- __Loujain Liekah__ --- _Experts Combination_ (April-June 2018, co-supervised with Dr. M. Soare)
-- __Luc Giffon__ --- _Efficient anomaly detection in data stream_ (Feb-June 2017, co-supervised with Dr. A. Bonnefoy and Dr. T. Peel)
-- __Arunava Maulik__ --- (April-June 2017, co-supervised with Pr. A. Habrard and Dr. M. Soare)
-- __Prem Prakash__ ---  (April-June 2017, co-supervised with Pr. A. Habrard)
-- __Léo Gautheron__ --- _Improving the bibliometry platform Labmetry_ (April-June 2016, co-supervised with Pr. M. Sebban)
-- __Benjamin Sabot__ --- _Empirical study of the C-bound as stopping criterion for neural networks_ (April-June 2016, co-supervised with Pr. A. Habrard, Dr. P. Germain and D. Fourure)
-- __Soroush Seifi__ --- _A PAC-Bayesian Multiview Study_ (April-June 2016, co-supervised with Pr. A. Habrard and A. Goyal)
+- __Loujain Liekah__ --- _Experts Combination_ (April-June 2018, co-supervised with M. Soare)
+- __Luc Giffon__ --- _Efficient anomaly detection in data stream_ (Feb-June 2017, co-supervised with A. Bonnefoy and T. Peel)
+- __Arunava Maulik__ --- (April-June 2017, co-supervised with A. Habrard and M. Soare)
+- __Prem Prakash__ ---  (April-June 2017, co-supervised with A. Habrard)
+- __Léo Gautheron__ --- _Improving the bibliometry platform Labmetry_ (April-June 2016, co-supervised with M. Sebban)
+- __Benjamin Sabot__ --- _Empirical study of the C-bound as stopping criterion for neural networks_ (April-June 2016, co-supervised with A. Habrard, P. Germain and D. Fourure)
+- __Soroush Seifi__ --- _A PAC-Bayesian Multiview Study_ (April-June 2016, co-supervised with A. Habrard and A. Goyal)
 
 # PhD Jurys
 
