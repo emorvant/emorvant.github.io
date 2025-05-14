@@ -30,3 +30,19 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 - Imbalanced data 
 - Multi-armed bandits
 - Conformal prediction
+
+
+
+# Research Projects
+
+- ANR project Famous (local coordinator) : <titre>Fair multimodal Learning</titre>
+- Projet inter-laboratoire FIL (Fédération Informatique de Lyon) (with [G Metlzer](https://guillaumemetzler.github.io)): <titre>PAC-Bayesian Fair Learning</titre>
+- Projet inter-laboratoire FIL (with [G Metlzer](https://guillaumemetzler.github.io)) : <titre>Random Fourrier Features for PAC-Bayesian Domain Adaptation</titre>
+- ANR project [TAUDoS](https://perso.univ-st-etienne.fr/er101405/TAUDoS/) _(member)_:  <titre>Theory and Algorithms for the Understanding of Deep learning On Sequential data</titre>
+- ANR project [APRIORI](https://project.inria.fr/apriori/) __(coordinator)__:  <titre>A Pac-bayesian RepresentatIOn leaRnIng perspective</titre>
+- INS2I-CNRS project JCJC 2018 "PaRaFF" (with [P. Germain](https://www.pascalgermain.info/)): <titre>PAC-Bayesian Random Fourier Features</titre>
+- ANR project LIVES (member) : <titre> Learning with Interacting ViEwS</titre>
+- My postdoc was funded by the ERC grant no308036: <titre>Life-Long Learning for Visual Scene Understanding</titre>
+- I was a member of the PASCAL2 Network of excellence
+- My Ph.D. was funded by VideoSense ANR project: <titre>Rich concepts recognition in multilingual videos, throw pivot languages</titre>
+- I regularly participated in Lampada ANR Project: <titre> Learning Algorithms, Models and sPArse representations for structured DAta</titre>
