@@ -128,10 +128,10 @@ Since July 2024, I am also in charge of the 1st year of BSc in Computer Science.
 - 2022: [ECML\-PKDD](https://2022.ecmlpkdd.org/) (as area chair), [ICML](https://icml.cc/Conferences/2022), CAp 
 - 2021: [ICML](https://icml.cc/Conferences/2021), CAp
 - 2020: [ICML](https://icml.cc/Conferences/2020), [IDA](https://ida2020.org/), CAp 
-- 2019: [ICML](https://icml.cc/Conferences/2019),  [ECML\-PKDD](https://ecmlpkdd2019.org/), [CAp](https://www.irit.fr/pfia2019/cap/)
+- 2019: [ICML](https://icml.cc/Conferences/2019), [ECML\-PKDD](https://ecmlpkdd2019.org/), [CAp](https://www.irit.fr/pfia2019/cap/)
 - 2018: [ICML](https://icml.cc/2018/), [CAp](https://cap2018.litislab.fr/)
 - 2017: [AISTATS](https://www.aistats.org), [ICML](https://icml.cc/2017/), [NIPS](https://nips.cc/Conferences/2017)
-- 2016: [ICML](https://icml.cc/2016/), [NIPS](https://nips.cc/Conferences/2016), [BeyondLabeler](https://smileclinic.alwaysdata.net/ijcai16workshop/),  [CAp](https://cap16.lif.univ-mrs.fr/), [TASK-CV](https://adas.cvc.uab.es/task-cv2016/)
+- 2016: [ICML](https://icml.cc/2016/), [NIPS](https://nips.cc/Conferences/2016), [BeyondLabeler](https://smileclinic.alwaysdata.net/ijcai16workshop/), [CAp](https://cap16.lif.univ-mrs.fr/), [TASK-CV](https://adas.cvc.uab.es/task-cv2016/)
 - 2015: [ICML](https://icml.cc/2015/), [TASK-CV](https://adas.cvc.uab.es/task-cv2015/)
 - 2014: [ICPRAM](https://www.icpram.org/?y=2014), [ECAI](https://www.ecai2014.org), [ECCV](https://eccv2014.org), [TASK-CV](https://www.cvc.uab.es/adas/task-cv2014/)
 - 2013: [CAp](https://pfia2013.univ-lille1.fr/doku.php%3Fid=fr:cap.html)
