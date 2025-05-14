@@ -16,7 +16,6 @@ I work at [Hubert Curien Laboratory](https://laboratoirehubertcurien.fr) in the 
 
 I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d'Informatique Fondamentale](https://www.lis-lab.fr) (now LIS) of Marseille in the [Qarma team](https://qarma.lis-lab.fr), under the direction of [Amaury Habrard](https://perso.univ-st-etienne.fr/habrarda/) and [Stéphane Ayache](https://stephane-ayache.pedaweb.univ-amu.fr/wordpress/). The main objective of my thesis was to study the learning of majority vote for supervised classification and domain adaptation. This work was supported by the ANR project VideoSense. I was also a member of PASCAL2 Network of Excellence.
 
-
 # Research Interests
 
 - **Statistical Machine Learning**
@@ -29,8 +28,8 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 - Similarity and metric learning
 - Multiview learning
 - Imbalanced data 
-- Multi-armed bandits
-- Conformal prediction
+- Multi-armed bandits *(very beginner)*
+- Conformal prediction *(very beginner)*
 
 
 # Research Projects
@@ -63,11 +62,10 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 
 - **[Anil Goyal](https://www.linkedin.com/in/anilgoyal91)** --- Learning a Multiview Weighted Majority Vote Classifier: Using PAC-Bayesian Theory and Boosting (from November 2015 to October 2018, co-supervised with [Massih-Reza Amini](https://ama.liglab.fr/~amini/)) --- Now Principal Data Scientist at Mastercard
 
-### Former PostDoc 
-
-- **Marie-Ange Lebre** --- *Deep Learning for detection and classification of microorganism* (from September 2022 to September 2024, co-supervised with [Amaury Habrard](https://perso.univ-st-etienne.fr/habrarda/) and [Rémi Emonet](https://home.heeere.com/))
+- **[Marie-Ange Lebre](https://www.linkedin.com/in/marie-ange-lebre-302029a4/)** --- Deep Learning for detection and classification of microorganism (from Sept. 2022 to Sept 2024, co-supervised with [Amaury Habrard](https://perso.univ-st-etienne.fr/habrarda/) and [Rémi Emonet](https://home.heeere.com/))
 
 ### Interns
+
 - **Baptiste Mathevon** --- *PAC-Bayes and Multi-Armed Bandits* (April-July 2025, co-supervised with P. Viallard)
 - **Julien Bastian** --- *Fairness and domain generalization* (Mar-Aug 2024, co-supervised with G. Metzler)
 - **Hind Atbir** --- *PAC-Bayesian Fair Learning* (Feb-July 2024, co-supervised with F. Cherfaoui, G. Metzler and P. Viallard)
@@ -115,6 +113,7 @@ Since July 2024, I am also in charge of the 1st year of BSc in Computer Science.
 - 2015-now: Member of the board of the Hubert Curien Laboratory 
 
 # Member of Organization Committees
+
 - 2022: Publicity chair of [ECML-PKDD 2022](https://2022.ecmlpkdd.org/)
 - 2019: Demonstration co-chair at [ECML-PKDD 2019](https://ecmlpkdd2019.org/)
 - Oct. 2015: Member of the local team of [IDA 2015](https://ida2015.univ-st-etienne.fr/) (International Symposium on Intelligent Data Analysis)
@@ -122,6 +121,7 @@ Since July 2024, I am also in charge of the 1st year of BSc in Computer Science.
 - May 14: Organization of the annual conference of the **Austrian Association for Pattern Recognition** ([ÖAGM 2014](https://ist.ac.at/oagm2014/welcome/)), with [V. Kolomogorov](https://pub.ist.ac.at/~vnk/), [C. H. Lampert](https://pub.ist.ac.at/~chl/), and [R. Takhanov](https://pub.ist.ac.at/~takhanov/).
 
 # Member of Program Committees/Reviewer
+
 - 2025 : [CAp](https://pfia2025.u-bourgogne.fr/conferences/cap/), [NeurIPS](https://neurips.cc/Conferences/2025)
 - 2022: [ECML-PKDD](https://2022.ecmlpkdd.org/) (as area chair), [ICML](https://icml.cc/Conferences/2022), CAp 
 - 2021: [ICML](https://icml.cc/Conferences/2021), CAp
@@ -136,6 +136,7 @@ Since July 2024, I am also in charge of the 1st year of BSc in Computer Science.
 - Journals: [JMLR](https://www.jmlr.org/), [TPAMI](https://www.computer.org/web/tpami), [Pattern Recogn. Lett.](https://www.journals.elsevier.com/pattern-recognition-letters)
 
 # Invited talks and Seminaries
+
 - June 19: Journées de Statistique 2019, Nancy, France: <titre>When PAC-Bayesian Majority Vote meets Domain Adaptation</titre>
 - June 18: "Les Universitaires retournent à l'École", Lycée Étienne Mimard, Saint-Etienne, France: <titre>Apprentissage Automatique et Adaptation de Domaine</titre>
 - Feb. 18: MODAL Seminars, INRIA Lille, France: <titre>When PAC-Bayesian Majority Vote Meets Transfer Learning</titre> [[SLIDES](https://modal.lille.inria.fr/wikimodal/lib/exe/fetch.php?media=modal_20180220_morvant.pdf)]
