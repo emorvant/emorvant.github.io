@@ -107,7 +107,7 @@ Since July 2024, I am also in charge of the 1st year of BSc in Computer Science.
 
 # Administration activities
 
-- 2024-now : Responsible of the 1st year of BSc in Computer Science
+- 2024-2025 : Responsible of the 1st year of BSc in Computer Science
 - 2021-2022: Member of [CNU 27](https://cnu27.univ-lille.fr){:target="_blank"} (French Council of Universities for Computer Science)
 - 2019: Board Member of the machine learning and artificial intelligence ([MALIA](https://www.sfds.asso.fr/fr/malia_machine_learning_et_intelligence_artificielle/459-groupe_malia/){:target="_blank"}) group of the French association on Statistics (SFdS)
 - 2018: "Founding member" of the MALIA group
