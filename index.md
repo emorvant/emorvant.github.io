@@ -34,6 +34,7 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 
 
 # Research Projects
+
 - ANR project Famous *(local coordinator)* : <titre>Fair multimodal Learning</titre>
 - Projet inter-laboratoire FIL (Fédération Informatique de Lyon) (with [Dr. G Metlzer](https://guillaumemetzler.github.io)): <titre>PAC-Bayesian Fair Learning</titre>
 - Projet inter-laboratoire FIL (with [Dr. G Metlzer](https://guillaumemetzler.github.io)) :	<titre>Random Fourrier Features for PAC-Bayesian Domain Adaptation</titre>
@@ -91,7 +92,6 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 - 2020 : Léo Gautheron, St-Etienne (co-supervisor)
 - 2018 : Anil Goyal, St-Etienne/Grenoble (co-supervisor)
 
-
 # Current Teaching
 
 *Depuis Juillet 2015, je suis la responsable de la 2ème année de la licence d'informatique.* 
@@ -103,7 +103,6 @@ Since July 2024, I am also in charge of the 1st year of BSc in Computer Science.
 - L1 Info - Programmation fonctionnelle - Ocaml
 - L2 Info - Systèmes d'exploitation
 - L2 Info - Programmation impérative - C (classique et spécifique alternants)
-
 
 # Administration activities
 
@@ -120,21 +119,21 @@ Since July 2024, I am also in charge of the 1st year of BSc in Computer Science.
 - 2019: Demonstration co-chair at [ECML-PKDD 2019](https://ecmlpkdd2019.org/)
 - Oct. 2015: Member of the local team of [IDA 2015](https://ida2015.univ-st-etienne.fr/) (International Symposium on Intelligent Data Analysis)
 - Sept. 14: Organization of the international workshop on **LEarning with Multiple views: Applications to computer vision and multimedia** (in conjunction with ECML-PKDD 2014), with S. Ayache, M. Cord, and F.-X. Dupé
-- May 14: Organization of the annual conference of the **Austrian Association for Pattern Recognition** ([ÖAGM 2014](https://ist.ac.at/oagm2014/welcome/){:target ="_blank"}), with [V. Kolomogorov](https://pub.ist.ac.at/~vnk/), [C. H. Lampert](https://pub.ist.ac.at/~chl/), and [R. Takhanov](https://pub.ist.ac.at/~takhanov/).
+- May 14: Organization of the annual conference of the **Austrian Association for Pattern Recognition** ([ÖAGM 2014](https://ist.ac.at/oagm2014/welcome/)), with [V. Kolomogorov](https://pub.ist.ac.at/~vnk/), [C. H. Lampert](https://pub.ist.ac.at/~chl/), and [R. Takhanov](https://pub.ist.ac.at/~takhanov/).
 
 # Member of Program Committees/Reviewer
 - 2025 : [CAp](https://pfia2025.u-bourgogne.fr/conferences/cap/), [NeurIPS](https://neurips.cc/Conferences/2025)
 - 2022: [ECML-PKDD](https://2022.ecmlpkdd.org/) (as area chair), [ICML](https://icml.cc/Conferences/2022), CAp 
 - 2021: [ICML](https://icml.cc/Conferences/2021), CAp
 - 2020: [ICML](https://icml.cc/Conferences/2020), [IDA](https://ida2020.org/), CAp 
-- 2019: [ICML](https://icml.cc/Conferences/2019),  [ECML-PKDD](https://ecmlpkdd2019.org/), [CAp](https://www.irit.fr/pfia2019/cap/){:target ="_blank"}
-- 2018: [ICML](https://icml.cc/2018/), [CAp](https://cap2018.litislab.fr/){:target ="_blank"}
+- 2019: [ICML](https://icml.cc/Conferences/2019),  [ECML-PKDD](https://ecmlpkdd2019.org/), [CAp](https://www.irit.fr/pfia2019/cap/)
+- 2018: [ICML](https://icml.cc/2018/), [CAp](https://cap2018.litislab.fr/)
 - 2017: [AISTATS](https://www.aistats.org), [ICML](https://icml.cc/2017/), [NIPS](https://nips.cc/Conferences/2017)
 - 2016: [ICML](https://icml.cc/2016/), [NIPS](https://nips.cc/Conferences/2016), [BeyondLabeler](https://smileclinic.alwaysdata.net/ijcai16workshop/),  [CAp](https://cap16.lif.univ-mrs.fr/), [TASK-CV](https://adas.cvc.uab.es/task-cv2016/)
 - 2015: [ICML](https://icml.cc/2015/), [TASK-CV](https://adas.cvc.uab.es/task-cv2015/)
 - 2014: [ICPRAM](https://www.icpram.org/?y=2014), [ECAI](https://www.ecai2014.org), [ECCV](https://eccv2014.org), [TASK-CV](https://www.cvc.uab.es/adas/task-cv2014/)
 - 2013: [CAp](https://pfia2013.univ-lille1.fr/doku.php%3Fid=fr:cap.html)
-- Journals: (https://www.jmlr.org/)JMLR</a>, (https://www.computer.org/web/tpami)TPAMI</a>, (https://www.journals.elsevier.com/pattern-recognition-letters)Pattern Recogn. Lett.</a>
+- Journals: [JMLR](https://www.jmlr.org/), [TPAMI](https://www.computer.org/web/tpami), [Pattern Recogn. Lett.](https://www.journals.elsevier.com/pattern-recognition-letters)
 
 # Invited talks and Seminaries
 - June 19: Journées de Statistique 2019, Nancy, France: <titre>When PAC-Bayesian Majority Vote meets Domain Adaptation</titre>
@@ -163,4 +162,3 @@ Since July 2024, I am also in charge of the 1st year of BSc in Computer Science.
 
 - I am a 2nd star black belt in Manchuria Kung Fu, I am also an instructor of [Manchuria Kung Fu](https://mkf-fr.com/).  I have been trained by Master Mathieu Derosière.
 - I have been playing video games since I was 4 or 5 years old. I started to play on an [Amstrad CPC](https://en.wikipedia.org/wiki/Amstrad_CPC/) with a cassette tape deck!
-
