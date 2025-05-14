@@ -61,8 +61,7 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 - [**Léo Gautheron**](https://leogautheron.github.io/){:target="_blank"} --- Learning Tailored Data Representations from Few Labeled Examples (from October 2017 to December 2020, co-supervised with [Amaury Habrard](http://perso.univ-st-etienne.fr/habrarda/){:target="_blank"} and [Marc Sebban](http://perso.univ-st-etienne.fr/sebbanma/){:target="_blank"})
  --- Now Data Science Engineer at Synapse Défense
 
-- [**Anil Goyal**]("https://www.linkedin.com/in/anilgoyal91){:target="_blank"} --- Learning a Multiview Weighted Majority Vote Classifier: Using PAC-Bayesian Theory and Boosting  (from November 2015 to October 2018, co-supervised with [Massih-Reza Amini]http://ama.liglab.fr/~amini/){:target="_blank"}) --- Now Principal Data Scientist at Mastercard 
-
+- [**Anil Goyal**]("https://www.linkedin.com/in/anilgoyal91){:target="_blank"} --- Learning a Multiview Weighted Majority Vote Classifier: Using PAC-Bayesian Theory and Boosting  (from November 2015 to October 2018, co-supervised with [Massih-Reza Amini](http://ama.liglab.fr/~amini/){:target="_blank"}) --- Now Principal Data Scientist at Mastercard ()
 ### Former PostDoc 
 - **Marie-Ange Lebre** --- *Deep Learning for detection and classification of microorganism*  (from September 2022 to September 2024, co-supervised with [Amaury Habrard](http://perso.univ-st-etienne.fr/habrarda/){:target="_blank"} and [Rémi Emonet](https://home.heeere.com){:target="_blank"})
 
