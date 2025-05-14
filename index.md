@@ -11,8 +11,8 @@ published: true
 
 [CV (in french)](CV/CV_MORVANT.pdf)
 
-Since October 2014, I am an associate professor (maître de conférences, [HDR](/_posts/2025-04-07-HDR.md)) at [University Jean Monnet](https://portail.univ-st-etienne.fr) of Saint-Etienne (France).
-I work at [Hubert Curien Laboratory](https://laboratoirehubertcurien.fr) in the [Data Intelligence team](https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/data-intelligence.html). I am in charge of the 2nd year of BSc in Computer Science since July 2015 and of the 1st year since 2024. From October 2013 to September 2014, I was a postdoctoral researcher at [ISTA](https://ist.ac.at/) (Institute of Science and Technology Austria) in the [Christoph Lampert group](https://pub.ist.ac.at/~chl/) (Computer Vision and Machine Learning).
+Since Oct. 2014, I am an associate professor (maître de conférences, [HDR](/_posts/2025-04-07-HDR.md)) at [University Jean Monnet](https://portail.univ-st-etienne.fr) of Saint-Etienne (France).
+I work at [Hubert Curien Laboratory](https://laboratoirehubertcurien.fr) in the [Data Intelligence team](https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/data-intelligence.html). I am in charge of the 2nd year of BSc in Computer Science since July 2015 and of the 1st year since 2024. From Oct. 2013 to Sept. 2014, I was a postdoctoral researcher at [ISTA](https://ist.ac.at/) (Institute of Science and Technology Austria) in the [Christoph Lampert group](https://pub.ist.ac.at/~chl/) (Computer Vision and Machine Learning).
 
 I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d'Informatique Fondamentale](https://www.lis-lab.fr) (now LIS) of Marseille in the [Qarma team](https://qarma.lis-lab.fr), under the direction of [Amaury Habrard](https://perso.univ-st-etienne.fr/habrarda/) and [Stéphane Ayache](https://stephane-ayache.pedaweb.univ-amu.fr/wordpress/). The main objective of my thesis was to study the learning of majority vote for supervised classification and domain adaptation. This work was supported by the ANR project VideoSense. I was also a member of PASCAL2 Network of Excellence.
 
@@ -50,21 +50,21 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 
 ### Current Ph.D. Student
 
-- __[Hind Atbir](https://hatbir.gitlab.io/)__ --- _Learning fair and robust kernel-based models with generalization guarantees_  (from October 2024 to ... , co-supervised with [Rémi Eyraud](https://remieyraud.github.io/]), [Farah Cherfaoui](https://perso.univ-st-etienne.fr/cf104810/) Cherfaoui and [Paul Viallard](https://paulviallard.github.io/))
+- __[Hind Atbir](https://hatbir.gitlab.io/)__ --- _Learning fair and robust kernel-based models with generalization guarantees_  (from Oct. 2024 to ... , co-supervised with [Rémi Eyraud](https://remieyraud.github.io/]), [Farah Cherfaoui](https://perso.univ-st-etienne.fr/cf104810/) Cherfaoui and [Paul Viallard](https://paulviallard.github.io/))
 
-- __[Julien Bastian](https://julienbastian.github.io/)__ --- _Multiview Fair Learning - From Theory to Algorithms_  (from October 2024 to ... , co-supervised with [Christine Largeron](https://perso.univ-st-etienne.fr/largeron/) and [Guillaume Metzler](https://guillaumemetzler.github.io/))
+- __[Julien Bastian](https://julienbastian.github.io/)__ --- _Multiview Fair Learning - From Theory to Algorithms_  (from Oct. 2024 to ... , co-supervised with [Christine Largeron](https://perso.univ-st-etienne.fr/largeron/) and [Guillaume Metzler](https://guillaumemetzler.github.io/))
 
 ### Former Ph.D. Students
 
-- __[Paul Viallard](https://paulviallard.github.io/)__ --- _Beyond PAC-Bayesian Bounds: From Disintegration to Novel Bounds_  (from September 2019 to December 2022, co-supervised with [Amaury Habrard](https://perso.univ-st-etienne.fr/habrarda/) and [Pascal Germain](https://www.pascalgermain.info/)) --- Now IFSP Inria Rennes
+- __[Paul Viallard](https://paulviallard.github.io/)__ --- _Beyond PAC-Bayesian Bounds: From Disintegration to Novel Bounds_  (from Sept. 2019 to Dec. 2022, co-supervised with [Amaury Habrard](https://perso.univ-st-etienne.fr/habrarda/) and [Pascal Germain](https://www.pascalgermain.info/)) --- Now IFSP Inria Rennes
 
-- __[Léo Gautheron](https://leogautheron.github.io/)__ --- Learning Tailored Data Representations from Few Labeled Examples (from October 2017 to December 2020, co-supervised with [Amaury Habrard](https://perso.univ-st-etienne.fr/habrarda/) and [Marc Sebban](https://perso.univ-st-etienne.fr/sebbanma/)) --- Now Data Science Engineer at Synapse Défense
+- __[Léo Gautheron](https://leogautheron.github.io/)__ --- Learning Tailored Data Representations from Few Labeled Examples (from Oct. 2017 to Dec. 2020, co-supervised with [Amaury Habrard](https://perso.univ-st-etienne.fr/habrarda/) and [Marc Sebban](https://perso.univ-st-etienne.fr/sebbanma/)) --- Now Data Science Engineer at Synapse Défense
 
-- __[Anil Goyal](https://www.linkedin.com/in/anilgoyal91)__ --- Learning a Multiview Weighted Majority Vote Classifier: Using PAC-Bayesian Theory and Boosting (from November 2015 to October 2018, co-supervised with [Massih-Reza Amini](https://ama.liglab.fr/~amini/)) --- Now Principal Data Scientist at Mastercard
+- __[Anil Goyal](https://www.linkedin.com/in/anilgoyal91)__ --- Learning a Multiview Weighted Majority Vote Classifier: Using PAC-Bayesian Theory and Boosting (from November 2015 to Oct. 2018, co-supervised with [Massih-Reza Amini](https://ama.liglab.fr/~amini/)) --- Now Principal Data Scientist at Mastercard
 
 ### Former Post-doc
 
-- __[Marie-Ange Lebre](https://www.linkedin.com/in/marie-ange-lebre-302029a4/)__ --- Deep Learning for detection and classification of microorganism (from Sept. 2022 to Sept 2024, co-supervised with [Amaury Habrard](https://perso.univ-st-etienne.fr/habrarda/) and [Rémi Emonet](https://home.heeere.com/))
+- __[Marie-Ange Lebre](https://www.linkedin.com/in/marie-ange-lebre-302029a4/)__ --- Deep Learning for detection and classification of microorganism (from Sept. 2022 to Sept. 2024, co-supervised with [Amaury Habrard](https://perso.univ-st-etienne.fr/habrarda/) and [Rémi Emonet](https://home.heeere.com/))
 
 ### Interns
 
