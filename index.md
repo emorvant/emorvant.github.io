@@ -18,7 +18,7 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 
 # Research Interests
 
-- **Statistical Machine Learning**
+- __Statistical Machine Learning__
 - PAC-Bayesian bounds and algorithms
 - Transfer learning, domain adaptation
 - Supervised learning
@@ -28,19 +28,19 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 - Similarity and metric learning
 - Multiview learning
 - Imbalanced data 
-- Multi-armed bandits *(very beginner)*
-- Conformal prediction *(very beginner)*
+- Multi-armed bandits _(very beginner)_
+- Conformal prediction _(very beginner)_
 
 
 # Research Projects
 
-- ANR project Famous *(local coordinator)* : <titre>Fair multimodal Learning</titre>
+- ANR project Famous _(local coordinator)_ : <titre>Fair multimodal Learning</titre>
 - Projet inter-laboratoire FIL (Fédération Informatique de Lyon) (with [Dr. G Metlzer](https://guillaumemetzler.github.io)): <titre>PAC-Bayesian Fair Learning</titre>
 - Projet inter-laboratoire FIL (with [Dr. G Metlzer](https://guillaumemetzler.github.io)) :	<titre>Random Fourrier Features for PAC-Bayesian Domain Adaptation</titre>
-- ANR project [TAUDoS](https://perso.univ-st-etienne.fr/er101405/TAUDoS/) *(member)*:	 <titre>Theory and Algorithms for the Understanding of Deep learning On Sequential data</titre>
-- ANR project [APRIORI](https://project.inria.fr/apriori/) **(coordinator)**:  <titre>A Pac-bayesian RepresentatIOn leaRnIng perspective</titre>
+- ANR project [TAUDoS](https://perso.univ-st-etienne.fr/er101405/TAUDoS/) _(member)_:	 <titre>Theory and Algorithms for the Understanding of Deep learning On Sequential data</titre>
+- ANR project [APRIORI](https://project.inria.fr/apriori/) __(coordinator)__:  <titre>A Pac-bayesian RepresentatIOn leaRnIng perspective</titre>
 - INS2I-CNRS project JCJC 2018 "PaRaFF" (with [Dr. P. Germain](https://www.pascalgermain.info/)): <titre>PAC-Bayesian Random Fourier Features</titre>
-- ANR project LIVES *(member)* : <titre> Learning with Interacting ViEwS</titre>
+- ANR project LIVES _(member)_ : <titre> Learning with Interacting ViEwS</titre>
 - My postdoc was funded by the ERC grant no308036: <titre>Life-Long Learning for Visual Scene Understanding</titre>
 - I was a member of the PASCAL2 Network of excellence
 - My Ph.D. was funded by VideoSense ANR project: <titre>Rich concepts recognition in multilingual videos, throw pivot languages</titre><br />
@@ -50,41 +50,41 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 
 ### Current Ph.D. Student
 
-- **[Hind Atbir](https://hatbir.gitlab.io/)** --- *Learning fair and robust kernel-based models with generalization guarantees*  (from October 2024 to ... , co-supervised with [Rémi Eyraud](https://remieyraud.github.io/]), [Farah Cherfaoui](https://perso.univ-st-etienne.fr/cf104810/) Cherfaoui and [Paul Viallard](https://paulviallard.github.io/))
+- __[Hind Atbir](https://hatbir.gitlab.io/)__ --- _Learning fair and robust kernel-based models with generalization guarantees_  (from October 2024 to ... , co-supervised with [Rémi Eyraud](https://remieyraud.github.io/]), [Farah Cherfaoui](https://perso.univ-st-etienne.fr/cf104810/) Cherfaoui and [Paul Viallard](https://paulviallard.github.io/))
 
-- **[Julien Bastian](https://julienbastian.github.io/)** --- *Multiview Fair Learning - From Theory to Algorithms*  (from October 2024 to ... , co-supervised with [Christine Largeron](https://perso.univ-st-etienne.fr/largeron/) and [Guillaume Metzler](https://guillaumemetzler.github.io/))
+- __[Julien Bastian](https://julienbastian.github.io/)__ --- _Multiview Fair Learning - From Theory to Algorithms_  (from October 2024 to ... , co-supervised with [Christine Largeron](https://perso.univ-st-etienne.fr/largeron/) and [Guillaume Metzler](https://guillaumemetzler.github.io/))
 
 ### Former Ph.D. Students
 
-- **[Paul Viallard](https://paulviallard.github.io/)** --- *Beyond PAC-Bayesian Bounds: From Disintegration to Novel Bounds*  (from September 2019 to December 2022, co-supervised with [Amaury Habrard](https://perso.univ-st-etienne.fr/habrarda/) and [Pascal Germain](https://www.pascalgermain.info/)) --- Now IFSP Inria Rennes
+- __[Paul Viallard](https://paulviallard.github.io/)__ --- _Beyond PAC-Bayesian Bounds: From Disintegration to Novel Bounds_  (from September 2019 to December 2022, co-supervised with [Amaury Habrard](https://perso.univ-st-etienne.fr/habrarda/) and [Pascal Germain](https://www.pascalgermain.info/)) --- Now IFSP Inria Rennes
 
-- **[Léo Gautheron](https://leogautheron.github.io/)** --- Learning Tailored Data Representations from Few Labeled Examples (from October 2017 to December 2020, co-supervised with [Amaury Habrard](https://perso.univ-st-etienne.fr/habrarda/) and [Marc Sebban](https://perso.univ-st-etienne.fr/sebbanma/)) --- Now Data Science Engineer at Synapse Défense
+- __[Léo Gautheron](https://leogautheron.github.io/)__ --- Learning Tailored Data Representations from Few Labeled Examples (from October 2017 to December 2020, co-supervised with [Amaury Habrard](https://perso.univ-st-etienne.fr/habrarda/) and [Marc Sebban](https://perso.univ-st-etienne.fr/sebbanma/)) --- Now Data Science Engineer at Synapse Défense
 
-- **[Anil Goyal](https://www.linkedin.com/in/anilgoyal91)** --- Learning a Multiview Weighted Majority Vote Classifier: Using PAC-Bayesian Theory and Boosting (from November 2015 to October 2018, co-supervised with [Massih-Reza Amini](https://ama.liglab.fr/~amini/)) --- Now Principal Data Scientist at Mastercard
+- __[Anil Goyal](https://www.linkedin.com/in/anilgoyal91)__ --- Learning a Multiview Weighted Majority Vote Classifier: Using PAC-Bayesian Theory and Boosting (from November 2015 to October 2018, co-supervised with [Massih-Reza Amini](https://ama.liglab.fr/~amini/)) --- Now Principal Data Scientist at Mastercard
 
 ### Former Post-doc
 
-- **[Marie-Ange Lebre](https://www.linkedin.com/in/marie-ange-lebre-302029a4/)** --- Deep Learning for detection and classification of microorganism (from Sept. 2022 to Sept 2024, co-supervised with [Amaury Habrard](https://perso.univ-st-etienne.fr/habrarda/) and [Rémi Emonet](https://home.heeere.com/))
+- __[Marie-Ange Lebre](https://www.linkedin.com/in/marie-ange-lebre-302029a4/)__ --- Deep Learning for detection and classification of microorganism (from Sept. 2022 to Sept 2024, co-supervised with [Amaury Habrard](https://perso.univ-st-etienne.fr/habrarda/) and [Rémi Emonet](https://home.heeere.com/))
 
 ### Interns
 
-- **Baptiste Mathevon** --- *PAC-Bayes and Multi-Armed Bandits* (April-July 2025, co-supervised with P. Viallard)
-- **Julien Bastian** --- *Fairness and domain generalization* (Mar-Aug 2024, co-supervised with G. Metzler)
-- **Hind Atbir** --- *PAC-Bayesian Fair Learning* (Feb-July 2024, co-supervised with F. Cherfaoui, G. Metzler and P. Viallard)
-- **Mickaël Gault** --- *Learning fair kernel classifier under constraints* (Mar-July 2024, co-supervised with G. Metzler)
-- **Julien Bastian** --- *Random Fourier Features, PAC-Bayes and Domain Adaptation* (Mar-July 2023, co-supervised with G. Metzler)
-- **Alexiane Fraisse** --- *Random Fourier Features and Domain Adaptation* (Apr-July 2022, co-supervised with G. Metzler and P. Viallard)
-- **Luiza Dzhidzhavadze** --- *A Multiclass C-Bound-Based Algorithm* (Apr-June 2021, co-supervised with P. Viallard)
-- **Himanshu Pandey** --- *A Multiclass C-Bound-Based Algorithm* (Apr-June 2021, co-supervised with P. Viallard)
-- **Paul Viallard** --- *Deep Learning and PAC-Bayes*  (Feb-June 2019, co-supervised with A. Habrard and R. Emonet)
-- **Omar El-Sabrout** --- *Active Learning for PAC-Bayesian Domain Adaptation* (Mid-April Mid-July 2018) 
-- **Loujain Liekah** --- *Experts Combination* (April-June 2018, co-supervised with Dr. M. Soare)
-- **Luc Giffon** --- *Efficient anomaly detection in data stream* (Feb-June 2017, co-supervised with Dr. A. Bonnefoy and Dr. T. Peel)
-- **Arunava Maulik** --- (April-June 2017, co-supervised with Pr. A. Habrard and Dr. M. Soare)
-- **Prem Prakash** ---  (April-June 2017, co-supervised with Pr. A. Habrard)
-- **Léo Gautheron** --- *Improving the bibliometry platform Labmetry* (April-June 2016, co-supervised with Pr. M. Sebban)
-- **Benjamin Sabot** --- *Empirical study of the C-bound as stopping criterion for neural networks* (April-June 2016, co-supervised with Pr. A. Habrard, Dr. P. Germain and D. Fourure)
-- **Soroush Seifi** --- *A PAC-Bayesian Multiview Study* (April-June 2016, co-supervised with Pr. A. Habrard and A. Goyal)
+- __Baptiste Mathevon__ --- PAC-Bayes and Multi-Armed Bandits (April-July 2025, co-supervised with P. Viallard)
+- __Julien Bastian__ --- _Fairness and domain generalization_ (Mar-Aug 2024, co-supervised with G. Metzler)
+- __Hind Atbir__ --- _PAC-Bayesian Fair Learning_ (Feb-July 2024, co-supervised with F. Cherfaoui, G. Metzler and P. Viallard)
+- __Mickaël Gault__ --- _Learning fair kernel classifier under constraints_ (Mar-July 2024, co-supervised with G. Metzler)
+- __Julien Bastian__ --- _Random Fourier Features, PAC-Bayes and Domain Adaptation_ (Mar-July 2023, co-supervised with G. Metzler)
+- __Alexiane Fraisse__ --- _Random Fourier Features and Domain Adaptation_ (Apr-July 2022, co-supervised with G. Metzler and P. Viallard)
+- __Luiza Dzhidzhavadze__ --- _A Multiclass C-Bound-Based Algorithm_ (Apr-June 2021, co-supervised with P. Viallard)
+- __Himanshu Pandey__ --- _A Multiclass C-Bound-Based Algorithm_ (Apr-June 2021, co-supervised with P. Viallard)
+- __Paul Viallard__ --- _Deep Learning and PAC-Bayes_  (Feb-June 2019, co-supervised with A. Habrard and R. Emonet)
+- __Omar El-Sabrout__ --- _Active Learning for PAC-Bayesian Domain Adaptation_ (Mid-April Mid-July 2018) 
+- __Loujain Liekah__ --- _Experts Combination_ (April-June 2018, co-supervised with Dr. M. Soare)
+- __Luc Giffon__ --- _Efficient anomaly detection in data stream_ (Feb-June 2017, co-supervised with Dr. A. Bonnefoy and Dr. T. Peel)
+- __Arunava Maulik__ --- (April-June 2017, co-supervised with Pr. A. Habrard and Dr. M. Soare)
+- __Prem Prakash__ ---  (April-June 2017, co-supervised with Pr. A. Habrard)
+- __Léo Gautheron__ --- _Improving the bibliometry platform Labmetry_ (April-June 2016, co-supervised with Pr. M. Sebban)
+- __Benjamin Sabot__ --- _Empirical study of the C-bound as stopping criterion for neural networks_ (April-June 2016, co-supervised with Pr. A. Habrard, Dr. P. Germain and D. Fourure)
+- __Soroush Seifi__ --- _A PAC-Bayesian Multiview Study_ (April-June 2016, co-supervised with Pr. A. Habrard and A. Goyal)
 
 # PhD Jurys
 
@@ -94,8 +94,8 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 
 # Current Teaching
 
-*Depuis Juillet 2015, je suis la responsable de la 2ème année de la licence d'informatique.* 
-*Depuis Juillet 2024, je suis également responsable de la 1ère année de la licence d'informatique*
+_Depuis Juillet 2015, je suis la responsable de la 2ème année de la licence d'informatique._ 
+_Depuis Juillet 2024, je suis également responsable de la 1ère année de la licence d'informatique_
 
 Since July 2015, I am in charge of the 2nd year of BSc in Computer Science.
 Since July 2024, I am also in charge of the 1st year of BSc in Computer Science. 
@@ -119,8 +119,8 @@ Since July 2024, I am also in charge of the 1st year of BSc in Computer Science.
 - 2022: Publicity chair of [ECML-PKDD 2022](https://2022.ecmlpkdd.org/)
 - 2019: Demonstration co-chair at [ECML-PKDD 2019](https://ecmlpkdd2019.org/)
 - Oct. 2015: Member of the local team of [IDA 2015](https://ida2015.univ-st-etienne.fr/) (International Symposium on Intelligent Data Analysis)
-- Sept. 14: Organization of the international workshop on **LEarning with Multiple views: Applications to computer vision and multimedia** (in conjunction with ECML-PKDD 2014), with S. Ayache, M. Cord, and F.-X. Dupé
-- May 14: Organization of the annual conference of the **Austrian Association for Pattern Recognition** ([ÖAGM 2014](https://ist.ac.at/oagm2014/welcome/)), with [V. Kolomogorov](https://pub.ist.ac.at/~vnk/), [C. H. Lampert](https://pub.ist.ac.at/~chl/), and [R. Takhanov](https://pub.ist.ac.at/~takhanov/).
+- Sept. 14: Organization of the international workshop on __LEarning with Multiple views: Applications to computer vision and multimedia__ (in conjunction with ECML-PKDD 2014), with S. Ayache, M. Cord, and F.-X. Dupé
+- May 14: Organization of the annual conference of the __Austrian Association for Pattern Recognition__ ([ÖAGM 2014](https://ist.ac.at/oagm2014/welcome/)), with [V. Kolomogorov](https://pub.ist.ac.at/~vnk/), [C. H. Lampert](https://pub.ist.ac.at/~chl/), and [R. Takhanov](https://pub.ist.ac.at/~takhanov/).
 
 # Member of Program Committees/Reviewer
 
