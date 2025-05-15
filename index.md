@@ -108,7 +108,7 @@ Since July 2024, I am also in charge of the 1st year of BSc in Computer Science.
 
 - 2024-2025 : Responsible of the 1st year of BSc in Computer Science
 - 2021-2022: Member of [CNU 27](https://cnu27.univ-lille.fr/) (French Council of Universities for Computer Science)
-- 2019: Board Member of the machine learning and artificial intelligence ([MALIA](https://www.sfds.asso.fr/fr/malia_machine_learning_et_intelligence_artificielle/459-groupe_malia/)) group of the French association on Statistics (SFdS)
+- 2019: Board Member of the machine learning and artificial intelligence ([MALIA](https://www.sfds.asso.fr/fr/malia_machine_learning_et_intelligence_artificielle/459-groupe_malia/)) group of the French association on Statistics ([SFdS](https://www.sfds.asso.fr))
 - 2018: "Founding member" of the MALIA group
 - 2017-2020: Vice-President (and founding member) of the [French Association on Machine Learning](https://www.ssfam.org/) (SSFAM)
 - 2015-now: Responsible of the 2nd year of BSc in Computer Science
@@ -124,7 +124,7 @@ Since July 2024, I am also in charge of the 1st year of BSc in Computer Science.
 
 # Member of Program Committees
 
-- 2025 : [CAp](https://pfia2025.u-bourgogne.fr/conferences/cap/), [NeurIPS](https://neurips.cc/Conferences/2025)
+- 2025: [CAp](https://pfia2025.u-bourgogne.fr/conferences/cap/), [NeurIPS](https://neurips.cc/Conferences/2025)
 - 2022: [ECML\-PKDD](https://2022.ecmlpkdd.org/) (as area chair), [ICML](https://icml.cc/Conferences/2022), CAp 
 - 2021: [ICML](https://icml.cc/Conferences/2021), CAp
 - 2020: [ICML](https://icml.cc/Conferences/2020), [IDA](https://ida2020.org/), CAp 
@@ -146,10 +146,10 @@ Since July 2024, I am also in charge of the 1st year of BSc in Computer Science.
 - Jan. 16: Visit of students at LaHC, Univ. of Saint-Etienne, France: <titre>What is Domain Adaptation? A popularization</titre> 
 - Jan. 16: ANR project LIVES workshop, Aix-Marseille Univ., France: <titre>PAC-Bayesian Majority Vote & Domain Adaptation</titre>
 - Feb. 15:  Machine Learning Seminars LaHC, Univ. of Saint-Étienne, France: <titre>Multilabel Structured Output Learning with A Random Sample of Spanning Trees</titre>
-- May 14: AMA Seminars, LIG, Grenoble, France: <titre>When PAC\-Bayes meets Domain Adaptation</titre>
+- May 14: AMA Seminars, LIG, Grenoble, France: <titre>When PAC-Bayes meets Domain Adaptation</titre>
 - Feb. 14: Machine Learning Seminars LaHC, Univ. of Saint-Étienne, France: <titre>Domain Adaptation of Majority Votes via Perturbed Variation-based Label transfer</titre>
 - Dec. 13: Signal Processing \- Machine Learning Seminars LATP/LIF, Aix-Marseille Univ., France: <titre>Domain Adaptation of Majority Votes via Perturbed Variation-based Label transfer</titre>
-- Lampada Workshop, Porquerolles, France: <titre>A PAC\-Bayesian Approach for Domain Adaptation</titre> 
+- Lampada Workshop, Porquerolles, France: <titre>A PAC-Bayesian Approach for Domain Adaptation</titre> 
 - April 13: IST Austria, Klosterneuburg, Austria: <titre>Combining Similarities or Classifiers for Domain Adaptation</titre>
 - March 13: Xerox Research Center Europe, Grenoble, France: <titre>Combining Similarities or Classifiers for Domain Adaptation</titre>
 - Nov. 12: Signal Processing \- Machine Learning Seminars LATP/LIF, Aix-Marseille Univ., France: <titre>A Well-founded PAC-Bayesian Majority Vote applied to the Nearest Neighbor Rule</titre>
