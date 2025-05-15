@@ -11,7 +11,7 @@ published: true
 
 [CV (in french)](CV/CV_MORVANT.pdf)
 
-Since Oct. 2014, I am an associate professor (maître de conférences, [HDR](/_posts/2025-04-07-HDR.md)) at [University Jean Monnet](https://portail.univ-st-etienne.fr) of Saint\-Etienne (France).
+Since Oct. 2014, I am an associate professor (_maître de conférences_, [HDR](/_posts/2025-04-07-HDR.md)) at [University Jean Monnet](https://portail.univ-st-etienne.fr) of Saint\-Etienne (France).
 I work at [Hubert Curien Laboratory](https://laboratoirehubertcurien.fr) in the [Data Intelligence team](https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/data-intelligence.html). I am in charge of the 2nd year of BSc in Computer Science since July 2015 and of the 1st year since 2024. From Oct. 2013 to Sept. 2014, I was a postdoctoral researcher at [ISTA](https://ist.ac.at/) (Institute of Science and Technology Austria) in the [Christoph Lampert group](https://pub.ist.ac.at/~chl/) (Computer Vision and Machine Learning).
 
 I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d'Informatique Fondamentale](https://www.lis-lab.fr) (now LIS) of Marseille in the [Qarma team](https://qarma.lis-lab.fr), under the direction of [Amaury Habrard](https://perso.univ-st-etienne.fr/habrarda/) and [Stéphane Ayache](https://stephane-ayache.pedaweb.univ-amu.fr/wordpress/). The main objective of my thesis was to study the learning of majority vote for supervised classification and domain adaptation. This work was supported by the ANR project VideoSense. I was also a member of PASCAL2 Network of Excellence.
@@ -23,7 +23,7 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 - Transfer learning, domain adaptation
 - Supervised learning
 - Robustness and adversarial learning
-- Fairness and biais in ML
+- Fairness and biais in machine learning
 - Representation learning
 - Similarity and metric learning
 - Multiview learning
@@ -35,13 +35,13 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 # Research Projects
 
 - ANR project Famous _(local coordinator)_ : <titre>Fair multimodal Learning</titre>
-- Projet inter\-laboratoire FIL (Fédération Informatique de Lyon) (with [G. Metlzer](https://guillaumemetzler.github.io)): <titre>PAC\-Bayesian Fair Learning</titre>
+- Projet inter\-laboratoire FIL (Fédération Informatique de Lyon) (with [G. Metlzer](https://guillaumemetzler.github.io)): <titre>PAC-Bayesian Fair Learning</titre>
 - Projet inter\-laboratoire FIL (with [G. Metlzer](https://guillaumemetzler.github.io)) : <titre>Random Fourrier Features for PAC\-Bayesian Domain Adaptation</titre>
 - ANR project [TAUDoS](https://perso.univ-st-etienne.fr/er101405/TAUDoS/) _(member)_:  <titre>Theory and Algorithms for the Understanding of Deep learning On Sequential data</titre>
-- ANR project [APRIORI](https://project.inria.fr/apriori/) __(coordinator)__:  <titre>A Pac\-bayesian RepresentatIOn leaRnIng perspective</titre>
-- INS2I\-CNRS project JCJC 2018 "PaRaFF" (with [P. Germain](https://www.pascalgermain.info/)): <titre>PAC\-Bayesian Random Fourier Features</titre>
+- ANR project [APRIORI](https://project.inria.fr/apriori/) __(coordinator)__:  <titre>A Pac-bayesian RepresentatIOn leaRnIng perspective</titre>
+- INS2I\-CNRS project JCJC 2018 "PaRaFF" (with [P. Germain](https://www.pascalgermain.info/)): <titre>PAC-Bayesian Random Fourier Features</titre>
 - ANR project LIVES _(member)_ : <titre>Learning with Interacting ViEwS</titre>
-- My postdoc was funded by the ERC grant no308036: <titre>Life\-Long Learning for Visual Scene Understanding</titre>
+- My postdoc was funded by the ERC grant no308036: <titre>Life-Long Learning for Visual Scene Understanding</titre>
 - I was a member of the PASCAL2 Network of excellence
 - My Ph.D. was funded by VideoSense ANR project: <titre>Rich concepts recognition in multilingual videos, throw pivot languages</titre>
 - I regularly participated in Lampada ANR Project: <titre>Learning Algorithms, Models and sPArse representations for structured DAta</titre>
@@ -58,17 +58,17 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 
 - __[Paul Viallard](https://paulviallard.github.io/)__ --- _Beyond PAC\-Bayesian Bounds: From Disintegration to Novel Bounds_  (from Sept. 2019 to Dec. 2022, co\-supervised with [Amaury Habrard](https://perso.univ-st-etienne.fr/habrarda/) and [Pascal Germain](https://www.pascalgermain.info/)) --- Now IFSP Inria Rennes
 
-- __[Léo Gautheron](https://leogautheron.github.io/)__ --- Learning Tailored Data Representations from Few Labeled Examples (from Oct. 2017 to Dec. 2020, co\-supervised with [Amaury Habrard](https://perso.univ-st-etienne.fr/habrarda/) and [Marc Sebban](https://perso.univ-st-etienne.fr/sebbanma/)) --- Now Data Science Engineer at Synapse Défense
+- __[Léo Gautheron](https://leogautheron.github.io/)__ --- _Learning Tailored Data Representations from Few Labeled Examples_ (from Oct. 2017 to Dec. 2020, co\-supervised with [Amaury Habrard](https://perso.univ-st-etienne.fr/habrarda/) and [Marc Sebban](https://perso.univ-st-etienne.fr/sebbanma/)) --- Now Data Science Engineer at Synapse Défense
 
-- __[Anil Goyal](https://www.linkedin.com/in/anilgoyal91)__ --- Learning a Multiview Weighted Majority Vote Classifier: Using PAC\-Bayesian Theory and Boosting (from Nov. 2015 to Oct. 2018, co\-supervised with [Massih-Reza Amini](https://ama.liglab.fr/~amini/)) --- Now Principal Data Scientist at Mastercard
+- __[Anil Goyal](https://www.linkedin.com/in/anilgoyal91)__ --- _Learning a Multiview Weighted Majority Vote Classifier: Using PAC\-Bayesian Theory and Boosting_ (from Nov. 2015 to Oct. 2018, co\-supervised with [Massih-Reza Amini](https://ama.liglab.fr/~amini/)) --- Now Principal Data Scientist at Mastercard
 
 ### Former Post\-doc
 
-- __[Marie\-Ange Lebre](https://www.linkedin.com/in/marie-ange-lebre-302029a4/)__ --- Deep Learning for detection and classification of microorganism (from Sept. 2022 to Sept. 2024, co\-supervised with [Amaury Habrard](https://perso.univ-st-etienne.fr/habrarda/) and [Rémi Emonet](https://home.heeere.com/))
+- __[Marie\-Ange Lebre](https://www.linkedin.com/in/marie-ange-lebre-302029a4/)__ --- _Deep Learning for detection and classification of microorganism_ (from Sept. 2022 to Sept. 2024, co\-supervised with [Amaury Habrard](https://perso.univ-st-etienne.fr/habrarda/) and [Rémi Emonet](https://home.heeere.com/))
 
 ### Interns
 
-- __Baptiste Mathevon__ --- PAC\-Bayes and Multi-Armed Bandits (Apr\-July 2025, co\-supervised with P. Viallard)
+- __Baptiste Mathevon__ --- _PAC\-Bayes and Multi-Armed Bandits_ (Apr\-July 2025, co\-supervised with P. Viallard)
 - __Julien Bastian__ --- _Fairness and domain generalization_ (Mar\-Aug 2024, co\-supervised with G. Metzler)
 - __Hind Atbir__ --- _PAC\-Bayesian Fair Learning_ (Feb\-July 2024, co\-supervised with F. Cherfaoui, G. Metzler and P. Viallard)
 - __Mickaël Gault__ --- _Learning fair kernel classifier under constraints_ (Mar\-July 2024, co\-supervised with G. Metzler)
