@@ -144,7 +144,7 @@ Since July 2024, I am also in charge of the 1st year of BSc in Computer Science.
 - Feb. 18: MODAL Seminars, INRIA Lille, France: <titre>When PAC\-Bayesian Majority Vote Meets Transfer Learning</titre> [[SLIDES](https://modal.lille.inria.fr/wikimodal/lib/exe/fetch.php?media=modal_20180220_morvant.pdf)]
 - Jan. 18: Visit of "Université pour tous" at LaHC, Univ. of Saint-Etienne, France: <titre>Presentation of the Data Intelligence Group<titre>and <titre>What is Domain Adaptation?</titre>
 - Jan. 16: Visit of students at LaHC, Univ. of Saint-Etienne, France: <titre>What is Domain Adaptation? A popularization</titre> 
-- Jan. 16: ANR project LIVES workshop, Aix-Marseille Univ., France: <titre>PAC\-Bayesian Majority Vote & Domain Adaptation</titre>
+- Jan. 16: ANR project LIVES workshop, Aix-Marseille Univ., France: <titre>PAC-Bayesian Majority Vote & Domain Adaptation</titre>
 - Feb. 15:  Machine Learning Seminars LaHC, Univ. of Saint-Étienne, France: <titre>Multilabel Structured Output Learning with A Random Sample of Spanning Trees</titre>
 - May 14: AMA Seminars, LIG, Grenoble, France: <titre>When PAC\-Bayes meets Domain Adaptation</titre>
 - Feb. 14: Machine Learning Seminars LaHC, Univ. of Saint-Étienne, France: <titre>Domain Adaptation of Majority Votes via Perturbed Variation-based Label transfer</titre>
@@ -152,7 +152,7 @@ Since July 2024, I am also in charge of the 1st year of BSc in Computer Science.
 - Lampada Workshop, Porquerolles, France: <titre>A PAC\-Bayesian Approach for Domain Adaptation</titre> 
 - April 13: IST Austria, Klosterneuburg, Austria: <titre>Combining Similarities or Classifiers for Domain Adaptation</titre>
 - March 13: Xerox Research Center Europe, Grenoble, France: <titre>Combining Similarities or Classifiers for Domain Adaptation</titre>
-- Nov. 12: Signal Processing \- Machine Learning Seminars LATP/LIF, Aix-Marseille Univ., France: <titre>A Well-founded PAC\-Bayesian Majority Vote applied to the Nearest Neighbor Rule</titre>
+- Nov. 12: Signal Processing \- Machine Learning Seminars LATP/LIF, Aix-Marseille Univ., France: <titre>A Well-founded PAC-Bayesian Majority Vote applied to the Nearest Neighbor Rule</titre>
 - Aug. 12: GRAAL Seminars, Univ. Laval, Québec, Canada: <titre>Unsupervised and Semi-supervised Domain Adaptation with Good Similarity Functions</titre>
 - June 12: Lampada Workshop, Lille, France: <titre>PAC\-Bayes Bound and Multiclass Classification</titre>
 - April 12: VideoSense Meeting, Grenoble, France: <titre>From PAC\-Bayesian MinCq to Late Classifier Fusion</titre>

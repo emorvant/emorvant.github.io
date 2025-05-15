@@ -4,37 +4,22 @@ permalink: /publications/
 title: Publications
 ---
 
+[My DBLP webpage](https://dblp.org/pid/94/10288.html) &nbsp;&bull;&nbsp; [My Google Scholar webpage](http://scholar.google.com/citations?user=4dzYdBsAAAAJ&hl=fr)
 
-<p><a href='https://dblp.org/pid/94/10288.html' target='_blank'>My DBLP webpage</a> - <a href='http://scholar.google.com/citations?user=4dzYdBsAAAAJ&hl=fr' target='_blank'>My Google Scholar webpage</a></p>
+# HDR (in french, _Habilitation à Diriger des Recherches_)
 
-<p><a href="#phd">Ph.D. Thesis</a> &nbsp;&bull;&nbsp; <a href="#book">Book</a> &nbsp;&bull;&nbsp; <a href="#journal">International Journals</a> &nbsp;&bull;&nbsp; <a href="#conf">International Conferences</a> &nbsp;&bull;&nbsp; <a href="#workshops">International Workshops</a> &nbsp;&bull;&nbsp; <a href="#fr_conf">French Conferences</a> &nbsp;&bull;&nbsp; <a href="#rapport">Reports</a> &nbsp;&bull;&nbsp; <a href="#autre">Misc.</a></p>
-
-
-
-<h3 id="hdr">HDR (in french, <i>Habilitation à Diriger des Recherches</i>)</h3>
-
-<ul>
-    <li><titre>Avancées en théorie PAC-Bayésienne : de bornes en généralisation à des algorithmes d'apprentissage supervisé et de transfert</titre><br />
-    <titre><i>Advances in PAC-Bayesian theory from generalization bounds to supervised and transfer learning algorithms</i></titre><br />
-    <b>HDR committee: </b>
-    Marianne Clausel (reviewer),
-    Stéphane Chrétien (chair, examiner),
-    Colin De La Higuera (reviewer),
-    Rémi Emonet (examiner),
-    François Jacquenet (tutor),
-    Liva Ralaivola (reviewer)<br /> 
-    <b>Defense date:</b> April 7, 2025.<br/>
+- <titre>Avancées en théorie PAC-Bayésienne : de bornes en généralisation à des algorithmes d'apprentissage supervisé et de transfert</titre>\
+_Advances in PAC-Bayesian theory from generalization bounds to supervised and transfer learning algorithms_\
+HDR committee: Marianne Clausel (reviewer), Stéphane Chrétien (chair, examiner), Colin De La Higuera (reviewer), Rémi Emonet (examiner), François Jacquenet (tutor), Liva Ralaivola (reviewer)\
+Defense date: April 7, 2025\
     [<a href="misc/hdr_morvant.pdf">pdf</a>] [<a href="misc/bibtex_hdr_morvant.bib">bibtex</a>] [<a href="misc/slides_hdr_morvant.pdf">slides</a>] 
-     </li>
-     </ul>
 
-<h3 id="phd">Ph.D. Thesis (in french)</h3>
-      
-   <ul><li> 
-	  <titre>Apprentissage de vote de majorité pour la classification supervisée et
-l’adaptation de domaine : approches PAC-Bayésiennes et combinaison de similarités</titre><br />
-<titre><i>Learning Majority Vote for Supervised Classification and Domain Adaptation: PAC-Bayesian Approaches and Similarity Combination</i></titre><br />
-<b>PhD committee: </b>
+# Ph.D. Thesis (in french)
+
+- <titre>Apprentissage de vote de majorité pour la classification supervisée et
+l’adaptation de domaine : approches PAC-Bayésiennes et combinaison de similarités</titre>\
+_Learning Majority Vote for Supervised Classification and Domain Adaptation: PAC-Bayesian Approaches and Similarity Combination_\ 
+PhD committee: 
 Stéphane Ayache (co-advisor), 
 Antoine Cornuéjols (chair, examiner), 
 Rémi Gilleron (examiner), 
@@ -46,7 +31,6 @@ Michèle Sebag (reviewer).<br>
 <b>Ph.D. award 2013</b> from Aix-Marseille University<br/>
 <b>A runner-up award</b> of the "<a href="https://afia.asso.fr/les-prix-de-these-en-intelligence-artificielle/" target="_blank">Prix de thèse de l'AFIA 2014</a>"<br>
           [<a href="misc/phd_morvant.pdf">pdf</a>] [<a href="misc/bibtex_phd_morvant.bib">bibtex</a>] [<a href="misc/slides_phd_morvant.pdf">slides</a>] 
-</li></ul>
 
 <h3 id="book">Book</h3>
 <ul>
@@ -182,7 +166,7 @@ European Conference on Machine Learning & Principles and Pratice of Knowledge Di
 <titre>A New PAC-Bayesian Perspective on Domain Adaptation</titre><br/>
 Pascal Germain ; Amaury Habrard ; François Laviolette ; Emilie Morvant <br/>
 International Conference on Machine Learning (ICML), <b>2016</b>, New York, USA<br/>
-[<a href="http://jmlr.org/proceedings/papers/v48/germain16.pdf" target="_blank">pdf</a>][<a href="https://hal.archives-ouvertes.fr/hal-01307045/bibtex" target="_blank">bibtex</a>][<a href="http://arxiv.org/abs/1506.04573" target="_blank">research report arXiv:1506.04573</a>] [<a href=" http://techtalks.tv/talks/a-new-pac-bayesian-perspective-on-domain-adaptation/62436/" target="_blank">video</a>]  [<a href="https://github.com/GRAAL-Research/domain_adaptation_of_linear_classifiers" target="_blank">DALC code</a>] [<a href="#pbda_dalc">extended journal version</a>]<br/><br/>
+[<a href="http://jmlr.org/proceedings/papers/v48/germain16.pdf" target="_blank">pdf</a>][<a href="https://hal.archives-ouvertes.fr/hal-01307045/bibtex" target="_blank">bibtex</a>][<a href="http://arxiv.org/abs/1506.04573" target="_blank">research report arXiv:1506.04573</a>] [<a href="https://github.com/GRAAL-Research/domain_adaptation_of_linear_classifiers" target="_blank">DALC code</a>] [<a href="#pbda_dalc">extended journal version</a>]<br/><br/>
 </li>
 	<li id="NIPS14">
 	  <titre> Multilabel Structured Output Learning with Random Spanning Trees of Max-Margin Markov Networks</titre><br />
@@ -194,7 +178,7 @@ Neural Information Processing Systems (NIPS), <b>2014</b>, Montréal, Canada<br/
 	 <titre> A PAC-Bayesian Approach for Domain Adaptation with Specialization to Linear Classifiers</titre><br/>
 Pascal Germain ; Amaury Habrard ; François Laviolette ; Emilie Morvant<br/>
 International Conference on Machine Learning (ICML), <b>2013</b>, Atlanta, USA<br/>
-          [<a href="https://hal.archives-ouvertes.fr/hal-00822685/document" target="_blank">pdf</a>] [<a href="https://hal.archives-ouvertes.fr/hal-00822685/bibtex" target="_blank">bibtex</a>] [<a href="http://techtalks.tv/talks/a-pac-bayesian-approach-for-domain-adaptation-with-specialization-to-linear-classifiers/58304/" target="_blank">video</a>] [<a href="https://github.com/pgermain" target="_blank">PBDA code</a>] [<a href="#pbda_long">extended version</a>]<br /><br />
+          [<a href="https://hal.archives-ouvertes.fr/hal-00822685/document" target="_blank">pdf</a>] [<a href="https://hal.archives-ouvertes.fr/hal-00822685/bibtex" target="_blank">bibtex</a>] [<a href="https://github.com/pgermain" target="_blank">PBDA code</a>] [<a href="#pbda_long">extended version</a>]<br /><br />
 	</li>
 <li id="ACML13">
 	 <titre> The Multi-Task Learning View of Multimodal Data</titre><br/>
@@ -206,7 +190,7 @@ Asian Conference on Machine Learning (ACML), <b>2013</b>, Canberra, Australia<br
 	  <titre>PAC-Bayesian Generalization Bound on Confusion Matrix for Multi-Class Classification</titre><br/>
 Emilie Morvant ; Sokol Koço ; Liva Ralaivola <br/>
 International Conference on Machine Learning (ICML), <b>2012</b>, Edinburgh, United Kingdom. pp. 815-822<br/>
-          [<a href="https://hal.archives-ouvertes.fr/hal-00674847v6/document" target="_blank">pdf</a>] [<a href="https://hal.archives-ouvertes.fr/hal-00674847v6/bibtex">bibtex</a>] [<a href="http://techtalks.tv/talks/pac-bayesian-generalization-bound-on-confusion-matrix-for-multi-class-classification/57406/" target="_blank">video</a>] <!-- [<a href="http://icml.cc/discuss/2012/434.html" target="_blank">discussion</a>] --> [<a href="http://fr.arxiv.org/abs/1202.6228" target="_blank">research report arXiv:1202.6228</a>]<br /><br />
+          [<a href="https://hal.archives-ouvertes.fr/hal-00674847v6/document" target="_blank">pdf</a>] [<a href="https://hal.archives-ouvertes.fr/hal-00674847v6/bibtex">bibtex</a>] [<a href="http://fr.arxiv.org/abs/1202.6228" target="_blank">research report arXiv:1202.6228</a>]<br /><br />
 	</li>
 	<li id="ICDM11">
 	 <titre>Sparse Domain Adaptation in Projection Spaces based on Good Similarity Functions</titre><br/>
