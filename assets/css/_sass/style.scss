@@ -28,23 +28,7 @@ h1,h2,h3,h4,h5,h6 {
   text-transform: inherit;
 }
 
-
 a {
-  color: $brand-color;
-  text-decoration: none;
-  &:hover{
-    color: $text-color;
-
-    @media (prefers-color-scheme: dark) {
-      color: $text-color-dark;
-    }
-
-  }
-}
-
-
-
-p a {
   color: $text-color;
   text-decoration: none;
   background: -webkit-linear-gradient(transparent 90%, lighten($brand-color, 10%) 10%);
