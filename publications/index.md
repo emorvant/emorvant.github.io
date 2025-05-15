@@ -239,29 +239,29 @@ _Finalized version published at ICDM'11_\
 
 # French Conferences
 - <titre>Une borne PAC-Bayésienne sur une mesure de risque pour l'apprentissage équitable</titre>
-              Hind Atbir ; Farah Cherfaoui ; Guillaume Metzler ; Emilie Morvant ; Paul Viallard \
-              French Conference on Machine Learning (CAp 2022), __2022__ \
-              \
+Hind Atbir ; Farah Cherfaoui ; Guillaume Metzler ; Emilie Morvant ; Paul Viallard \
+French Conference on Machine Learning (CAp 2022), __2022__ \
+\
 - <titre>Intérêt des bornes désintégrées pour la généralisation avec des mesures de complexité</titre>
-              Paul Viallard ; Rémi Emonet ; Pascal Germain ; Amaury Habrard ; Emilie Morvant ; Valentina Zantedeschi\
-              French Conference on Machine Learning (CAp 2022), __2022__ \
-              \
+Paul Viallard ; Rémi Emonet ; Pascal Germain ; Amaury Habrard ; Emilie Morvant ; Valentina Zantedeschi\
+French Conference on Machine Learning (CAp 2022), __2022__ \
+\
  - <titre>Learning Stochastic Majority Votes by Minimizing a PAC-Bayes Generalization Bound</titre>
         		 Valentina Zantedeschi ; Paul Viallard ; Emilie Morvant ; Rémi Emonet ; Amaury Habrard ; Pascal Germain ; Benjamin Guedj\
 				French Conference on Machine Learning (CAp 2022), __2022__ \
         \
 - <titre>Apprentissage de Vote de Majorité par Minimisation d’une C-Borne</titre>
-              Paul Viallard ; Emilie Morvant ; Pascal Germain\
-              French Conference on Machine Learning (CAp 2021), __2021__ \
-              \
+Paul Viallard ; Emilie Morvant ; Pascal Germain\
+French Conference on Machine Learning (CAp 2021), __2021__ \
+\
  - <titre>Dérandomisation des Bornes PAC-Bayésiennes</titre>
-              Paul Viallard ; Emilie Morvant ; Pascal Germain\
-              French Conference on Machine Learning (CAp 2021), __2021__ \
-              \
+Paul Viallard ; Emilie Morvant ; Pascal Germain\
+French Conference on Machine Learning (CAp 2021), __2021__ \
+\
  - <titre>Une Analyse PAC-Bayésienne de la Robustesse Adversariale</titre>
-              Guillaume Vidot ; Paul Viallard ; Emilie Morvant\
-              French Conference on Machine Learning (CAp 2021), __2021__ \
-              \
+Guillaume Vidot ; Paul Viallard ; Emilie Morvant\
+French Conference on Machine Learning (CAp 2021), __2021__ \
+\
 - <titre>Théorie PAC-Bayésienne pour l'apprentissage en deux étapes de réseaux de neurones</titre>
   Paul Viallard ; Rémi Emonet ; Amaury Habrard ; Emilie Morvant; Pascal Germain\
   French Conference on Machine Learning (CAp 2020), __2020__ \
