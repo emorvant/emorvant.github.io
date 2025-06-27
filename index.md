@@ -155,8 +155,8 @@ Since July 2024, I am also in charge of the 1st year of BSc in Computer Science.
 - March 13: Xerox Research Center Europe, Grenoble, France: <titre>Combining Similarities or Classifiers for Domain Adaptation</titre>
 - Nov. 12: Signal Processing \- Machine Learning Seminars LATP/LIF, Aix-Marseille Univ., France: <titre>A Well-founded PAC-Bayesian Majority Vote applied to the Nearest Neighbor Rule</titre>
 - Aug. 12: GRAAL Seminars, Univ. Laval, Québec, Canada: <titre>Unsupervised and Semi-supervised Domain Adaptation with Good Similarity Functions</titre>
-- June 12: Lampada Workshop, Lille, France: <titre>PAC\-Bayes Bound and Multiclass Classification</titre>
-- April 12: VideoSense Meeting, Grenoble, France: <titre>From PAC\-Bayesian MinCq to Late Classifier Fusion</titre>
+- June 12: Lampada Workshop, Lille, France: <titre>PAC-Bayes Bound and Multiclass Classification</titre>
+- April 12: VideoSense Meeting, Grenoble, France: <titre>From PAC-Bayesian MinCq to Late Classifier Fusion</titre>
 - March 12: HIIT (Helsinki Institute for Information Technology) Seminars, Espoo, Finland: <titre>A General Framework for Domain Adaptation in a Good Similarity-Based Projection Space</titre>
 - Sept. 11: Signal Processing \- Machine Learning Seminars LATP/LIF, Aix-Marseille Univ., France: <titre>Sparse Domain Adaptation in Projection Space based on Good Similarity Function</titre>
 - June 11: Lampada Workshop, Saint-Victor sur Loire, France: <titre>Domain Adaptation with Good Similarity Functions</titre>
