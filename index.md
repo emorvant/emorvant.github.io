@@ -19,7 +19,7 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 # Research Interests
 
 - __Statistical Machine Learning__
-- PAC\-Bayesian bounds and algorithms
+- PAC\-Bayesian bounds and algorithms (see our [tutorial on PAC-Bayes](https://paulviallard.github.io/colt25-pac-bayes-tutorial/) with P. Viallard, given at [COLT 2025](https://learningtheory.org/colt2025/))
 - Transfer learning, domain adaptation
 - Supervised learning
 - Robustness and adversarial learning
@@ -137,8 +137,9 @@ Since July 2024, I am also in charge of the 1st year of BSc in Computer Science.
 - 2013: [CAp](https://pfia2013.univ-lille1.fr/doku.php%3Fid=fr:cap.html)
 - Journals: [JMLR](https://www.jmlr.org/), [TPAMI](https://www.computer.org/web/tpami), [Pattern Recogn. Lett.](https://www.journals.elsevier.com/pattern-recognition-letters)
 
-# Invited talks and Seminaries
+# Invited talks / Seminaries / Tutorials
 
+- June 25: Conference on Learning Theory ([COLT 2025](https://learningtheory.org/colt2025/)), Lyon, France: <titre>How to Make Use of Learning Theory to Learn Efficient ML Models: From PAC-Bayesian Generalization Bounds to (Self-Bounding) Learning Algorithms</titre>  *(Tutorial with [Paul Viallard](https://paulviallard.github.io))* [[Ressources](https://paulviallard.github.io/colt25-pac-bayes-tutorial/)]
 - June 19: Journées de Statistique 2019, Nancy, France: <titre>When PAC\-Bayesian Majority Vote meets Domain Adaptation</titre>
 - June 18: "Les Universitaires retournent à l'École", Lycée Étienne Mimard, Saint-Etienne, France: <titre>Apprentissage Automatique et Adaptation de Domaine</titre>
 - Feb. 18: MODAL Seminars, INRIA Lille, France: <titre>When PAC\-Bayesian Majority Vote Meets Transfer Learning</titre> [[SLIDES](https://modal.lille.inria.fr/wikimodal/lib/exe/fetch.php?media=modal_20180220_morvant.pdf)]
