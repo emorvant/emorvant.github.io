@@ -284,6 +284,9 @@ French Conference on Machine Learning (CAp 2011), __2011__, Chambéry, France.
 
 # Research Reports--- not (yet) published
 
+- __<titre>PAC-Bayesian Bounds on Constrained f-Entropic Risk Measures</titre>__ \-  Hind Atbir ; Farah Cherfaoui ; Guillaume Metzler ; Emilie Morvant ; Paul Viallard\
+[research report (2025)](https://arxiv.org/abs/2510.11169) 
+
 - __<titre>PAC-Bayesian Theorems for Domain Adaptation with Specialization to Linear Classifiers</titre>__ \-  Pascal Germain ; Amaury Habrard ; François Laviolette ; Emilie Morvant\
 [research report (2015)](https://arxiv.org/abs/1503.06944) _Extended version of our ICML'13_
 
