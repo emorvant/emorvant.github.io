@@ -164,6 +164,6 @@ Since July 2024, I am also in charge of the 1st year of BSc in Computer Science.
 
 # Spare Time Activities
 
-- I am a 2nd star black belt in Manchuria Kung Fu, I am also an instructor of [Manchuria Kung Fu](https://mkf-fr.com/).  I have been trained by Master Mathieu Derosière.
+- I am a 3rd star black belt in Manchuria Kung Fu, I am also an instructor of [Manchuria Kung Fu](https://mkf-fr.com/). I have been trained by Master Mathieu Derosière.
 - I have been playing video games since I was 4 or 5 years old. I started to play on an [Amstrad CPC](https://en.wikipedia.org/wiki/Amstrad_CPC/) with a cassette tape deck!
 
