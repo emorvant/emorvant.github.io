@@ -28,8 +28,7 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 - Similarity and metric learning
 - Multiview learning
 - Imbalanced data 
-- Multi\-armed bandits _(very beginner)_
-- Conformal prediction _(very beginner)_
+- Multi\-armed bandits
 
 
 # Research Projects
