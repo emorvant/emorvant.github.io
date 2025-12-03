@@ -87,6 +87,7 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 
 # PhD Jurys
 
+- 2025 : Thibaud Leteno, St-Etienne (invited)
 - 2022 : Tahar Allouch, Paris (external examinator), Luxin Zhang, Lille (external examinator), Paul Viallard (co-supervisor)
 - 2020 : Léo Gautheron, St-Etienne (co-supervisor)
 - 2018 : Anil Goyal, St-Etienne/Grenoble (co-supervisor)
