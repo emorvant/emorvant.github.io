@@ -79,7 +79,7 @@ Knowledge and Information Systems (KAIS), 33(2):309-349, __2012__, DOI: 10.1007/
       
 - __<titre>A Theoretically Grounded Extension of Universal Attacks from the Attacker's Viewpoint</titre>__ \- 
  Jordan Patracone ; Paul Viallard ; Emilie Morvant ; Gilles Gasso ; Amaury Habrard ; Stéphane Canu\
-   European Conference on Machine Learning and Principles and Pratice of Knowledge Discovery in Databases (ECML-PKDD), __2024__\
+   European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), __2024__\
    [pdf](https://hal.science/hal-03615461) [bibtex](https://hal.science/hal-03615461v3/bibtex)
 
 - __<titre>Leveraging PAC-Bayes Theory and Gibbs Distributions for Generalization Bounds with Complexity Measures</titre>__ \- Paul Viallard ; Rémi Emonet ; Amaury Habrard ; Emilie Morvant ; Valentina Zantedeschi\
@@ -97,12 +97,12 @@ Knowledge and Information Systems (KAIS), 33(2):309-349, __2012__, DOI: 10.1007/
 
 - __<titre>Self-Bounding Majority Vote Learning Algorithms by the Direct Minimization of a Tight PAC-Bayesian C-Bound</titre>__ \- 
       Paul Viallard ; Pascal Germain ; Amaury Habrard ; Emilie Morvant\
-      European Conference on Machine Learning and Principles and Pratice of Knowledge Discovery in Databases (ECML-PKDD), __2021__\
+      European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), __2021__\
     [pdf](https://hal.archives-ouvertes.fr/hal-03208948/document)  [bibtex](https://hal.archives-ouvertes.fr/hal-03208948/bibtex)
 
 - __<titre>Landmark-based Ensemble Learning with Random Fourier Features and Gradient Boosting</titre>__ \- 
 Léo Gautheron ; Pascal Germain ; Amaury Habrard ; Guillaume Metzler ; Emilie Morvant ; Marc Sebban ; Valentina Zantedeschi\
-European Conference on Machine Learning and Principles and Pratice of Knowledge Discovery in Databases (ECML-PKDD), __2020__\
+European Conference on Machine Learning and Principles and c of Knowledge Discovery in Databases (ECML-PKDD), __2020__\
 [pdf](https://hal.archives-ouvertes.fr/hal-02900044v1/document) [bibtex](https://hal.archives-ouvertes.fr/hal-02900044v1/bibtex)
 
 - __<titre>Metric Learning from Imbalanced Data</titre>__ \- Léo Gautheron ; Amaury Habrard ; Emilie Morvant ; Marc Sebban\
@@ -120,7 +120,7 @@ International Symposium on Intelligent Data Analysis (IDA), __2018__, 's-Hertoge
 
 - __<titre>PAC-Bayesian Analysis for a two-step Hierarchical Mutliview Learning Approach</titre>__ \- 
 Anil Goyal ; Emilie Morvant ; Pascal Germain ; Massih-Reza Amini\
-European Conference on Machine Learning and Principles and Pratice of Knowledge Discovery in Databases (ECML-PKDD), __2017__, Skopje, Macedonia\
+European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), __2017__, Skopje, Macedonia\
 [pdf](https://hal.archives-ouvertes.fr/hal-01546109/document) [bibtex](https://hal.archives-ouvertes.fr/hal-01546109/bibtex) [research report arXiv:1606.07240](https://arxiv.org/abs/1606.07240)
 
 - __<titre>A New PAC-Bayesian Perspective on Domain Adaptation</titre>__ \- 
