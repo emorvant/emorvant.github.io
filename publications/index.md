@@ -72,6 +72,10 @@ Knowledge and Information Systems (KAIS), 33(2):309-349, __2012__, DOI: 10.1007/
 [pdf](https://hal.archives-ouvertes.fr/docs/00/68/62/05/PDF/SSDASF_draft_KAIS.pdf) [published version](https://www.springerlink.com/openurl.asp?genre=article&id=doi:10.1007/s10115-012-0516-7) [bibtex](https://hal.archives-ouvertes.fr/hal-00686205/bibtex) 
 
 # International Conferences
+
+- __<titre>PAC-Bayesian Bounds on Constrained f-Entropic Risk Measures</titre>__ \-  Hind Atbir ; Farah Cherfaoui ; Guillaume Metzler ; Emilie Morvant ; Paul Viallard\
+ International Conference on Artificial Intelligence and Statistics (AISTATS), __2026__ _(accepted as spotlight, top 2,5% of the papers)_\
+[pdf (not the final version yet)](https://arxiv.org/abs/2510.11169)
       
 - __<titre>A Theoretically Grounded Extension of Universal Attacks from the Attacker's Viewpoint</titre>__ \- 
  Jordan Patracone ; Paul Viallard ; Emilie Morvant ; Gilles Gasso ; Amaury Habrard ; Stéphane Canu\
@@ -283,9 +287,6 @@ Emilie Morvant ; Stéphane Ayache ; Amaury Habrard\
 French Conference on Machine Learning (CAp 2011), __2011__, Chambéry, France.
 
 # Research Reports--- not (yet) published
-
-- __<titre>PAC-Bayesian Bounds on Constrained f-Entropic Risk Measures</titre>__ \-  Hind Atbir ; Farah Cherfaoui ; Guillaume Metzler ; Emilie Morvant ; Paul Viallard\
-[research report (2025)](https://arxiv.org/abs/2510.11169) 
 
 - __<titre>PAC-Bayesian Theorems for Domain Adaptation with Specialization to Linear Classifiers</titre>__ \-  Pascal Germain ; Amaury Habrard ; François Laviolette ; Emilie Morvant\
 [research report (2015)](https://arxiv.org/abs/1503.06944) _Extended version of our ICML'13_
