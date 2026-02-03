@@ -67,6 +67,9 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 
 ### Interns
 
+- __David Nguyen Phung__ --- _PAC\-Bayes and Multi-Armed Bandits_ (Apr\-July 2026, co\-supervised with P. Viallard)
+- __Circée Chalayer__ --- (Feb\-July 2026, co\-supervised with R. Emonet and Q. Bertrand)
+- __Solal Peiffer-Smadja__ --- _PAC\-Bayes and distributionally robust optimization_ (Feb\-July 2026, co\-supervised with H. Atbir, F. Cherfaoui and P. Viallard)
 - __Baptiste Mathevon__ --- _PAC\-Bayes and Multi-Armed Bandits_ (Apr\-July 2025, co\-supervised with P. Viallard)
 - __Julien Bastian__ --- _Fairness and domain generalization_ (Mar\-Aug 2024, co\-supervised with G. Metzler)
 - __Hind Atbir__ --- _PAC\-Bayesian Fair Learning_ (Feb\-July 2024, co\-supervised with F. Cherfaoui, G. Metzler and P. Viallard)
