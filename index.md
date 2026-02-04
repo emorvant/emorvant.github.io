@@ -98,11 +98,12 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 # Current Teaching
 
 _Depuis Juillet 2015, je suis la responsable de la 2ème année de la licence d'informatique._ 
-_Depuis Juillet 2024, je suis également responsable de la 1ère année de la licence d'informatique_
+De Juillet 2024 à août 2025, j'ai également été responsable de la 1ère année de la licence d'informatique_
 
 Since July 2015, I am in charge of the 2nd year of BSc in Computer Science.
-Since July 2024, I am also in charge of the 1st year of BSc in Computer Science. 
+From July 2024 to August 2025, I was also in charge of the 1st year of BSc in Computer Science. 
 
+- L1 Info \- Informatique
 - L1 Info \- Programmation fonctionnelle \- Ocaml
 - L2 Info \- Systèmes d'exploitation
 - L2 Info \- Programmation impérative \- C (classique et spécifique alternants)
@@ -169,4 +170,3 @@ Since July 2024, I am also in charge of the 1st year of BSc in Computer Science.
 
 - I am a 3rd star black belt in Manchuria Kung Fu, I am also an instructor of [Manchuria Kung Fu](https://mkf-fr.com/). I have been trained by Master Mathieu Derosière.
 - I have been playing video games since I was 4 or 5 years old. I started to play on an [Amstrad CPC](https://en.wikipedia.org/wiki/Amstrad_CPC/) with a cassette tape deck!
-
