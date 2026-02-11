@@ -35,7 +35,7 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 
 - ANR project Famous _(local coordinator)_ : <titre>Fair multimodal Learning</titre>
 - Projet inter\-laboratoire FIL (Fédération Informatique de Lyon) (with [G. Metlzer](https://guillaumemetzler.github.io)): <titre>PAC-Bayesian Fair Learning</titre>
-- Projet inter\-laboratoire FIL (with [G. Metlzer](https://guillaumemetzler.github.io)) : <titre>Random Fourrier Features for PAC\-Bayesian Domain Adaptation</titre>
+- Projet inter\-laboratoire FIL (with [G. Metlzer](https://guillaumemetzler.github.io)) : <titre>Random Fourrier Features for PAC-Bayesian Domain Adaptation</titre>
 - ANR project [TAUDoS](https://perso.univ-st-etienne.fr/er101405/TAUDoS/) _(member)_:  <titre>Theory and Algorithms for the Understanding of Deep learning On Sequential data</titre>
 - ANR project [APRIORI](https://project.inria.fr/apriori/) __(coordinator)__:  <titre>A Pac-bayesian RepresentatIOn leaRnIng perspective</titre>
 - INS2I\-CNRS project JCJC 2018 "PaRaFF" (with [P. Germain](https://www.pascalgermain.info/)): <titre>PAC-Bayesian Random Fourier Features</titre>
@@ -169,4 +169,4 @@ From July 2024 to August 2025, I was also in charge of the 1st year of BSc in Co
 # Spare Time Activities
 
 - I am a 3rd star black belt in Manchuria Kung Fu, I am also an instructor of [Manchuria Kung Fu](https://mkf-fr.com/). I have been trained by Master Mathieu Derosière.
-- I have been playing video games since I was 4 or 5 years old. I started to play on an [Amstrad CPC](https://en.wikipedia.org/wiki/Amstrad_CPC/) with a cassette tape deck!
+- I have been playing video games since I was 4 or 5 years old. I started to play on an [Amstrad CPC](https://en.wikipedia.org/wiki/Amstrad_CPC) with a cassette tape deck!
