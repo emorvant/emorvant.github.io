@@ -302,4 +302,4 @@ French Conference on Machine Learning (CAp 2011), __2011__, Chambéry, France.
 - __<titre>Flexible Domain Adaptation for Multimedia Indexing</titre>__ (__Best Poster Award__, _presentation of a part of our ICDM'11 paper_)\
 Emilie Morvant ; Amaury Habrard ; Stéphane Ayache\
 Poster presentation at [ENS/INRIA Computer Vision and Machine Learning Summer School](https://www.di.ens.fr/willow/events/cvml2011/), __2011__.\
-[poster](https://hal.archives-ouvertes.fr/docs/00/63/48/81/PDF/poster_DASF_CVML.pdf)\
+[poster](https://hal.archives-ouvertes.fr/docs/00/63/48/81/PDF/poster_DASF_CVML.pdf)
