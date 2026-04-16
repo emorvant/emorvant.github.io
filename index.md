@@ -49,6 +49,8 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 
 ### Current Ph.D. Student
 
+- __Giovanni Benedetti Da Rosa--- _Times Series and Domain Adaptation_  (from April. 2026 to ... , co\-supervised with [Remi Emonet](https://home.heeere.com) and [Aurélie Boisbunon](https://aboisbunon.github.io))
+
 - __[Hind Atbir](https://hatbir.gitlab.io/)__ --- _Learning fair and robust kernel\-based models with generalization guarantees_  (from Oct. 2024 to ... , co\-supervised with [Farah Cherfaoui](https://perso.univ-st-etienne.fr/cf104810/) and [Paul Viallard](https://paulviallard.github.io/))
 
 - __[Julien Bastian](https://julienbastian.github.io/)__ --- _Multiview Fair Learning \- From Theory to Algorithms_  (from Oct. 2024 to ... , co\-supervised with [Christine Largeron](https://perso.univ-st-etienne.fr/largeron/) and [Guillaume Metzler](https://guillaumemetzler.github.io/))
