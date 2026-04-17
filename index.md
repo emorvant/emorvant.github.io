@@ -33,7 +33,8 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 
 # Research Projects
 
-- ANR project Famous _(local coordinator)_ : <titre>Fair multimodal Learning</titre>
+- ANR project DATES _(member)_ : <titre>Domain Adaptation for Times Series</titre>
+- ANR project Famous _(local coordinator)_ : <titre>Fair Multimodal Learning</titre>
 - Projet inter\-laboratoire FIL (Fédération Informatique de Lyon) (with [G. Metlzer](https://guillaumemetzler.github.io)): <titre>PAC-Bayesian Fair Learning</titre>
 - Projet inter\-laboratoire FIL (with [G. Metlzer](https://guillaumemetzler.github.io)) : <titre>Random Fourrier Features for PAC-Bayesian Domain Adaptation</titre>
 - ANR project [TAUDoS](https://perso.univ-st-etienne.fr/er101405/TAUDoS/) _(member)_:  <titre>Theory and Algorithms for the Understanding of Deep learning On Sequential data</titre>
