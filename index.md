@@ -131,6 +131,7 @@ From July 2024 to August 2025, I was also in charge of the 1st year of BSc in Co
 
 # Member of Program Committees
 
+- 2026: [CAp](https://caprfiap2026.sciencesconf.org)
 - 2025: [CAp](https://pfia2025.u-bourgogne.fr/conferences/cap/), [NeurIPS](https://neurips.cc/Conferences/2025)
 - 2022: [ECML\-PKDD](https://2022.ecmlpkdd.org/) (as area chair), [ICML](https://icml.cc/Conferences/2022), CAp 
 - 2021: [ICML](https://icml.cc/Conferences/2021), CAp
