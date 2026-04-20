@@ -75,7 +75,7 @@ Knowledge and Information Systems (KAIS), 33(2):309-349, __2012__, DOI: 10.1007/
 
 - __<titre>PAC-Bayesian Bounds on Constrained f-Entropic Risk Measures</titre>__ \-  Hind Atbir ; Farah Cherfaoui ; Guillaume Metzler ; Emilie Morvant ; Paul Viallard\
  International Conference on Artificial Intelligence and Statistics (AISTATS), __2026__ _(accepted as spotlight, top 2.5% of the papers)_\
-[pdf (not the final version yet)](https://arxiv.org/abs/2510.11169)
+[pdf](https://arxiv.org/abs/2510.11169) [bibtex](https://hal.science/hal-05314302v2/bibtex)
       
 - __<titre>A Theoretically Grounded Extension of Universal Attacks from the Attacker's Viewpoint</titre>__ \- 
  Jordan Patracone ; Paul Viallard ; Emilie Morvant ; Gilles Gasso ; Amaury Habrard ; Stéphane Canu\
