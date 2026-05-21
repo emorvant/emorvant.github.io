@@ -288,7 +288,7 @@ French Conference on Machine Learning (CAp 2011), __2011__, Chambéry, France.
 
 # Research Reports--- not (yet) published
 
-- __<titre>PPAC-Bayesian Generalization Guarantees for Fairness on Stochastic and Deterministic Classifiers</titre>__ \-  Julien Bastian ; Benjamin Leblanc ; Pascal Germain ; Amaury Habrard ; Christine Largeron ; Guillaume Metzler ; Emilie Morvant ; Paul Viallard\
+- __<titre>PAC-Bayesian Generalization Guarantees for Fairness on Stochastic and Deterministic Classifiers</titre>__ \-  Julien Bastian ; Benjamin Leblanc ; Pascal Germain ; Amaury Habrard ; Christine Largeron ; Guillaume Metzler ; Emilie Morvant ; Paul Viallard\
 [research report (2026)](https://arxiv.org/abs/2602.11722) 
 
 - __<titre>PAC-Bayesian Theorems for Domain Adaptation with Specialization to Linear Classifiers</titre>__ \-  Pascal Germain ; Amaury Habrard ; François Laviolette ; Emilie Morvant\
