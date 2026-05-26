@@ -9,7 +9,7 @@ published: true
 
 # About me
 
-[CV (in french)](CV/CV_MORVANT.pdf)
+[CV (in french)](CV/CV-EM.pdf)
 
 Since Oct. 2014, I am an associate professor (_maître de conférences_, [HDR](/_posts/2025-04-07-HDR.md)) at [University Jean Monnet](https://portail.univ-st-etienne.fr) of Saint\-Etienne (France).
 I am a member of the [Hubert Curien Laboratory](https://laboratoirehubertcurien.fr) within the [Machine Learning](https://laboratoirehubertcurien.univ-st-etienne.fr/en/teams/data-intelligence.html) team. Since 2026, I have been in charge of the _Foundation and Theory of Machine Learning_ subgroup. I have been also responsible of the 2nd year of BSc in Computer Science since July 2015 (and of the 1st year during the 2024–2025 academic year). From Oct. 2013 to Sept. 2014, I was a postdoctoral researcher at [ISTA](https://ist.ac.at/) (Institute of Science and Technology Austria) in the [Christoph Lampert group](https://pub.ist.ac.at/~chl/) (Computer Vision and Machine Learning).
