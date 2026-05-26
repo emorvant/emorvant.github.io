@@ -223,8 +223,18 @@ _Finalized version published at ICDM'11_
 
 # French Conferences
 
+
+- __<titre>PBorne en généralisation PAC-Bayésienne pour l'optimisation distributionnellement robuste</titre>__ \- S. Peiffer-Smadja ; H. Atbir ; F. Cherfaoui ; E. Morvant ; P. Viallard\
+French Conference on Machine Learning (CAp 2026), __2026__
+
+- __<titre>Garanties en généralisation PAC-Bayésiennes pour l'équité de prédicteurs stochastiques et déterministes</titre>__ \- J. Bastian ;  B. Leblanc ;  P. Germain ;  A. Habrard ;  C. Largeron ;  G. Metzler ;  E. Morvant ;  P. Viallard\
+French Conference on Machine Learning (CAp 2026), __2026__
+
+- __<titre>PAC-Bayesian Bounds on Constrained f-Entropic Risk Measure</titre>__ \- Hind Atbir ; Farah Cherfaoui ; Guillaume Metzler ; Emilie Morvant ; Paul Viallard\
+French Conference on Machine Learning (CAp 2026), __2026__
+
 - __<titre>Une borne PAC-Bayésienne sur une mesure de risque pour l'apprentissage équitable</titre>__ \- Hind Atbir ; Farah Cherfaoui ; Guillaume Metzler ; Emilie Morvant ; Paul Viallard\
-French Conference on Machine Learning (CAp 2022), __2022__
+French Conference on Machine Learning (CAp 2024), __2024__
 
 - __<titre>Intérêt des bornes désintégrées pour la généralisation avec des mesures de complexité</titre>__ \- Paul Viallard ; Rémi Emonet ; Pascal Germain ; Amaury Habrard ; Emilie Morvant ; Valentina Zantedeschi\
 French Conference on Machine Learning (CAp 2022), __2022__
