@@ -149,7 +149,7 @@ From July 2024 to August 2025, I was also in charge of the 1st year of BSc in Co
 # Invited talks / Seminaries / Tutorials
 
 
-- June 26: Conference on Learning Theory ([POPILLS](https://popils-day.github.io) -Journée Parcimonie, Optimisation et Problèmes Inverses Lyon Saint-Etienne Savoie), Saint-Étienne, France: <titre>De bornes de généralisation à des fonctions objectives</titre>  *(short version of our tutorial with [Paul Viallard](https://paulviallard.github.io))* 
+- June 26: Conference on Learning Theory ([POPILLS](https://popils-day.github.io) -Journée Parcimonie, Optimisation et Problèmes Inverses Lyon Saint-Etienne Savoie), Saint-Étienne, France: <titre>De bornes de généralisation à des fonctions objectives</titre>  *(short version of our tutorial with [Paul Viallard](https://paulviallard.github.io)* 
 - June 25: Conference on Learning Theory ([COLT 2025](https://learningtheory.org/colt2025/)), Lyon, France: <titre>How to Make Use of Learning Theory to Learn Efficient ML Models: From PAC-Bayesian Generalization Bounds to (Self-Bounding) Learning Algorithms</titre>  *(Tutorial with [Paul Viallard](https://paulviallard.github.io))* [[Ressources](https://paulviallard.github.io/colt25-pac-bayes-tutorial/)]
 - June 19: Journées de Statistique 2019, Nancy, France: <titre>When PAC\-Bayesian Majority Vote meets Domain Adaptation</titre>
 - June 18: "Les Universitaires retournent à l'École", Lycée Étienne Mimard, Saint-Etienne, France: <titre>Apprentissage Automatique et Adaptation de Domaine</titre>
