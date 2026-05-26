@@ -33,6 +33,7 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 
 # Research Projects
 
+- PEPR [PRODIGE-AI](https://www.pepr-ia.fr/projet/prodige-ai/) _(member)_ : <titre>PRObability, ranDom matrIx theory, Geometry and gEneralization for generative-AI<titre>
 - ANR project DATES _(member)_ : <titre>Domain Adaptation for Times Series</titre>
 - ANR project Famous _(local coordinator)_ : <titre>Fair Multimodal Learning</titre>
 - Projet inter\-laboratoire FIL (Fédération Informatique de Lyon) (with [G. Metlzer](https://guillaumemetzler.github.io)): <titre>PAC-Bayesian Fair Learning</titre>
