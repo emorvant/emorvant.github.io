@@ -28,7 +28,7 @@ Liva Ralaivola  (examiner),
 Michèle Sebag (reviewer).\
 Defense date: September 18, 2013\
 __Ph.D. award 2013__ from Aix-Marseille University\
-__A runner-up award__ of the "[Prix de thèse AFIA 2014](https://afia.asso.fr/les-prix-de-these-en-intelligence-artificielle/)\
+__A runner-up award__ of the "[Prix de thèse AFIA 2014](https://afia.asso.fr/les-prix-de-these-en-intelligence-artificielle/)"\
   [pdf](./misc/phd_morvant.pdf) [bibtex](./misc/bibtex_phd_morvant.bib) [slides](./misc/slides_phd_morvant.pdf) 
 
 # Book
