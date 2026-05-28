@@ -73,6 +73,8 @@ Knowledge and Information Systems (KAIS), 33(2):309-349, __2012__, DOI: 10.1007/
 
 # International Conferences
 
+ __<titre>Mitigating Memorization in Closed-Form Flow Matching with Bootstrap Aggregating</titre>__ \- Circée Chalayer ; Quentin Bertrand ; Emilie Morvant ; Rémi Emonet\ European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), __2026__
+
 - __<titre>PAC-Bayesian Bounds on Constrained f-Entropic Risk Measures</titre>__ \-  Hind Atbir ; Farah Cherfaoui ; Guillaume Metzler ; Emilie Morvant ; Paul Viallard\
  International Conference on Artificial Intelligence and Statistics (AISTATS), __2026__ _(accepted as spotlight, top 2.5% of the papers)_\
 [pdf](https://arxiv.org/abs/2510.11169) [bibtex](https://hal.science/hal-05314302v2/bibtex)
