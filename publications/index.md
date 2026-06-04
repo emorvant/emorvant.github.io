@@ -73,7 +73,7 @@ Knowledge and Information Systems (KAIS), 33(2):309-349, __2012__, DOI: 10.1007/
 
 # International Conferences
 
- __<titre>Mitigating Memorization in Closed-Form Flow Matching with Bootstrap Aggregating</titre>__ \- Circée Chalayer ; Quentin Bertrand ; Emilie Morvant ; Rémi Emonet\ European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), __2026__
+- __<titre>Mitigating Memorization in Closed-Form Flow Matching with Bootstrap Aggregating</titre>__ \- Circée Chalayer ; Quentin Bertrand ; Emilie Morvant ; Rémi Emonet\ European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), __2026__
 
 - __<titre>PAC-Bayesian Bounds on Constrained f-Entropic Risk Measures</titre>__ \-  Hind Atbir ; Farah Cherfaoui ; Guillaume Metzler ; Emilie Morvant ; Paul Viallard\
  International Conference on Artificial Intelligence and Statistics (AISTATS), __2026__ _(accepted as spotlight, top 2.5% of the papers)_\
@@ -161,8 +161,8 @@ Emilie Morvant ; Amaury Habrard;  Stéphane Ayache<\
 
 - __<titre>Majority Vote of Diverse Classifiers for Late Fusion</titre>__ \- 
 Emilie Morvant ; Amaury Habrard ; Stéphane Ayache\
-[IAPR Joint International Workshops on Statistical Techniques in Pattern Recognition (SPR) and Structural and Syntactic Pattern Recognition (SSPR)](https://cs.uef.fi/ssspr2014/), __2014__, Joensuu, Finland.\
-[pdf](https://hal.archives-ouvertes.fr/hal-00985839/document) [bibtex](https://hal.archives-ouvertes.fr/hal-00985839/bibtex) [research report arXiv:1207.1019](https://arxiv.org/abs/1207.1019)
+IAPR Joint International Workshops on Statistical Techniques in Pattern Recognition (SPR) and Structural and Syntactic Pattern Recognition (SSPR), __2014__, Joensuu, Finland.\
+[pdf](https://arxiv.org/abs/1404.7796) [bibtex](https://hal.archives-ouvertes.fr/hal-00985839/bibtex) [research report arXiv:1207.1019](https://arxiv.org/abs/1207.1019)
 
 - __<titre>On the Usefulness of Similarity Based Projection Spaces for Transfer Learning</titre>__ \- 
 Emilie Morvant ; Amaury Habrard ; Stéphane Ayache\
