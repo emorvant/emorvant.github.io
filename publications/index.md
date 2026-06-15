@@ -229,8 +229,8 @@ _Finalized version published at ICDM'11_
 - __<titre>PBorne en généralisation PAC-Bayésienne pour l'optimisation distributionnellement robuste</titre>__ \- S. Peiffer-Smadja ; H. Atbir ; F. Cherfaoui ; E. Morvant ; P. Viallard\
 French Conference on Machine Learning (CAp 2026), __2026__
 
-- __<titre>Garanties en généralisation PAC-Bayésiennes pour l'équité de prédicteurs stochastiques et déterministes</titre>__ \- J. Bastian ;  B. Leblanc ;  P. Germain ;  A. Habrard ;  C. Largeron ;  G. Metzler ;  E. Morvant ;  P. Viallard\
-French Conference on Machine Learning (CAp 2026), __2026__
+<!-- - __<titre>Garanties en généralisation PAC-Bayésiennes pour l'équité de prédicteurs stochastiques et déterministes</titre>__ \- J. Bastian ;  B. Leblanc ;  P. Germain ;  A. Habrard ;  C. Largeron ;  G. Metzler ;  E. Morvant ;  P. Viallard\
+French Conference on Machine Learning (CAp 2026), __2026__ -->
 
 - __<titre>PAC-Bayesian Bounds on Constrained f-Entropic Risk Measure</titre>__ \- Hind Atbir ; Farah Cherfaoui ; Guillaume Metzler ; Emilie Morvant ; Paul Viallard\
 French Conference on Machine Learning (CAp 2026), __2026__

@@ -102,7 +102,7 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 # Current Teaching
 
 _Depuis Juillet 2015, je suis la responsable de la 2ème année de la licence d'informatique._ 
-De Juillet 2024 à août 2025, j'ai également été responsable de la 1ère année de la licence d'informatique_
+De Juillet 2024 à août 2025, j'ai également été responsable de la 1ère année de la licence d'informatique
 
 Since July 2015, I am in charge of the 2nd year of BSc in Computer Science.
 From July 2024 to August 2025, I was also in charge of the 1st year of BSc in Computer Science. 
