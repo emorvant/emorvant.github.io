@@ -51,6 +51,8 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 
 ### Current Ph.D. Student
 
+- __Circée Chalayer__ --- _Generalization of Flow-Matching_  (from Oct. 2026 to ... , co\-supervised with [Remi Emonet](https://home.heeere.com) and [Quentin Bertrand](https://qb3.github.io))
+
 - __Giovanni Benedetti Da Rosa__ --- _Times Series and Domain Adaptation_  (from April. 2026 to ... , co\-supervised with [Remi Emonet](https://home.heeere.com) and [Aurélie Boisbunon](https://aboisbunon.github.io))
 
 - __[Hind Atbir](https://hatbir.gitlab.io/)__ --- _Learning fair and robust kernel\-based models with generalization guarantees_  (from Oct. 2024 to ... , co\-supervised with [Farah Cherfaoui](https://perso.univ-st-etienne.fr/cf104810/) and [Paul Viallard](https://paulviallard.github.io/))
@@ -72,7 +74,7 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 ### Interns
 
 - __David Nguyen Phung__ --- _PAC\-Bayes and Multi-Armed Bandits_ (Apr\-July 2026, co\-supervised with P. Viallard)
-- __Circée Chalayer__ --- (Feb\-July 2026, co\-supervised with R. Emonet and Q. Bertrand)
+- __Circée Chalayer__ --- _Generalization of Flow-Matching_ (Feb\-July 2026, co\-supervised with R. Emonet and Q. Bertrand)
 - __Solal Peiffer-Smadja__ --- _PAC\-Bayes and distributionally robust optimization_ (Feb\-July 2026, co\-supervised with H. Atbir, F. Cherfaoui and P. Viallard)
 - __Baptiste Mathevon__ --- _PAC\-Bayes and Multi-Armed Bandits_ (Apr\-July 2025, co\-supervised with P. Viallard)
 - __Julien Bastian__ --- _Fairness and domain generalization_ (Mar\-Aug 2024, co\-supervised with G. Metzler)
