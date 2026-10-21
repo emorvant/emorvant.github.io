@@ -182,7 +182,7 @@ TRECVID Workshop participants notebook papers, NIST, __2012__\
 
 - __<titre>PAC-Bayesian Bounds on Constrained f-Entropic Risk Measures</titre>__<br>
 Hind Atbir ; Farah Cherfaoui ; Guillaume Metzler ; Emilie Morvant ; Paul Viallard\
-(https://wimlworkshop.org/)Women in Machine Learning workshop (WiML __2026__), Paris, France.\
+[Women in Machine Learning workshop](https://wimlworkshop.org/) (WiML __2026__), Paris, France.\
 _Presentation of our AISTATS'26_
 
 - __<titre>Interpreting Neural Networks as Majority Votes through the PAC-Bayesian Theory</titre>__ \- Paul Viallard ; Rémi Emonet ; Pascal Germain ; Amaury Habrard ; Emilie Morvant\
@@ -190,7 +190,7 @@ _Presentation of our AISTATS'26_
      [pdf](https://drive.google.com/file/d/1hc66gKlyotowhK_4__DCaNemvMR1DXWN/view)
 
 - __<titre>A New PAC-Bayesian View of Domain Adaptation</titre>__ \- Pascal Germain ; François Laviolette ; Amaury Habrard ; Emilie Morvant\
-NIPS __2015__  Workshop on  (https://sites.google.com/site/tlworkshop2015/)Transfer and Multi-Task Learning: Trends and New Perspectives, Montréal, Canada.\
+NIPS __2015__  Workshop on  [Transfer and Multi-Task Learning: Trends and New Perspectives](https://sites.google.com/site/tlworkshop2015/), Montréal, Canada.\
 [research report](https://arxiv.org/abs/1506.04573) [code](https://github.com/GRAAL-Research/domain_adaptation_of_linear_classifiers)\
 _Finalized version published at ICML'16_
 
@@ -205,18 +205,18 @@ NIPS __2014__  Workshop on
 
 - __<titre>Domain Adaptation of Majority Votes via Perturbed Variation-based Label transfer</titre>__ \- 
 Emilie Morvant\
-NIPS __2013__  Workshop  (https://sites.google.com/site/learningacross/hom)New Directions in Transfer and Multi-Task: Learning Across Domains and Tasks, Lake Tahoe, Nevada, United States.\
+NIPS __2013__  Workshop on [New Directions in Transfer and Multi-Task: Learning Across Domains and Tasks](https://sites.google.com/site/learningacross/hom), Lake Tahoe, Nevada, United States.\
 [(https://hal.archives-ouvertes.fr/hal-00906188/document)pdf\
 _Finalized version published in PRL'15_
 
 - __<titre>PAC-Bayesian Approach for Domain Adaptation with Specialization to Linear Classifiers</titre>__<br>
 Emilie Morvant  (Pascal Germain ; Amaury Habrard ; François Laviolette)\
-(https://wimlworkshop.org/)Women in Machine Learning workshop (WiML __2013__), Lake Tahoe, Nevada, United States.\
+[Women in Machine Learning workshop](https://wimlworkshop.org/) (WiML __2013__), Lake Tahoe, Nevada, United States.\
 _Presentation of our ICML'13_
 
 - __<titre>PAC-Bayesian Learning and Domain Adaptation</titre>__ \- 
 Pascal Germain ; Amaury Habrard ; François Laviolette ; Emilie Morvant\
-NIPS __2012__  Workshop  (https://sites.google.com/site/multitradeoffs2012/)Multi-trade-off in Machine Learning, Lake Tahoe, Nevada, United States.\
+NIPS __2012__  Workshop [Multi-trade-off in Machine Learning](https://sites.google.com/site/multitradeoffs2012/), Lake Tahoe, Nevada, United States.\
 [pdf](https://hal.archives-ouvertes.fr/docs/00/74/93/66/PDF/dapacbayes.pdf) [poster](https://hal.archives-ouvertes.fr/docs/00/74/93/66/ANNEX/poster_DAPACBAYES.pdf)\
 _Finalized version published at ICML'13_
 
