@@ -73,7 +73,8 @@ Knowledge and Information Systems (KAIS), 33(2):309-349, __2012__, DOI: 10.1007/
 
 # International Conferences
 
-- __<titre>Mitigating Memorization in Closed-Form Flow Matching with Bootstrap Aggregating</titre>__ \- Circée Chalayer ; Quentin Bertrand ; Emilie Morvant ; Rémi Emonet\ European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), __2026__\
+- __<titre>Mitigating Memorization in Closed-Form Flow Matching with Bootstrap Aggregating</titre>__ \- Circée Chalayer ; Quentin Bertrand ; Emilie Morvant ; Rémi Emonet\ 
+European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), __2026__\
 [pdf](https://hal.science/hal-05715450/) [bibtex](https://hal.science/hal-05715450v1/bibtex)
 
 - __<titre>PAC-Bayesian Bounds on Constrained f-Entropic Risk Measures</titre>__ \-  Hind Atbir ; Farah Cherfaoui ; Guillaume Metzler ; Emilie Morvant ; Paul Viallard\
@@ -178,6 +179,11 @@ TRECVID Workshop participants notebook papers, NIST, __2012__\
 [pdf](https://hal.archives-ouvertes.fr/hal-00685530/document) [bibtex](https://hal.archives-ouvertes.fr/hal-00685530/bibtex) 
 
 ## Not Published
+
+- __<titre>PAC-Bayesian Bounds on Constrained f-Entropic Risk Measures</titre>__<br>
+Hind Atbir ; Farah Cherfaoui ; Guillaume Metzler ; Emilie Morvant ; Paul Viallard\
+(https://wimlworkshop.org/)Women in Machine Learning workshop (WiML __2026__), Paris, France.\
+_Presentation of our AISTATS'26_
 
 - __<titre>Interpreting Neural Networks as Majority Votes through the PAC-Bayesian Theory</titre>__ \- Paul Viallard ; Rémi Emonet ; Pascal Germain ; Amaury Habrard ; Emilie Morvant\
       NeurIPS __2019__ Workshop on [Machine Learning with guarantees](https://sites.google.com/view/mlwithguarantees), Vancouver, Canada.\
