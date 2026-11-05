@@ -61,7 +61,7 @@ I obtained my Ph.D. in computer science (machine learning) at the [Laboratoire d
 
 ### Former Ph.D. Students
 
-- __[Paul Viallard](https://paulviallard.github.io/)__ --- _Beyond PAC\-Bayesian Bounds: From Disintegration to Novel Bounds_  (from Sept. 2019 to Dec. 2022, co\-supervised with [Amaury Habrard](https://perso.univ-st-etienne.fr/habrarda/) and [Pascal Germain](https://www.pascalgermain.info/)) --- Now IFSP Inria Rennes
+- __[Paul Viallard](https://paulviallard.github.io/)__ --- _Beyond PAC\-Bayesian Bounds: From Disintegration to Novel Bounds_  (from Sept. 2019 to Dec. 2022, co\-supervised with [Amaury Habrard](https://perso.univ-st-etienne.fr/habrarda/) and [Pascal Germain](https://www.pascalgermain.info/)) --- Now  (researcher) Inria Rennes
 
 - __[Léo Gautheron](https://leogautheron.github.io/)__ --- _Learning Tailored Data Representations from Few Labeled Examples_ (from Oct. 2017 to Dec. 2020, co\-supervised with [Amaury Habrard](https://perso.univ-st-etienne.fr/habrarda/) and [Marc Sebban](https://perso.univ-st-etienne.fr/sebbanma/)) --- Now Data Science Engineer at Synapse Défense
 

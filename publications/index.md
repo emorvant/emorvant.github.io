@@ -73,7 +73,7 @@ Knowledge and Information Systems (KAIS), 33(2):309-349, __2012__, DOI: 10.1007/
 
 # International Conferences
 
-- __<titre>Mitigating Memorization in Closed-Form Flow Matching with Bootstrap Aggregating</titre>__ \- Circée Chalayer ; Quentin Bertrand ; Emilie Morvant ; Rémi Emonet\ 
+- __<titre>Mitigating Memorization in Closed-Form Flow Matching with Bootstrap Aggregating</titre>__ \- Circée Chalayer ; Quentin Bertrand ; Emilie Morvant ; Rémi Emonet\
 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), __2026__\
 [pdf](https://hal.science/hal-05715450/) [bibtex](https://hal.science/hal-05715450v1/bibtex)
 
